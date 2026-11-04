@@ -1,0 +1,475 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//JP Sport//Fixture Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:JP Sport – Tennis
+X-WR-TIMEZONE:Europe/London
+X-APPLE-CALENDAR-COLOR:#2E7D32
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:53ddb59b1456f4372cc1@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;TZID=Europe/London:20261126T090000
+DTEND;TZID=Europe/London:20261126T120000
+SUMMARY:🎾 Great Britain v Germany (Davis Cup Final 8 2026\, Quarter-fin
+ al)
+LOCATION:SuperTennis Arena\, Bologna\, Italy
+DESCRIPTION:Davis Cup Final 8 2026 – Quarter-final\nStatus: Confirmed\nS
+ tart: 09:00 UK time\nNote: Scheduled 10:00 CET (= 09:00 GMT) per ITF sche
+ dule\; LTA article states 10:00 GMT - conflict\, verify nearer the day. B
+ est-of-three rubbers\, one day.\nSource: https://tennistourtalk.com/13770
+ 8/schedule-confirmed-for-2026-davis-cup-final-8\nCalendar last rebuilt: 2
+ 0261104
+URL:https://tennistourtalk.com/137708/schedule-confirmed-for-2026-davis-cu
+ p-final-8
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f84c60356a55f4639720@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;TZID=Europe/London:20261128T110000
+DTEND;TZID=Europe/London:20261128T140000
+SUMMARY:🎾 Winner GB v Germany v Winner Austria v Spain (Davis Cup Final
+  8 2026\, Semi-final 2)
+LOCATION:SuperTennis Arena\, Bologna\, Italy
+DESCRIPTION:Davis Cup Final 8 2026 – Semi-final 2\nStatus: Placeholder 
+ – depends on qualification / dates indicative\nStart: 11:00 UK time\nNo
+ te: Only if GB beat Germany. 12:00 CET (= 11:00 GMT)\, indicative.\nSourc
+ e: https://tennistourtalk.com/137708/schedule-confirmed-for-2026-davis-cu
+ p-final-8\nCalendar last rebuilt: 20261104
+URL:https://tennistourtalk.com/137708/schedule-confirmed-for-2026-davis-cu
+ p-final-8
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:858e3c878cf873b1a400@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;TZID=Europe/London:20261129T140000
+DTEND;TZID=Europe/London:20261129T170000
+SUMMARY:🎾 Winner SF1 v Winner SF2 (Davis Cup Final 8 2026\, Final)
+LOCATION:SuperTennis Arena\, Bologna\, Italy
+DESCRIPTION:Davis Cup Final 8 2026 – Final\nStatus: Placeholder – depe
+ nds on qualification / dates indicative\nStart: 14:00 UK time\nNote: Only
+  if GB reach the final. 15:00 CET (= 14:00 GMT)\, indicative.\nSource: ht
+ tps://tennistourtalk.com/137708/schedule-confirmed-for-2026-davis-cup-fin
+ al-8\nCalendar last rebuilt: 20261104
+URL:https://tennistourtalk.com/137708/schedule-confirmed-for-2026-davis-cu
+ p-final-8
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:18db6d5fda6c801bad35@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270201
+SUMMARY:🎾 Australian Open 2027
+LOCATION:Melbourne Park\, Melbourne\, Australia
+DESCRIPTION:Australian Open 2027 – Tournament (main draw)\nStatus: Confi
+ rmed\nNote: Opening Week/qualifying 11-16 Jan 2027.\nSource: https://auso
+ pen.com/node/261931\nCalendar last rebuilt: 20261104
+URL:https://ausopen.com/node/261931
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3fe774876859a25ca9c1@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;TZID=Europe/London:20270130T083000
+DTEND;TZID=Europe/London:20270130T113000
+SUMMARY:🎾 Australian Open 2027 – Women's singles final
+LOCATION:Rod Laver Arena\, Melbourne Park\, Melbourne\, Australia
+DESCRIPTION:Australian Open 2027 – Women's singles final\nStatus: Placeh
+ older – depends on qualification / dates indicative\nStart: 08:30 UK ti
+ me\nNote: Usual scheduled time: Rod Laver Arena night session 19:30 AEDT 
+ (= 08:30 GMT)\, as for the 2026 finals\; confirm in the official order of
+  play.\nSource: https://ausopen.com/node/261931\nCalendar last rebuilt: 2
+ 0261104
+URL:https://ausopen.com/node/261931
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:99d54ed067b6c7e72202@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;TZID=Europe/London:20270131T083000
+DTEND;TZID=Europe/London:20270131T113000
+SUMMARY:🎾 Australian Open 2027 – Men's singles final
+LOCATION:Rod Laver Arena\, Melbourne Park\, Melbourne\, Australia
+DESCRIPTION:Australian Open 2027 – Men's singles final\nStatus: Placehol
+ der – depends on qualification / dates indicative\nStart: 08:30 UK time
+ \nNote: Usual scheduled time: Rod Laver Arena night session 19:30 AEDT (=
+  08:30 GMT)\, as for the 2026 finals\; confirm in the official order of p
+ lay.\nSource: https://ausopen.com/node/261931\nCalendar last rebuilt: 202
+ 61104
+URL:https://ausopen.com/node/261931
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce91ce2a7e487ff49ed6@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270208
+SUMMARY:🎾 Great Britain v TBC (Davis Cup 2027 Qualifiers 1st Round\, Ti
+ e (GB only play if they do not reach the 2026 final))
+DESCRIPTION:Davis Cup 2027 Qualifiers 1st Round – Tie (GB only play if t
+ hey do not reach the 2026 final)\nStatus: Placeholder – depends on qual
+ ification / dates indicative\nNote: Conditional: GB play this round unles
+ s they reach the 2026 final (champions go straight to the 2027 Final 8\, 
+ runners-up are exempt). Opponent\, home/away and venue drawn after the 20
+ 26 Final 8\; ties are played over two days\, 5-6 or 6-7 Feb 2027 (host's 
+ choice).\nSource: https://tennistourtalk.com/137836/draws-announced-for-2
+ 027-davis-cup-world-group-i-and-world-group-ii-play-offs\nCalendar last r
+ ebuilt: 20261104
+URL:https://tennistourtalk.com/137836/draws-announced-for-2027-davis-cup-w
+ orld-group-i-and-world-group-ii-play-offs
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:edfc51acee30a4590869@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270607
+SUMMARY:🎾 Roland-Garros 2027
+LOCATION:Stade Roland-Garros\, Paris\, France
+DESCRIPTION:Roland-Garros 2027 – Tournament (main draw)\nStatus: Confirm
+ ed\nNote: Qualifying 17-21 May 2027. Schedule labelled provisional by org
+ anisers.\nSource: https://www.lta.org.uk/fan-zone/grand-slam/roland-garro
+ s/news/2027/what-is-the-schedule/\nCalendar last rebuilt: 20261104
+URL:https://www.lta.org.uk/fan-zone/grand-slam/roland-garros/news/2027/wha
+ t-is-the-schedule/
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:312c4c9b96069dfc68b7@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;TZID=Europe/London:20270605T140000
+DTEND;TZID=Europe/London:20270605T170000
+SUMMARY:🎾 Roland-Garros 2027 – Women's singles final
+LOCATION:Court Philippe-Chatrier\, Stade Roland-Garros\, Paris\, France
+DESCRIPTION:Roland-Garros 2027 – Women's singles final\nStatus: Placehol
+ der – depends on qualification / dates indicative\nStart: 14:00 UK time
+ \nNote: Usual scheduled time: 15:00 CEST (= 14:00 BST) on Court Philippe-
+ Chatrier\, as for the 2026 finals\; confirm in the official order of play
+ .\nSource: https://www.lta.org.uk/fan-zone/grand-slam/roland-garros/news/
+ 2027/what-is-the-schedule/\nCalendar last rebuilt: 20261104
+URL:https://www.lta.org.uk/fan-zone/grand-slam/roland-garros/news/2027/wha
+ t-is-the-schedule/
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9d819a81642e7d6fff70@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;TZID=Europe/London:20270606T140000
+DTEND;TZID=Europe/London:20270606T170000
+SUMMARY:🎾 Roland-Garros 2027 – Men's singles final
+LOCATION:Court Philippe-Chatrier\, Stade Roland-Garros\, Paris\, France
+DESCRIPTION:Roland-Garros 2027 – Men's singles final\nStatus: Placeholde
+ r – depends on qualification / dates indicative\nStart: 14:00 UK time\n
+ Note: Usual scheduled time: 15:00 CEST (= 14:00 BST) on Court Philippe-Ch
+ atrier\, as for the 2026 finals\; confirm in the official order of play.\
+ nSource: https://www.lta.org.uk/fan-zone/grand-slam/roland-garros/news/20
+ 27/what-is-the-schedule/\nCalendar last rebuilt: 20261104
+URL:https://www.lta.org.uk/fan-zone/grand-slam/roland-garros/news/2027/wha
+ t-is-the-schedule/
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f275e7acc59c71b2c64f@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270614
+SUMMARY:🎾 HSBC Championships 2027 (Queen's\, WTA 500)
+LOCATION:The Queen's Club\, London\, England
+DESCRIPTION:HSBC Championships 2027 (Queen's\, WTA 500) – Tournament (ma
+ in draw)\nStatus: Confirmed\nNote: Women's event 5-13 June incl. qualifyi
+ ng\; main draw week of 7 June per WTA calendar.\nSource: https://www.lta.
+ org.uk/fan-zone/hsbc-championships/news/2027-tickets-sale-dates-announced
+ -for-advantage-priority-window-and-general-sale\nCalendar last rebuilt: 2
+ 0261104
+URL:https://www.lta.org.uk/fan-zone/hsbc-championships/news/2027-tickets-s
+ ale-dates-announced-for-advantage-priority-window-and-general-sale
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5a34d364d3ba34795359@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270621
+SUMMARY:🎾 HSBC Championships 2027 (Queen's\, ATP 500)
+LOCATION:The Queen's Club\, London\, England
+DESCRIPTION:HSBC Championships 2027 (Queen's\, ATP 500) – Tournament (ma
+ in draw)\nStatus: Confirmed\nNote: Men's event 12-20 June incl. qualifyin
+ g\; main draw week of 14 June per ATP calendar.\nSource: https://www.lta.
+ org.uk/fan-zone/hsbc-championships/news/2027-tickets-sale-dates-announced
+ -for-advantage-priority-window-and-general-sale\nCalendar last rebuilt: 2
+ 0261104
+URL:https://www.lta.org.uk/fan-zone/hsbc-championships/news/2027-tickets-s
+ ale-dates-announced-for-advantage-priority-window-and-general-sale
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0fb95995053cce32b4d2@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270621
+SUMMARY:🎾 Lexus Nottingham Open 2027 (WTA 250)
+LOCATION:Nottingham Tennis Centre\, Nottingham\, England
+DESCRIPTION:Lexus Nottingham Open 2027 (WTA 250) – Tournament (main draw
+ )\nStatus: Confirmed\nNote: LTA lists 12-20 June incl. qualifying (provis
+ ional). Men's event is ATP Challenger\, not included.\nSource: https://ww
+ w.wtatennis.com/tournaments/1080/nottingham/2027\nCalendar last rebuilt: 
+ 20261104
+URL:https://www.wtatennis.com/tournaments/1080/nottingham/2027
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e6d8be8c4becbd1b6a6a@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270627
+SUMMARY:🎾 Lexus Eastbourne Open 2027 (ATP 250)
+LOCATION:Devonshire Park\, Eastbourne\, England
+DESCRIPTION:Lexus Eastbourne Open 2027 (ATP 250) – Tournament (main draw
+ )\nStatus: Confirmed\nNote: Event 19-26 June 2027 incl. qualifying\; main
+  draw from week of 21 June per ATP calendar\; final Sat 26 June.\nSource:
+  https://www.lta.org.uk/fan-zone/international/lexus-eastbourne-open\nCal
+ endar last rebuilt: 20261104
+URL:https://www.lta.org.uk/fan-zone/international/lexus-eastbourne-open
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dce68f4cdddd13c29b91@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270627
+SUMMARY:🎾 Lexus Eastbourne Open 2027 (WTA 250)
+LOCATION:Devonshire Park\, Eastbourne\, England
+DESCRIPTION:Lexus Eastbourne Open 2027 (WTA 250) – Tournament (main draw
+ )\nStatus: Confirmed\nNote: Event 19-26 June 2027 incl. qualifying\; main
+  draw from week of 21 June per WTA calendar\; final Sat 26 June.\nSource:
+  https://www.lta.org.uk/fan-zone/international/lexus-eastbourne-open\nCal
+ endar last rebuilt: 20261104
+URL:https://www.lta.org.uk/fan-zone/international/lexus-eastbourne-open
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3c44ced2d6cea5713e88@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270712
+SUMMARY:🎾 Wimbledon 2027
+LOCATION:All England Lawn Tennis Club\, London\, England
+DESCRIPTION:Wimbledon 2027 – Tournament (main draw)\nStatus: Confirmed\n
+ Note: Qualifying 22-25 June 2027 at Roehampton.\nSource: https://www.lta.
+ org.uk/fan-zone/wimbledon-championships/news/preview-player-list-draw-ord
+ er-of-play-scores-and-how-to-watch\nCalendar last rebuilt: 20261104
+URL:https://www.lta.org.uk/fan-zone/wimbledon-championships/news/preview-p
+ layer-list-draw-order-of-play-scores-and-how-to-watch
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:12e697fbbd48c016421c@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;TZID=Europe/London:20270710T160000
+DTEND;TZID=Europe/London:20270710T190000
+SUMMARY:🎾 Wimbledon 2027 – Women's singles final
+LOCATION:Centre Court\, All England Lawn Tennis Club\, London\, England
+DESCRIPTION:Wimbledon 2027 – Women's singles final\nStatus: Placeholder 
+ – depends on qualification / dates indicative\nStart: 16:00 UK time\nNo
+ te: Usual scheduled time: 16:00 BST on Centre Court (start moved from 14:
+ 00 to 16:00 in 2025 and kept in 2026)\; confirm in the official order of 
+ play.\nSource: https://www.lta.org.uk/fan-zone/wimbledon-championships/ne
+ ws/preview-player-list-draw-order-of-play-scores-and-how-to-watch\nCalend
+ ar last rebuilt: 20261104
+URL:https://www.lta.org.uk/fan-zone/wimbledon-championships/news/preview-p
+ layer-list-draw-order-of-play-scores-and-how-to-watch
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:853321be9257991522c0@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;TZID=Europe/London:20270711T160000
+DTEND;TZID=Europe/London:20270711T190000
+SUMMARY:🎾 Wimbledon 2027 – Men's singles final
+LOCATION:Centre Court\, All England Lawn Tennis Club\, London\, England
+DESCRIPTION:Wimbledon 2027 – Men's singles final\nStatus: Placeholder 
+ – depends on qualification / dates indicative\nStart: 16:00 UK time\nNo
+ te: Usual scheduled time: 16:00 BST on Centre Court (start moved from 14:
+ 00 to 16:00 in 2025 and kept in 2026)\; confirm in the official order of 
+ play.\nSource: https://www.lta.org.uk/fan-zone/wimbledon-championships/ne
+ ws/preview-player-list-draw-order-of-play-scores-and-how-to-watch\nCalend
+ ar last rebuilt: 20261104
+URL:https://www.lta.org.uk/fan-zone/wimbledon-championships/news/preview-p
+ layer-list-draw-order-of-play-scores-and-how-to-watch
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:591e39029fa60e034e66@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270913
+SUMMARY:🎾 US Open 2027
+LOCATION:USTA Billie Jean King National Tennis Center\, New York\, USA
+DESCRIPTION:US Open 2027 – Tournament (main draw)\nStatus: Confirmed\nNo
+ te: Start date from the official ATP/WTA 2027 calendars (Sunday start as 
+ in 2025-26)\; end date = 15-day schedule.\nSource: https://www.atptour.co
+ m/-/media/files/calendar-pdfs/2026/2027-atp-tour-calendar-14-january-2026
+ .pdf\nCalendar last rebuilt: 20261104
+URL:https://www.atptour.com/-/media/files/calendar-pdfs/2026/2027-atp-tour
+ -calendar-14-january-2026.pdf
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ab4979821b09b065b5c7@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;TZID=Europe/London:20270911T210000
+DTEND;TZID=Europe/London:20270912T000000
+SUMMARY:🎾 US Open 2027 – Women's singles final
+LOCATION:Arthur Ashe Stadium\, New York\, USA
+DESCRIPTION:US Open 2027 – Women's singles final\nStatus: Placeholder 
+ – depends on qualification / dates indicative\nStart: 21:00 UK time\nNo
+ te: Usual scheduled time: Saturday 16:00 EDT (= 21:00 BST)\, as for 2026\
+ ; confirm in the official order of play.\nSource: https://www.atptour.com
+ /-/media/files/calendar-pdfs/2026/2027-atp-tour-calendar-14-january-2026.
+ pdf\nCalendar last rebuilt: 20261104
+URL:https://www.atptour.com/-/media/files/calendar-pdfs/2026/2027-atp-tour
+ -calendar-14-january-2026.pdf
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:875df9e0fe144e0ec7e7@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;TZID=Europe/London:20270912T190000
+DTEND;TZID=Europe/London:20270912T220000
+SUMMARY:🎾 US Open 2027 – Men's singles final
+LOCATION:Arthur Ashe Stadium\, New York\, USA
+DESCRIPTION:US Open 2027 – Men's singles final\nStatus: Placeholder – 
+ depends on qualification / dates indicative\nStart: 19:00 UK time\nNote: 
+ Usual scheduled time: Sunday 14:00 EDT (= 19:00 BST)\, as for 2026\; conf
+ irm in the official order of play.\nSource: https://www.atptour.com/-/med
+ ia/files/calendar-pdfs/2026/2027-atp-tour-calendar-14-january-2026.pdf\nC
+ alendar last rebuilt: 20261104
+URL:https://www.atptour.com/-/media/files/calendar-pdfs/2026/2027-atp-tour
+ -calendar-14-january-2026.pdf
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:46be36c0dbbc01168c1a@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;VALUE=DATE:20280528
+DTEND;VALUE=DATE:20280612
+SUMMARY:🎾 Roland-Garros 2028 · dates TBC
+LOCATION:Stade Roland-Garros\, Paris\, France
+DESCRIPTION:Roland-Garros 2028 – Tournament (main draw)\nStatus: Weekend
+  window only – exact day and time to be confirmed\nNote: Dates NOT offi
+ cially announced: projected (final Sun 11 June 2028 per press reports). C
+ heck rolandgarros.com.\nSource: https://tennisnow.com/2028-olympic-tennis
+ -begins-three-days-after-wimbledon-mens-final-everything-you-need-to-know
+ -about-the-schedule/\nCalendar last rebuilt: 20261104
+URL:https://tennisnow.com/2028-olympic-tennis-begins-three-days-after-wimb
+ ledon-mens-final-everything-you-need-to-know-about-the-schedule/
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e3f788a1cdee406d25e3@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;VALUE=DATE:20280703
+DTEND;VALUE=DATE:20280717
+SUMMARY:🎾 Wimbledon 2028 · dates TBC
+LOCATION:All England Lawn Tennis Club\, London\, England
+DESCRIPTION:Wimbledon 2028 – Tournament (main draw)\nStatus: Weekend win
+ dow only – exact day and time to be confirmed\nNote: Dates NOT official
+ ly announced by AELTC: projected 3-16 July 2028 if the traditional patter
+ n holds (LA 2028 Olympic tennis from 19 July).\nSource: https://www.punto
+ debreak.com/en/2026/07/25/angeles-2028-puts-tennis-against-the-ropes-wimb
+ ledon-the-games-and-an-impossible-calendar\nCalendar last rebuilt: 202611
+ 04
+URL:https://www.puntodebreak.com/en/2026/07/25/angeles-2028-puts-tennis-ag
+ ainst-the-ropes-wimbledon-the-games-and-an-impossible-calendar
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0984dbd3099410cebfdb@jp-sport-calendar
+DTSTAMP:20261104T160102Z
+DTSTART;VALUE=DATE:20280827
+DTEND;VALUE=DATE:20280911
+SUMMARY:🎾 US Open 2028 · dates TBC
+LOCATION:USTA Billie Jean King National Tennis Center\, New York\, USA
+DESCRIPTION:US Open 2028 – Tournament (main draw)\nStatus: Weekend windo
+ w only – exact day and time to be confirmed\nNote: Dates NOT officially
+  announced: projected late Aug-mid Sep 2028 (press projection gives 28 Au
+ g start\; 2025-27 editions start on Sunday). Check usopen.org.\nSource: h
+ ttps://www.puntodebreak.com/en/2026/07/25/angeles-2028-puts-tennis-agains
+ t-the-ropes-wimbledon-the-games-and-an-impossible-calendar\nCalendar last
+  rebuilt: 20261104
+URL:https://www.puntodebreak.com/en/2026/07/25/angeles-2028-puts-tennis-ag
+ ainst-the-ropes-wimbledon-the-games-and-an-impossible-calendar
+CATEGORIES:Tennis\,Tennis
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
