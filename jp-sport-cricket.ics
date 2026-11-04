@@ -1,0 +1,390 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//JP Sport//Fixture Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:JP Sport – Cricket
+X-WR-TIMEZONE:Europe/London
+X-APPLE-CALENDAR-COLOR:#0D47A1
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:70ccc0267c302bc27bbd@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:🏏 Sri Lanka v England (England Women tour of Sri Lanka 2027\, 1
+ st T20I) · time TBC
+LOCATION:Pallekele International Cricket Stadium\, Kandy\, Sri Lanka
+DESCRIPTION:England Women tour of Sri Lanka 2027 – 1st T20I\nStatus: Dat
+ e confirmed – kick-off/start time not yet published\nNote: Start time n
+ ot yet published\nSource: https://www.icc-cricket.com/news/sri-lanka-to-h
+ ost-england-for-white-ball-series-in-2027\nCalendar last rebuilt: 2026110
+ 4
+URL:https://www.icc-cricket.com/news/sri-lanka-to-host-england-for-white-b
+ all-series-in-2027
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9602ed311309d457c936@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:🏏 Sri Lanka v England (England Women tour of Sri Lanka 2027\, 2
+ nd T20I) · time TBC
+LOCATION:Pallekele International Cricket Stadium\, Kandy\, Sri Lanka
+DESCRIPTION:England Women tour of Sri Lanka 2027 – 2nd T20I\nStatus: Dat
+ e confirmed – kick-off/start time not yet published\nNote: Start time n
+ ot yet published\nSource: https://www.icc-cricket.com/news/sri-lanka-to-h
+ ost-england-for-white-ball-series-in-2027\nCalendar last rebuilt: 2026110
+ 4
+URL:https://www.icc-cricket.com/news/sri-lanka-to-host-england-for-white-b
+ all-series-in-2027
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:789ed1f1ad0558da04a7@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:🏏 Sri Lanka v England (England Women tour of Sri Lanka 2027\, 3
+ rd T20I) · time TBC
+LOCATION:Pallekele International Cricket Stadium\, Kandy\, Sri Lanka
+DESCRIPTION:England Women tour of Sri Lanka 2027 – 3rd T20I\nStatus: Dat
+ e confirmed – kick-off/start time not yet published\nNote: Start time n
+ ot yet published\nSource: https://www.icc-cricket.com/news/sri-lanka-to-h
+ ost-england-for-white-ball-series-in-2027\nCalendar last rebuilt: 2026110
+ 4
+URL:https://www.icc-cricket.com/news/sri-lanka-to-host-england-for-white-b
+ all-series-in-2027
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:68147d103536c48d2877@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270301
+SUMMARY:🏏 England v TBC (ICC Women's Champions Trophy 2027\, Tournament
+ ) · date TBC
+LOCATION:Cricket Club of India / Vadodara International Cricket Stadium\, 
+ Mumbai / Vadodara\, India
+DESCRIPTION:ICC Women's Champions Trophy 2027 – Tournament\nStatus: Week
+ end window only – exact day and time to be confirmed\nNote: Six-team T2
+ 0 round robin + final 28 Feb\; England qualified. Tournament dates/venues
+  ICC-confirmed (moved from Sri Lanka to India)\; match schedule not yet p
+ ublished\nSource: https://www.icc-cricket.com/news/venues-dates-confirmed
+ -for-inaugural-icc-women-s-champions-trophy\nCalendar last rebuilt: 20261
+ 104
+URL:https://www.icc-cricket.com/news/venues-dates-confirmed-for-inaugural-
+ icc-women-s-champions-trophy
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9d6b7f994a6e0f360ed4@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:🏏 Sri Lanka v England (England Women tour of Sri Lanka 2027\, 1
+ st ODI) · time TBC
+LOCATION:Rangiri Dambulla International Stadium\, Dambulla\, Sri Lanka
+DESCRIPTION:England Women tour of Sri Lanka 2027 – 1st ODI\nStatus: Date
+  confirmed – kick-off/start time not yet published\nNote: Start time no
+ t yet published\nSource: https://www.icc-cricket.com/news/sri-lanka-to-ho
+ st-england-for-white-ball-series-in-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/news/sri-lanka-to-host-england-for-white-b
+ all-series-in-2027
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1b9e18bd15c8f7c8e0e5@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:🏏 Sri Lanka v England (England Women tour of Sri Lanka 2027\, 2
+ nd ODI) · time TBC
+LOCATION:Rangiri Dambulla International Stadium\, Dambulla\, Sri Lanka
+DESCRIPTION:England Women tour of Sri Lanka 2027 – 2nd ODI\nStatus: Date
+  confirmed – kick-off/start time not yet published\nNote: Start time no
+ t yet published\nSource: https://www.icc-cricket.com/news/sri-lanka-to-ho
+ st-england-for-white-ball-series-in-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/news/sri-lanka-to-host-england-for-white-b
+ all-series-in-2027
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:62704644307ef9bad3c5@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:🏏 Sri Lanka v England (England Women tour of Sri Lanka 2027\, 3
+ rd ODI) · time TBC
+LOCATION:Rangiri Dambulla International Stadium\, Dambulla\, Sri Lanka
+DESCRIPTION:England Women tour of Sri Lanka 2027 – 3rd ODI\nStatus: Date
+  confirmed – kick-off/start time not yet published\nNote: Start time no
+ t yet published\nSource: https://www.icc-cricket.com/news/sri-lanka-to-ho
+ st-england-for-white-ball-series-in-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/news/sri-lanka-to-host-england-for-white-b
+ all-series-in-2027
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3d5ebec59dab3ccb0693@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;TZID=Europe/London:20270624T110000
+DTEND;TZID=Europe/London:20270624T180000
+RRULE:FREQ=DAILY;COUNT=4
+SUMMARY:🏏 England v Australia (Women's Ashes 2027\, Test)
+LOCATION:Headingley\, Leeds\, England
+DESCRIPTION:Women's Ashes 2027 – Test\nStatus: Confirmed\nStart: 11:00 U
+ K time\nMatch runs Thu 24 Jun – Sun 27 Jun 2027\nNote: Four-day Test\nS
+ ource: https://www.ecb.co.uk/news/4539854\nCalendar last rebuilt: 2026110
+ 4
+URL:https://www.ecb.co.uk/news/4539854
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f104b1a4356d650b1198@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;TZID=Europe/London:20270703T190000
+DTEND;TZID=Europe/London:20270703T223000
+SUMMARY:🏏 England v Australia (Women's Ashes 2027\, 1st T20I)
+LOCATION:Trent Bridge\, Nottingham\, England
+DESCRIPTION:Women's Ashes 2027 – 1st T20I\nStatus: Confirmed\nStart: 19:
+ 00 UK time\nSource: https://www.ecb.co.uk/news/4539854\nCalendar last reb
+ uilt: 20261104
+URL:https://www.ecb.co.uk/news/4539854
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd5b5da6319ee27d020@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;TZID=Europe/London:20270706T183000
+DTEND;TZID=Europe/London:20270706T220000
+SUMMARY:🏏 England v Australia (Women's Ashes 2027\, 2nd T20I)
+LOCATION:The Oval\, London\, England
+DESCRIPTION:Women's Ashes 2027 – 2nd T20I\nStatus: Confirmed\nStart: 18:
+ 30 UK time\nSource: https://www.ecb.co.uk/news/4539854\nCalendar last reb
+ uilt: 20261104
+URL:https://www.ecb.co.uk/news/4539854
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6c38fa70d1e3f2a1e7a7@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;TZID=Europe/London:20270709T190000
+DTEND;TZID=Europe/London:20270709T223000
+SUMMARY:🏏 England v Australia (Women's Ashes 2027\, 3rd T20I)
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:Women's Ashes 2027 – 3rd T20I\nStatus: Confirmed\nStart: 19:
+ 00 UK time\nSource: https://www.ecb.co.uk/news/4539854\nCalendar last reb
+ uilt: 20261104
+URL:https://www.ecb.co.uk/news/4539854
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dabb9492f8c1abfc8811@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;TZID=Europe/London:20270713T130000
+DTEND;TZID=Europe/London:20270713T210000
+SUMMARY:🏏 England v Australia (Women's Ashes 2027\, 1st ODI)
+LOCATION:Rose Bowl\, Southampton\, England
+DESCRIPTION:Women's Ashes 2027 – 1st ODI\nStatus: Confirmed\nStart: 13:0
+ 0 UK time\nSource: https://www.ecb.co.uk/news/4539854\nCalendar last rebu
+ ilt: 20261104
+URL:https://www.ecb.co.uk/news/4539854
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bd9cb0f7f18645fd8afd@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;TZID=Europe/London:20270716T130000
+DTEND;TZID=Europe/London:20270716T210000
+SUMMARY:🏏 England v Australia (Women's Ashes 2027\, 2nd ODI)
+LOCATION:Lord's\, London\, England
+DESCRIPTION:Women's Ashes 2027 – 2nd ODI\nStatus: Confirmed\nStart: 13:0
+ 0 UK time\nSource: https://www.ecb.co.uk/news/4539854\nCalendar last rebu
+ ilt: 20261104
+URL:https://www.ecb.co.uk/news/4539854
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1f98e3b27a23d492eb5e@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;TZID=Europe/London:20270720T130000
+DTEND;TZID=Europe/London:20270720T210000
+SUMMARY:🏏 England v Australia (Women's Ashes 2027\, 3rd ODI)
+LOCATION:Edgbaston\, Birmingham\, England
+DESCRIPTION:Women's Ashes 2027 – 3rd ODI\nStatus: Confirmed\nStart: 13:0
+ 0 UK time\nSource: https://www.ecb.co.uk/news/4539854\nCalendar last rebu
+ ilt: 20261104
+URL:https://www.ecb.co.uk/news/4539854
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d5a76b2c81106a01d344@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270907
+SUMMARY:🏏 The Hundred 2027 (men) · dates TBC
+LOCATION:Various (Edgbaston\, Lord's\, Kia Oval\, Old Trafford\, Headingle
+ y\, Trent Bridge\, Utilita Bowl\, Sophia Gardens)\, Various\, England
+DESCRIPTION:The Hundred 2027 (men) – Tournament (dates not yet announced
+  – expected August)\nStatus: Weekend window only – exact day and time
+  to be confirmed\nNote: Fixtures not yet published. ECB 2027 internationa
+ l schedule leaves 'almost all of August' for The Hundred (gap between end
+  of men's Ashes on 2 Aug and NZ T20Is from 7 Sep). Teams: Birmingham Phoe
+ nix\, London Spirit\, Manchester Super Giants\, MI London\, Southern Brav
+ e\, SunRisers Leeds\, Trent Rockets\, Welsh Fire.\nSource: https://www.wi
+ sden.com/cricket-news/historical-bangladesh-visits-ashes-no-likely-ipl-cl
+ ash-major-talking-points-from-englands-2027-home-schedule\nCalendar last 
+ rebuilt: 20261104
+URL:https://www.wisden.com/cricket-news/historical-bangladesh-visits-ashes
+ -no-likely-ipl-clash-major-talking-points-from-englands-2027-home-schedul
+ e
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:df449f6e9d2d9929e63d@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;TZID=Europe/London:20270908T183000
+DTEND;TZID=Europe/London:20270908T220000
+SUMMARY:🏏 England v Bangladesh (Bangladesh Women tour of England 2027\,
+  1st T20I)
+LOCATION:County Ground\, Northampton\, England
+DESCRIPTION:Bangladesh Women tour of England 2027 – 1st T20I\nStatus: Co
+ nfirmed\nStart: 18:30 UK time\nSource: https://www.ecb.co.uk/news/4539854
+ \nCalendar last rebuilt: 20261104
+URL:https://www.ecb.co.uk/news/4539854
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9006d75153a838e720ba@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;TZID=Europe/London:20270910T183000
+DTEND;TZID=Europe/London:20270910T220000
+SUMMARY:🏏 England v Bangladesh (Bangladesh Women tour of England 2027\,
+  2nd T20I)
+LOCATION:County Ground\, Taunton\, England
+DESCRIPTION:Bangladesh Women tour of England 2027 – 2nd T20I\nStatus: Co
+ nfirmed\nStart: 18:30 UK time\nSource: https://www.ecb.co.uk/news/4539854
+ \nCalendar last rebuilt: 20261104
+URL:https://www.ecb.co.uk/news/4539854
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c8660225da26c6a498ca@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;TZID=Europe/London:20270912T143000
+DTEND;TZID=Europe/London:20270912T180000
+SUMMARY:🏏 England v Bangladesh (Bangladesh Women tour of England 2027\,
+  3rd T20I)
+LOCATION:New Road\, Worcester\, England
+DESCRIPTION:Bangladesh Women tour of England 2027 – 3rd T20I\nStatus: Co
+ nfirmed\nStart: 14:30 UK time\nSource: https://www.ecb.co.uk/news/4539854
+ \nCalendar last rebuilt: 20261104
+URL:https://www.ecb.co.uk/news/4539854
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ef948a0fa1424325c08a@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;TZID=Europe/London:20270917T123000
+DTEND;TZID=Europe/London:20270917T203000
+SUMMARY:🏏 England v Bangladesh (Bangladesh Women tour of England 2027\,
+  1st ODI)
+LOCATION:County Ground\, Hove\, England
+DESCRIPTION:Bangladesh Women tour of England 2027 – 1st ODI\nStatus: Con
+ firmed\nStart: 12:30 UK time\nNote: ICC Women's Championship\nSource: htt
+ ps://www.ecb.co.uk/news/4539854\nCalendar last rebuilt: 20261104
+URL:https://www.ecb.co.uk/news/4539854
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7f303b93f6689d230f9c@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;TZID=Europe/London:20270921T123000
+DTEND;TZID=Europe/London:20270921T203000
+SUMMARY:🏏 England v Bangladesh (Bangladesh Women tour of England 2027\,
+  2nd ODI)
+LOCATION:St Lawrence Ground\, Canterbury\, England
+DESCRIPTION:Bangladesh Women tour of England 2027 – 2nd ODI\nStatus: Con
+ firmed\nStart: 12:30 UK time\nNote: ICC Women's Championship\nSource: htt
+ ps://www.ecb.co.uk/news/4539854\nCalendar last rebuilt: 20261104
+URL:https://www.ecb.co.uk/news/4539854
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fc1fa198e4d55a77f30e@jp-sport-calendar
+DTSTAMP:20261104T162054Z
+DTSTART;TZID=Europe/London:20270924T123000
+DTEND;TZID=Europe/London:20270924T203000
+SUMMARY:🏏 England v Bangladesh (Bangladesh Women tour of England 2027\,
+  3rd ODI)
+LOCATION:County Ground\, Chelmsford\, England
+DESCRIPTION:Bangladesh Women tour of England 2027 – 3rd ODI\nStatus: Con
+ firmed\nStart: 12:30 UK time\nNote: ICC Women's Championship\nSource: htt
+ ps://www.ecb.co.uk/news/4539854\nCalendar last rebuilt: 20261104
+URL:https://www.ecb.co.uk/news/4539854
+CATEGORIES:Cricket\,Cricket
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
