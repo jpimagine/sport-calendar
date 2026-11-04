@@ -27,8 +27,284 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:d1ead453cb442be4d207@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20261113T033000
+DTEND;TZID=Europe/London:20261113T113000
+SUMMARY:🏏 Australia v England – 1st ODI
+LOCATION:Perth Stadium\, Perth\, Australia
+DESCRIPTION:England tour of Australia 2026-27 – 1st ODI\nTeam: England M
+ en (cricket)\nStatus: Confirmed\nStart: 03:30 UK time\nNote: 11:30 AWST l
+ ocal.\nSource: https://www.cricket.com.au/news/4473637/australian-cricket
+ -schedule-2026-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-15
+ 0th-women-fixtures-dates-start-times\nCalendar last rebuilt: 20261104
+URL:https://www.cricket.com.au/news/4473637/australian-cricket-schedule-20
+ 26-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-150th-women-fi
+ xtures-dates-start-times
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a08d4d51e3270ea48806@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20261115T033000
+DTEND;TZID=Europe/London:20261115T113000
+SUMMARY:🏏 Australia v England – 2nd ODI
+LOCATION:Adelaide Oval\, Adelaide\, Australia
+DESCRIPTION:England tour of Australia 2026-27 – 2nd ODI\nTeam: England M
+ en (cricket)\nStatus: Confirmed\nStart: 03:30 UK time\nNote: 14:00 ACDT l
+ ocal.\nSource: https://www.cricket.com.au/news/4473637/australian-cricket
+ -schedule-2026-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-15
+ 0th-women-fixtures-dates-start-times\nCalendar last rebuilt: 20261104
+URL:https://www.cricket.com.au/news/4473637/australian-cricket-schedule-20
+ 26-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-150th-women-fi
+ xtures-dates-start-times
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bfd9688004b6d3b64518@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20261118T033000
+DTEND;TZID=Europe/London:20261118T113000
+SUMMARY:🏏 Australia v England – 3rd ODI
+LOCATION:Bellerive Oval\, Hobart\, Australia
+DESCRIPTION:England tour of Australia 2026-27 – 3rd ODI\nTeam: England M
+ en (cricket)\nStatus: Confirmed\nStart: 03:30 UK time\nNote: 14:30 AEDT l
+ ocal.\nSource: https://www.ninjastadium.com.au/whats-on/australia-v-engla
+ nd-mens-3rd-odi\nCalendar last rebuilt: 20261104
+URL:https://www.ninjastadium.com.au/whats-on/australia-v-england-mens-3rd-
+ odi
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b0cec66af3b7690e0308@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20261121T081500
+DTEND;TZID=Europe/London:20261121T114500
+SUMMARY:🏏 Australia v England – 1st T20I
+LOCATION:Melbourne Cricket Ground\, Melbourne\, Australia
+DESCRIPTION:England tour of Australia 2026-27 – 1st T20I\nTeam: England 
+ Men (cricket)\nStatus: Confirmed\nStart: 08:15 UK time\nNote: 19:15 AEDT 
+ local.\nSource: https://www.cricket.com.au/news/4473637/australian-cricke
+ t-schedule-2026-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-1
+ 50th-women-fixtures-dates-start-times\nCalendar last rebuilt: 20261104
+URL:https://www.cricket.com.au/news/4473637/australian-cricket-schedule-20
+ 26-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-150th-women-fi
+ xtures-dates-start-times
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6e5e595e0ee217b125e8@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20261124T081500
+DTEND;TZID=Europe/London:20261124T114500
+SUMMARY:🏏 Australia v England – 2nd T20I
+LOCATION:Carrara Stadium\, Gold Coast\, Australia
+DESCRIPTION:England tour of Australia 2026-27 – 2nd T20I\nTeam: England 
+ Men (cricket)\nStatus: Confirmed\nStart: 08:15 UK time\nNote: 18:15 AEST 
+ local.\nSource: https://www.cricket.com.au/news/4473637/australian-cricke
+ t-schedule-2026-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-1
+ 50th-women-fixtures-dates-start-times\nCalendar last rebuilt: 20261104
+URL:https://www.cricket.com.au/news/4473637/australian-cricket-schedule-20
+ 26-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-150th-women-fi
+ xtures-dates-start-times
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8cf7636cffd0d6026f6d@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20261127T081500
+DTEND;TZID=Europe/London:20261127T114500
+SUMMARY:🏏 Australia v England – 3rd T20I
+LOCATION:The Gabba\, Brisbane\, Australia
+DESCRIPTION:England tour of Australia 2026-27 – 3rd T20I\nTeam: England 
+ Men (cricket)\nStatus: Confirmed\nStart: 08:15 UK time\nNote: 18:15 AEST 
+ local.\nSource: https://www.cricket.com.au/news/4473637/australian-cricke
+ t-schedule-2026-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-1
+ 50th-women-fixtures-dates-start-times\nCalendar last rebuilt: 20261104
+URL:https://www.cricket.com.au/news/4473637/australian-cricket-schedule-20
+ 26-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-150th-women-fi
+ xtures-dates-start-times
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c388c104ccd3c45d3293@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20261129T081500
+DTEND;TZID=Europe/London:20261129T114500
+SUMMARY:🏏 Australia v England – 4th T20I
+LOCATION:Sydney Cricket Ground\, Sydney\, Australia
+DESCRIPTION:England tour of Australia 2026-27 – 4th T20I\nTeam: England 
+ Men (cricket)\nStatus: Confirmed\nStart: 08:15 UK time\nNote: 19:15 AEDT 
+ local.\nSource: https://www.cricket.com.au/news/4473637/australian-cricke
+ t-schedule-2026-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-1
+ 50th-women-fixtures-dates-start-times\nCalendar last rebuilt: 20261104
+URL:https://www.cricket.com.au/news/4473637/australian-cricket-schedule-20
+ 26-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-150th-women-fi
+ xtures-dates-start-times
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f43bd36c88a73ed3a3ac@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20261202T081500
+DTEND;TZID=Europe/London:20261202T114500
+SUMMARY:🏏 Australia v England – 5th T20I
+LOCATION:Manuka Oval\, Canberra\, Australia
+DESCRIPTION:England tour of Australia 2026-27 – 5th T20I\nTeam: England 
+ Men (cricket)\nStatus: Confirmed\nStart: 08:15 UK time\nNote: 19:15 AEDT 
+ local.\nSource: https://www.cricket.com.au/news/4473637/australian-cricke
+ t-schedule-2026-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-1
+ 50th-women-fixtures-dates-start-times\nCalendar last rebuilt: 20261104
+URL:https://www.cricket.com.au/news/4473637/australian-cricket-schedule-20
+ 26-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-150th-women-fi
+ xtures-dates-start-times
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:85084d943cfdfc73e8e3@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20261217T080000
+DTEND;TZID=Europe/London:20261217T150000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 South Africa v England – 1st Test
+LOCATION:Wanderers Stadium\, Johannesburg\, South Africa
+DESCRIPTION:England tour of South Africa 2026-27 – 1st Test\nTeam: Engla
+ nd Men (cricket)\nStatus: Confirmed\nStart: 08:00 UK time\nMatch runs Thu
+  17 Dec – Mon 21 Dec 2026\nNote: 10:00 SAST local (CSA ticketing).\nSou
+ rce: https://tickets.cricket.co.za/event/south-africa-vs-england-day-1-q3
+ 87d2\nCalendar last rebuilt: 20261104
+URL:https://tickets.cricket.co.za/event/south-africa-vs-england-day-1-q387
+ d2
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:29553a4b0ec8b5e3aee9@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20261226T080000
+DTEND;TZID=Europe/London:20261226T150000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 South Africa v England – 2nd Test (Boxing Day)
+LOCATION:SuperSport Park\, Centurion\, South Africa
+DESCRIPTION:England tour of South Africa 2026-27 – 2nd Test (Boxing Day)
+ \nTeam: England Men (cricket)\nStatus: Confirmed\nStart: 08:00 UK time\nM
+ atch runs Sat 26 Dec – Wed 30 Dec 2026\nNote: 10:00 SAST local (standar
+ d SA Test start\; listed 08:00 UK by khelnow).\nSource: https://www.ecb.c
+ o.uk/news/4455456/fixtures-for-england-mens-202627-tour-to-south-africa-a
+ nnounced\nCalendar last rebuilt: 20261104
+URL:https://www.ecb.co.uk/news/4455456/fixtures-for-england-mens-202627-to
+ ur-to-south-africa-announced
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2d729661264f8eebea0a@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270103T083000
+DTEND;TZID=Europe/London:20270103T153000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 South Africa v England – 3rd Test
+LOCATION:Newlands\, Cape Town\, South Africa
+DESCRIPTION:England tour of South Africa 2026-27 – 3rd Test\nTeam: Engla
+ nd Men (cricket)\nStatus: Confirmed\nStart: 08:30 UK time\nMatch runs Sun
+  03 Jan – Thu 07 Jan 2027\nNote: 10:30 SAST local (CSA ticketing).\nSou
+ rce: https://tickets.cricket.co.za/event/south-africa-vs-england-day-2-89
+ 65m2\nCalendar last rebuilt: 20261104
+URL:https://tickets.cricket.co.za/event/south-africa-vs-england-day-2-8965
+ m2
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac5784969a0f6f6f568@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270110T080000
+DTEND;TZID=Europe/London:20270110T160000
+SUMMARY:🏏 South Africa v England – 1st ODI
+LOCATION:Boland Park\, Paarl\, South Africa
+DESCRIPTION:England tour of South Africa 2026-27 – 1st ODI\nTeam: Englan
+ d Men (cricket)\nStatus: Confirmed\nStart: 08:00 UK time\nNote: 10:00 SAS
+ T local (CSA ticketing).\nSource: https://tickets.cricket.co.za/event/sou
+ th-africa-vs-england-jh787d\nCalendar last rebuilt: 20261104
+URL:https://tickets.cricket.co.za/event/south-africa-vs-england-jh787d
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ed4958d0f62b2bf8acbd@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270113T113000
+DTEND;TZID=Europe/London:20270113T193000
+SUMMARY:🏏 South Africa v England – 2nd ODI (day/night)
+LOCATION:Mangaung Oval\, Bloemfontein\, South Africa
+DESCRIPTION:England tour of South Africa 2026-27 – 2nd ODI (day/night)\n
+ Team: England Men (cricket)\nStatus: Confirmed\nStart: 11:30 UK time\nNot
+ e: 13:30 SAST local (CSA ticketing).\nSource: https://tickets.cricket.co.
+ za/event/south-africa-vs-england-nrq5f0\nCalendar last rebuilt: 20261104
+URL:https://tickets.cricket.co.za/event/south-africa-vs-england-nrq5f0
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9d4f8c44e4de0f54e589@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270115T080000
+DTEND;TZID=Europe/London:20270115T160000
+SUMMARY:🏏 South Africa v England – 3rd ODI
+LOCATION:Mangaung Oval\, Bloemfontein\, South Africa
+DESCRIPTION:England tour of South Africa 2026-27 – 3rd ODI\nTeam: Englan
+ d Men (cricket)\nStatus: Confirmed\nStart: 08:00 UK time\nNote: 10:00 SAS
+ T local (CSA ticketing).\nSource: https://tickets.cricket.co.za/event/sou
+ th-africa-vs-england-cq9e4q\nCalendar last rebuilt: 20261104
+URL:https://tickets.cricket.co.za/event/south-africa-vs-england-cq9e4q
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ba57a01ed87a2198ad9a@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270301
+SUMMARY:🏏 England – Tour of Bangladesh: Test series - dates and venue
+ s TBC
+LOCATION:Bangladesh
+DESCRIPTION:England tour of Bangladesh 2027 – Test series - dates and ve
+ nues TBC\nTeam: England Men (cricket)\nStatus: Placeholder – depends on
+  qualification / dates indicative\nMatch runs Mon 01 Feb – Sun 28 Feb 2
+ 027\nNote: Two-Test series expected in February 2027 (Dhaka and Sylhet re
+ ported)\; dates not yet officially published.\nSource: https://venatour.c
+ o.uk/cricket/england-cricket-tour-to-bangladesh/\nCalendar last rebuilt: 
+ 20261104
+URL:https://venatour.co.uk/cricket/england-cricket-tour-to-bangladesh/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:70ccc0267c302bc27bbd@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:🏏 Sri Lanka v England (England Women tour of Sri Lanka 2027\, 1
@@ -47,7 +323,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:9602ed311309d457c936@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:🏏 Sri Lanka v England (England Women tour of Sri Lanka 2027\, 2
@@ -66,7 +342,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:789ed1f1ad0558da04a7@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:🏏 Sri Lanka v England (England Women tour of Sri Lanka 2027\, 3
@@ -85,7 +361,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:68147d103536c48d2877@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270301
 SUMMARY:🏏 England v TBC (ICC Women's Champions Trophy 2027\, Tournament
@@ -107,7 +383,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:9d6b7f994a6e0f360ed4@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:🏏 Sri Lanka v England (England Women tour of Sri Lanka 2027\, 1
@@ -125,7 +401,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:1b9e18bd15c8f7c8e0e5@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:🏏 Sri Lanka v England (England Women tour of Sri Lanka 2027\, 2
@@ -143,7 +419,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:62704644307ef9bad3c5@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
 SUMMARY:🏏 Sri Lanka v England (England Women tour of Sri Lanka 2027\, 3
@@ -160,8 +436,173 @@ TRANSP:TRANSPARENT
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:a5ccdc957980aa17edb9@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270311T030000
+DTEND;TZID=Europe/London:20270311T100000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 Australia v England – One-off day/night Test
+LOCATION:Melbourne Cricket Ground\, Melbourne\, Australia
+DESCRIPTION:150th Anniversary Test – One-off day/night Test\nTeam: Engla
+ nd Men (cricket)\nStatus: Confirmed\nStart: 03:00 UK time\nMatch runs Thu
+  11 Mar – Mon 15 Mar 2027\nNote: 14:00 AEDT local.\nSource: https://www
+ .cricket.com.au/news/4473637/australian-cricket-schedule-2026-27-summer-t
+ ests-odi-t20i-bangladesh-new-zealand-england-150th-women-fixtures-dates-s
+ tart-times\nCalendar last rebuilt: 20261104
+URL:https://www.cricket.com.au/news/4473637/australian-cricket-schedule-20
+ 26-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-150th-women-fi
+ xtures-dates-start-times
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1243db6b59992ec01f3f@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270515T110000
+DTEND;TZID=Europe/London:20270515T190000
+SUMMARY:🏏 England v Pakistan – 1st ODI
+LOCATION:Utilita Bowl\, Southampton\, England
+DESCRIPTION:Pakistan tour of England 2027 – 1st ODI\nTeam: England Men (
+ cricket)\nStatus: Confirmed\nStart: 11:00 UK time\nSource: https://www.th
+ ecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-and-w
+ omen/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:171526763f096ce2fcdb@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270519T130000
+DTEND;TZID=Europe/London:20270519T210000
+SUMMARY:🏏 England v Pakistan – 2nd ODI
+LOCATION:Emirates Old Trafford\, Manchester\, England
+DESCRIPTION:Pakistan tour of England 2027 – 2nd ODI\nTeam: England Men (
+ cricket)\nStatus: Confirmed\nStart: 13:00 UK time\nSource: https://www.th
+ ecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-and-w
+ omen/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ac2aeadc872bf69ad44c@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270521T110000
+DTEND;TZID=Europe/London:20270521T190000
+SUMMARY:🏏 England v Pakistan – 3rd ODI
+LOCATION:Headingley\, Leeds\, England
+DESCRIPTION:Pakistan tour of England 2027 – 3rd ODI\nTeam: England Men (
+ cricket)\nStatus: Confirmed\nStart: 11:00 UK time\nSource: https://www.th
+ ecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-and-w
+ omen/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a6ef410cdf7cca53aad3@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270523T110000
+DTEND;TZID=Europe/London:20270523T190000
+SUMMARY:🏏 England v Pakistan – 4th ODI
+LOCATION:Banks Homes Riverside\, Chester-le-Street\, England
+DESCRIPTION:Pakistan tour of England 2027 – 4th ODI\nTeam: England Men (
+ cricket)\nStatus: Confirmed\nStart: 11:00 UK time\nSource: https://www.th
+ ecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-and-w
+ omen/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8b096c8ad07ae3c70b65@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270526T130000
+DTEND;TZID=Europe/London:20270526T210000
+SUMMARY:🏏 England v Pakistan – 5th ODI
+LOCATION:Sophia Gardens\, Cardiff\, Wales
+DESCRIPTION:Pakistan tour of England 2027 – 5th ODI\nTeam: England Men (
+ cricket)\nStatus: Confirmed\nStart: 13:00 UK time\nSource: https://www.th
+ ecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-and-w
+ omen/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:73bf56445a2401920185@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270528T110000
+DTEND;TZID=Europe/London:20270528T180000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 England v Bangladesh – One-off Test
+LOCATION:Lord's\, London\, England
+DESCRIPTION:Bangladesh tour of England 2027 – One-off Test\nTeam: Englan
+ d Men (cricket)\nStatus: Confirmed\nStart: 11:00 UK time\nMatch runs Fri 
+ 28 May – Tue 01 Jun 2027\nSource: https://www.thecricketpaper.com/the-a
+ shes-2027-fixtures-confirmed-for-england-men-and-women/\nCalendar last re
+ built: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:30863140f73f71ae712f@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270609T103000
+DTEND;TZID=Europe/London:20270609T173000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 England – ICC World Test Championship Final: Final (only if
+  England qualify)
+LOCATION:Kia Oval\, London\, England
+DESCRIPTION:ICC World Test Championship Final 2027 – Final (only if Engl
+ and qualify)\nTeam: England Men (cricket)\nStatus: Placeholder – depend
+ s on qualification / dates indicative\nStart: 10:30 UK time\nMatch runs W
+ ed 09 Jun – Sun 13 Jun 2027\nNote: 9-13 June 2027 at The Oval confirmed
+ \; England appear only if they qualify. Start time indicative.\nSource: h
+ ttps://khelnow.com/cricket/england-home-schedule-2027-season-202607\nCale
+ ndar last rebuilt: 20261104
+URL:https://khelnow.com/cricket/england-home-schedule-2027-season-202607
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a609b145d9be59266001@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270618T110000
+DTEND;TZID=Europe/London:20270618T180000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 England v Australia – 1st Test
+LOCATION:Trent Bridge\, Nottingham\, England
+DESCRIPTION:The Ashes 2027 – 1st Test\nTeam: England Men (cricket)\nStat
+ us: Confirmed\nStart: 11:00 UK time\nMatch runs Fri 18 Jun – Tue 22 Jun
+  2027\nSource: https://www.eventmasters.co.uk/news/england-mens-2027-inte
+ rnational-schedule-confirmed-with-ashes-pakistan-and-new-zealand-series.h
+ tml\nCalendar last rebuilt: 20261104
+URL:https://www.eventmasters.co.uk/news/england-mens-2027-international-sc
+ hedule-confirmed-with-ashes-pakistan-and-new-zealand-series.html
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:3d5ebec59dab3ccb0693@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;TZID=Europe/London:20270624T110000
 DTEND;TZID=Europe/London:20270624T180000
 RRULE:FREQ=DAILY;COUNT=4
@@ -177,8 +618,27 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:c89c56d660ef2833bd33@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270630T110000
+DTEND;TZID=Europe/London:20270630T180000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 England v Australia – 2nd Test
+LOCATION:Lord's\, London\, England
+DESCRIPTION:The Ashes 2027 – 2nd Test\nTeam: England Men (cricket)\nStat
+ us: Confirmed\nStart: 11:00 UK time\nMatch runs Wed 30 Jun – Sun 04 Jul
+  2027\nSource: https://www.eventmasters.co.uk/news/england-mens-2027-inte
+ rnational-schedule-confirmed-with-ashes-pakistan-and-new-zealand-series.h
+ tml\nCalendar last rebuilt: 20261104
+URL:https://www.eventmasters.co.uk/news/england-mens-2027-international-sc
+ hedule-confirmed-with-ashes-pakistan-and-new-zealand-series.html
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:f104b1a4356d650b1198@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;TZID=Europe/London:20270703T190000
 DTEND;TZID=Europe/London:20270703T223000
 SUMMARY:🏏 England v Australia (Women's Ashes 2027\, 1st T20I)
@@ -193,7 +653,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ccd5b5da6319ee27d020@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;TZID=Europe/London:20270706T183000
 DTEND;TZID=Europe/London:20270706T220000
 SUMMARY:🏏 England v Australia (Women's Ashes 2027\, 2nd T20I)
@@ -207,8 +667,27 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:42dbdb0a3aa094f7ec80@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270708T110000
+DTEND;TZID=Europe/London:20270708T180000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 England v Australia – 3rd Test
+LOCATION:Edgbaston\, Birmingham\, England
+DESCRIPTION:The Ashes 2027 – 3rd Test\nTeam: England Men (cricket)\nStat
+ us: Confirmed\nStart: 11:00 UK time\nMatch runs Thu 08 Jul – Mon 12 Jul
+  2027\nSource: https://www.eventmasters.co.uk/news/england-mens-2027-inte
+ rnational-schedule-confirmed-with-ashes-pakistan-and-new-zealand-series.h
+ tml\nCalendar last rebuilt: 20261104
+URL:https://www.eventmasters.co.uk/news/england-mens-2027-international-sc
+ hedule-confirmed-with-ashes-pakistan-and-new-zealand-series.html
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:6c38fa70d1e3f2a1e7a7@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;TZID=Europe/London:20270709T190000
 DTEND;TZID=Europe/London:20270709T223000
 SUMMARY:🏏 England v Australia (Women's Ashes 2027\, 3rd T20I)
@@ -223,7 +702,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dabb9492f8c1abfc8811@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;TZID=Europe/London:20270713T130000
 DTEND;TZID=Europe/London:20270713T210000
 SUMMARY:🏏 England v Australia (Women's Ashes 2027\, 1st ODI)
@@ -238,7 +717,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bd9cb0f7f18645fd8afd@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;TZID=Europe/London:20270716T130000
 DTEND;TZID=Europe/London:20270716T210000
 SUMMARY:🏏 England v Australia (Women's Ashes 2027\, 2nd ODI)
@@ -253,7 +732,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1f98e3b27a23d492eb5e@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;TZID=Europe/London:20270720T130000
 DTEND;TZID=Europe/London:20270720T210000
 SUMMARY:🏏 England v Australia (Women's Ashes 2027\, 3rd ODI)
@@ -267,8 +746,46 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:cc2ac1c538db59ef151a@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270721T110000
+DTEND;TZID=Europe/London:20270721T180000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 England v Australia – 4th Test
+LOCATION:Utilita Bowl\, Southampton\, England
+DESCRIPTION:The Ashes 2027 – 4th Test\nTeam: England Men (cricket)\nStat
+ us: Confirmed\nStart: 11:00 UK time\nMatch runs Wed 21 Jul – Sun 25 Jul
+  2027\nSource: https://www.eventmasters.co.uk/news/england-mens-2027-inte
+ rnational-schedule-confirmed-with-ashes-pakistan-and-new-zealand-series.h
+ tml\nCalendar last rebuilt: 20261104
+URL:https://www.eventmasters.co.uk/news/england-mens-2027-international-sc
+ hedule-confirmed-with-ashes-pakistan-and-new-zealand-series.html
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a2cff35a9345583396e4@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270729T110000
+DTEND;TZID=Europe/London:20270729T180000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 England v Australia – 5th Test
+LOCATION:Kia Oval\, London\, England
+DESCRIPTION:The Ashes 2027 – 5th Test\nTeam: England Men (cricket)\nStat
+ us: Confirmed\nStart: 11:00 UK time\nMatch runs Thu 29 Jul – Mon 02 Aug
+  2027\nSource: https://www.eventmasters.co.uk/news/england-mens-2027-inte
+ rnational-schedule-confirmed-with-ashes-pakistan-and-new-zealand-series.h
+ tml\nCalendar last rebuilt: 20261104
+URL:https://www.eventmasters.co.uk/news/england-mens-2027-international-sc
+ hedule-confirmed-with-ashes-pakistan-and-new-zealand-series.html
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:d5a76b2c81106a01d344@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;VALUE=DATE:20270803
 DTEND;VALUE=DATE:20270907
 SUMMARY:🏏 The Hundred 2027 (men) · dates TBC
@@ -292,8 +809,25 @@ TRANSP:TRANSPARENT
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:0360f55bdaad6c4fa3ff@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270907T183000
+DTEND;TZID=Europe/London:20270907T220000
+SUMMARY:🏏 England v New Zealand – 1st T20I
+LOCATION:Banks Homes Riverside\, Chester-le-Street\, England
+DESCRIPTION:New Zealand tour of England 2027 – 1st T20I\nTeam: England M
+ en (cricket)\nStatus: Confirmed\nStart: 18:30 UK time\nSource: https://ww
+ w.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-a
+ nd-women/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:df449f6e9d2d9929e63d@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;TZID=Europe/London:20270908T183000
 DTEND;TZID=Europe/London:20270908T220000
 SUMMARY:🏏 England v Bangladesh (Bangladesh Women tour of England 2027\,
@@ -308,8 +842,25 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:c13a708c42b65bb0258f@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270909T183000
+DTEND;TZID=Europe/London:20270909T220000
+SUMMARY:🏏 England v New Zealand – 2nd T20I
+LOCATION:Emirates Old Trafford\, Manchester\, England
+DESCRIPTION:New Zealand tour of England 2027 – 2nd T20I\nTeam: England M
+ en (cricket)\nStatus: Confirmed\nStart: 18:30 UK time\nSource: https://ww
+ w.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-a
+ nd-women/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:9006d75153a838e720ba@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;TZID=Europe/London:20270910T183000
 DTEND;TZID=Europe/London:20270910T220000
 SUMMARY:🏏 England v Bangladesh (Bangladesh Women tour of England 2027\,
@@ -324,8 +875,25 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:f4aa594f1013750b48f4@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270911T143000
+DTEND;TZID=Europe/London:20270911T180000
+SUMMARY:🏏 England v New Zealand – 3rd T20I
+LOCATION:Sophia Gardens\, Cardiff\, Wales
+DESCRIPTION:New Zealand tour of England 2027 – 3rd T20I\nTeam: England M
+ en (cricket)\nStatus: Confirmed\nStart: 14:30 UK time\nSource: https://ww
+ w.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-a
+ nd-women/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:c8660225da26c6a498ca@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;TZID=Europe/London:20270912T143000
 DTEND;TZID=Europe/London:20270912T180000
 SUMMARY:🏏 England v Bangladesh (Bangladesh Women tour of England 2027\,
@@ -340,8 +908,42 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:0452c1e2a218449247f1@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270914T123000
+DTEND;TZID=Europe/London:20270914T203000
+SUMMARY:🏏 England v New Zealand – 1st ODI
+LOCATION:Edgbaston\, Birmingham\, England
+DESCRIPTION:New Zealand tour of England 2027 – 1st ODI\nTeam: England Me
+ n (cricket)\nStatus: Confirmed\nStart: 12:30 UK time\nSource: https://www
+ .thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-an
+ d-women/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:73a812b02dcb2a751ef9@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270916T123000
+DTEND;TZID=Europe/London:20270916T203000
+SUMMARY:🏏 England v New Zealand – 2nd ODI
+LOCATION:Lord's\, London\, England
+DESCRIPTION:New Zealand tour of England 2027 – 2nd ODI\nTeam: England Me
+ n (cricket)\nStatus: Confirmed\nStart: 12:30 UK time\nSource: https://www
+ .thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-an
+ d-women/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ef948a0fa1424325c08a@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;TZID=Europe/London:20270917T123000
 DTEND;TZID=Europe/London:20270917T203000
 SUMMARY:🏏 England v Bangladesh (Bangladesh Women tour of England 2027\,
@@ -356,8 +958,25 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:4f035609072e8389bf68@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270919T103000
+DTEND;TZID=Europe/London:20270919T183000
+SUMMARY:🏏 England v New Zealand – 3rd ODI
+LOCATION:Seat Unique Stadium\, Bristol\, England
+DESCRIPTION:New Zealand tour of England 2027 – 3rd ODI\nTeam: England Me
+ n (cricket)\nStatus: Confirmed\nStart: 10:30 UK time\nSource: https://www
+ .thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-an
+ d-women/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:7f303b93f6689d230f9c@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;TZID=Europe/London:20270921T123000
 DTEND;TZID=Europe/London:20270921T203000
 SUMMARY:🏏 England v Bangladesh (Bangladesh Women tour of England 2027\,
@@ -372,8 +991,25 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:62bc2012e3e83eb017f2@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270922T123000
+DTEND;TZID=Europe/London:20270922T203000
+SUMMARY:🏏 England v New Zealand – 4th ODI
+LOCATION:Trent Bridge\, Nottingham\, England
+DESCRIPTION:New Zealand tour of England 2027 – 4th ODI\nTeam: England Me
+ n (cricket)\nStatus: Confirmed\nStart: 12:30 UK time\nSource: https://www
+ .thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-an
+ d-women/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:fc1fa198e4d55a77f30e@jp-sport-calendar
-DTSTAMP:20261104T162054Z
+DTSTAMP:20261104T162335Z
 DTSTART;TZID=Europe/London:20270924T123000
 DTEND;TZID=Europe/London:20270924T203000
 SUMMARY:🏏 England v Bangladesh (Bangladesh Women tour of England 2027\,
@@ -386,5 +1022,1280 @@ URL:https://www.ecb.co.uk/news/4539854
 CATEGORIES:Cricket\,Cricket
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4410d88ee5339a2404ff@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;TZID=Europe/London:20270925T103000
+DTEND;TZID=Europe/London:20270925T183000
+SUMMARY:🏏 England v New Zealand – 5th ODI
+LOCATION:Headingley\, Leeds\, England
+DESCRIPTION:New Zealand tour of England 2027 – 5th ODI\nTeam: England Me
+ n (cricket)\nStatus: Confirmed\nStart: 10:30 UK time\nSource: https://www
+ .thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-an
+ d-women/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2c4bbc2efabb897d96b6@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+SUMMARY:🏏 Qualifier QF1 v Qualifier QF3 (Cricket World Cup 2027\, Super
+  Series) · time TBC
+LOCATION:Namibia Cricket Ground\, Windhoek\, Namibia
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super Series\nStatus: Dat
+ e confirmed – kick-off/start time not yet published\nNote: Match 1. Sta
+ rt time not yet published. QF1-QF3 = the three Cricket World Cup Qualifie
+ r (22 Feb-23 Mar 2027) teams that do not finish top\; the Super Series wi
+ nner takes the last Group Stage place.\nSource: https://www.icc-cricket.c
+ om/tournaments/icc-cricket-world-cup-2027/news/fixture-schedule-announced
+ -for-icc-men-s-cricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:41f7bc8cab7e14428aab@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271005
+SUMMARY:🏏 Qualifier QF1 v Qualifier QF2 (Cricket World Cup 2027\, Super
+  Series) · time TBC
+LOCATION:Namibia Cricket Ground\, Windhoek\, Namibia
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super Series\nStatus: Dat
+ e confirmed – kick-off/start time not yet published\nNote: Match 2. Sta
+ rt time not yet published. QF1-QF3 = the three Cricket World Cup Qualifie
+ r (22 Feb-23 Mar 2027) teams that do not finish top\; the Super Series wi
+ nner takes the last Group Stage place.\nSource: https://www.icc-cricket.c
+ om/tournaments/icc-cricket-world-cup-2027/news/fixture-schedule-announced
+ -for-icc-men-s-cricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:49377611fe842f32c634@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271007
+SUMMARY:🏏 Qualifier QF2 v Qualifier QF3 (Cricket World Cup 2027\, Super
+  Series) · time TBC
+LOCATION:Namibia Cricket Ground\, Windhoek\, Namibia
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super Series\nStatus: Dat
+ e confirmed – kick-off/start time not yet published\nNote: Match 3. Sta
+ rt time not yet published. QF1-QF3 = the three Cricket World Cup Qualifie
+ r (22 Feb-23 Mar 2027) teams that do not finish top\; the Super Series wi
+ nner takes the last Group Stage place.\nSource: https://www.icc-cricket.c
+ om/tournaments/icc-cricket-world-cup-2027/news/fixture-schedule-announced
+ -for-icc-men-s-cricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5b43bf88c2c2984e8471@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271007
+DTEND;VALUE=DATE:20271008
+SUMMARY:🏏 India v Australia (Cricket World Cup 2027\, Group A) · time 
+ TBC
+LOCATION:Newlands Cricket Ground\, Cape Town\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group A\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 4. Start ti
+ me not yet published.\nSource: https://www.icc-cricket.com/tournaments/ic
+ c-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-cr
+ icket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1e00489d1d70bd08aabf@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:🏏 England v Bangladesh – Group B (ODI) · time TBC
+LOCATION:Namibia Cricket Ground\, Windhoek\, Namibia
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nTeam: England Me
+ n (cricket)\nStatus: Date confirmed – kick-off/start time not yet publi
+ shed\nNote: Start time not officially published by ICC/ECB (media expect 
+ 10:00 local = 09:00 UK BST).\nSource: https://www.ecb.co.uk/news/4585241/
+ england-fixtures-for-2027-icc-mens-cricket-world-cup-announced\nCalendar 
+ last rebuilt: 20261104
+URL:https://www.ecb.co.uk/news/4585241/england-fixtures-for-2027-icc-mens-
+ cricket-world-cup-announced
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dc94c359ceab6af4d9db@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:🏏 Pakistan v Afghanistan (Cricket World Cup 2027\, Group A) · 
+ time TBC
+LOCATION:Centurion\, Centurion (Tshwane)\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group A\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 5. Start ti
+ me not yet published.\nSource: https://www.icc-cricket.com/tournaments/ic
+ c-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-cr
+ icket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8581e06ee36e594f953e@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:🏏 Zimbabwe v Qualifier A (Cricket World Cup 2027\, Group A) · 
+ time TBC
+LOCATION:Queens Sports Club\, Bulawayo\, Zimbabwe
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group A\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 7. Start ti
+ me not yet published.\nSource: https://www.icc-cricket.com/tournaments/ic
+ c-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-cr
+ icket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:39ad8e406fd94823af2c@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:🏏 South Africa v New Zealand (Cricket World Cup 2027\, Group B)
+  · time TBC
+LOCATION:Newlands Cricket Ground\, Cape Town\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 8. Start ti
+ me not yet published.\nSource: https://www.icc-cricket.com/tournaments/ic
+ c-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-cr
+ icket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d9d0f36a17b0337441b4@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:🏏 India v Pakistan (Cricket World Cup 2027\, Group A) · time T
+ BC
+LOCATION:Wanderers Stadium\, Johannesburg\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group A\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 9. Start ti
+ me not yet published.\nSource: https://www.icc-cricket.com/tournaments/ic
+ c-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-cr
+ icket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b3d2015795095030d5ef@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:🏏 Sri Lanka v Qualifier B (Cricket World Cup 2027\, Group B) ·
+  time TBC
+LOCATION:Namibia Cricket Ground\, Windhoek\, Namibia
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 10. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8f4a542f86e2f7c1f15c@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:🏏 Zimbabwe v Afghanistan (Cricket World Cup 2027\, Group A) · 
+ time TBC
+LOCATION:Queens Sports Club\, Bulawayo\, Zimbabwe
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group A\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 11. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e2c1aede562a5fd62103@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:🏏 Australia v Qualifier A (Cricket World Cup 2027\, Group A) ·
+  time TBC
+LOCATION:Boland Park\, Paarl\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group A\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 12. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e6163305e1b5bdb9ccac@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:🏏 New Zealand v Bangladesh (Cricket World Cup 2027\, Group B) 
+ · time TBC
+LOCATION:Buffalo Park\, KuGompo City (East London)\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 13. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b5ff04cb7aadad817de0@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+SUMMARY:🏏 England v Sri Lanka – Group B (ODI) · time TBC
+LOCATION:Namibia Cricket Ground\, Windhoek\, Namibia
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nTeam: England Me
+ n (cricket)\nStatus: Date confirmed – kick-off/start time not yet publi
+ shed\nNote: Start time not officially published by ICC/ECB (media expect 
+ 10:00 local = 09:00 UK BST).\nSource: https://www.ecb.co.uk/news/4585241/
+ england-fixtures-for-2027-icc-mens-cricket-world-cup-announced\nCalendar 
+ last rebuilt: 20261104
+URL:https://www.ecb.co.uk/news/4585241/england-fixtures-for-2027-icc-mens-
+ cricket-world-cup-announced
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4096b3f1f5aee0f426af@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+SUMMARY:🏏 South Africa v Qualifier B (Cricket World Cup 2027\, Group B)
+  · time TBC
+LOCATION:Boland Park\, Paarl\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 15. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cbd0ceac7faa82f15c98@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:🏏 India v Afghanistan (Cricket World Cup 2027\, Group A) · tim
+ e TBC
+LOCATION:Centurion\, Centurion (Tshwane)\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group A\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 16. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a783a1d7c31572a083b9@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:🏏 Pakistan v Qualifier A (Cricket World Cup 2027\, Group A) · 
+ time TBC
+LOCATION:Mangaung Oval\, Bloemfontein\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group A\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 17. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0a3992f6db2b912604d6@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:🏏 Zimbabwe v Australia (Cricket World Cup 2027\, Group A) · ti
+ me TBC
+LOCATION:Harare Sports Club\, Harare\, Zimbabwe
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group A\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 18. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bd63014d80108f97a064@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:🏏 South Africa v England – Group B (ODI) · time TBC
+LOCATION:St George's Park\, Gqeberha\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nTeam: England Me
+ n (cricket)\nStatus: Date confirmed – kick-off/start time not yet publi
+ shed\nNote: Start time not officially published by ICC/ECB (media expect 
+ 10:00 local = 09:00 UK BST).\nSource: https://www.ecb.co.uk/news/4585241/
+ england-fixtures-for-2027-icc-mens-cricket-world-cup-announced\nCalendar 
+ last rebuilt: 20261104
+URL:https://www.ecb.co.uk/news/4585241/england-fixtures-for-2027-icc-mens-
+ cricket-world-cup-announced
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c985dfd7cfb2dc09dc71@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:🏏 Sri Lanka v Bangladesh (Cricket World Cup 2027\, Group B) · 
+ time TBC
+LOCATION:Kingsmead Cricket Ground\, Durban\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 19. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bc17d401b66623899be5@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:🏏 India v Qualifier A (Cricket World Cup 2027\, Group A) · tim
+ e TBC
+LOCATION:Mangaung Oval\, Bloemfontein\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group A\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 21. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c4cc6ee0541d8b60eda7@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:🏏 New Zealand v Qualifier B (Cricket World Cup 2027\, Group B) 
+ · time TBC
+LOCATION:Harare Sports Club\, Harare\, Zimbabwe
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 22. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9df407d84752771fe574@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271019
+SUMMARY:🏏 Australia v Afghanistan (Cricket World Cup 2027\, Group A) ·
+  time TBC
+LOCATION:Buffalo Park\, KuGompo City (East London)\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group A\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 23. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c8bf918a236b9ca66cb5@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271019
+DTEND;VALUE=DATE:20271020
+SUMMARY:🏏 Zimbabwe v Pakistan (Cricket World Cup 2027\, Group A) · tim
+ e TBC
+LOCATION:Harare Sports Club\, Harare\, Zimbabwe
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group A\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 24. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:185625b4d5d5fc79ceb4@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271019
+DTEND;VALUE=DATE:20271020
+SUMMARY:🏏 South Africa v Bangladesh (Cricket World Cup 2027\, Group B) 
+ · time TBC
+LOCATION:Kingsmead Cricket Ground\, Durban\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 25. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:368b6c4ff3297115e390@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:🏏 England v Qualifier B – Group B (ODI) · time TBC
+LOCATION:Harare Sports Club\, Harare\, Zimbabwe
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nTeam: England Me
+ n (cricket)\nStatus: Date confirmed – kick-off/start time not yet publi
+ shed\nNote: Start time not officially published by ICC/ECB (media expect 
+ 10:00 local = 09:00 UK BST).\nSource: https://www.ecb.co.uk/news/4585241/
+ england-fixtures-for-2027-icc-mens-cricket-world-cup-announced\nCalendar 
+ last rebuilt: 20261104
+URL:https://www.ecb.co.uk/news/4585241/england-fixtures-for-2027-icc-mens-
+ cricket-world-cup-announced
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:452a4140cb28bf112eb1@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:🏏 New Zealand v Sri Lanka (Cricket World Cup 2027\, Group B) ·
+  time TBC
+LOCATION:Wanderers Stadium\, Johannesburg\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 26. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3c93bf9a2c2abab34175@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271021
+DTEND;VALUE=DATE:20271022
+SUMMARY:🏏 Afghanistan v Qualifier A (Cricket World Cup 2027\, Group A) 
+ · time TBC
+LOCATION:Buffalo Park\, KuGompo City (East London)\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group A\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 28. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e898b43b5c6afa87c8d7@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271023
+SUMMARY:🏏 Australia v Pakistan (Cricket World Cup 2027\, Group A) · ti
+ me TBC
+LOCATION:Boland Park\, Paarl\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group A\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 29. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:57366846260bdf97d210@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271023
+SUMMARY:🏏 South Africa v Sri Lanka (Cricket World Cup 2027\, Group B) 
+ · time TBC
+LOCATION:Wanderers Stadium\, Johannesburg\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 30. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b16d8a31b798147443b9@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:🏏 England v New Zealand – Group B (ODI) · time TBC
+LOCATION:St George's Park\, Gqeberha\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nTeam: England Me
+ n (cricket)\nStatus: Date confirmed – kick-off/start time not yet publi
+ shed\nNote: Start time not officially published by ICC/ECB (media expect 
+ 10:00 local = 09:00 UK BST).\nSource: https://www.ecb.co.uk/news/4585241/
+ england-fixtures-for-2027-icc-mens-cricket-world-cup-announced\nCalendar 
+ last rebuilt: 20261104
+URL:https://www.ecb.co.uk/news/4585241/england-fixtures-for-2027-icc-mens-
+ cricket-world-cup-announced
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8419c2e62af19cab5a0b@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:🏏 Bangladesh v Qualifier B (Cricket World Cup 2027\, Group B) 
+ · time TBC
+LOCATION:Centurion\, Centurion (Tshwane)\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 32. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1ae537b2b11243f30e7f@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271025
+SUMMARY:🏏 Zimbabwe v India (Cricket World Cup 2027\, Group A) · time T
+ BC
+LOCATION:Mosi-oa-Tunya International Cricket Stadium\, Victoria Falls\, Zi
+ mbabwe
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group A\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 33. Start t
+ ime not yet published.\nSource: https://www.icc-cricket.com/tournaments/i
+ cc-cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-c
+ ricket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5e32891e636b1a9a6f0d@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271026
+SUMMARY:🏏 Australia (A2) v Sri Lanka (B3) (Cricket World Cup 2027\, Sup
+ er 7) · time TBC
+LOCATION:Wanderers Stadium\, Johannesburg\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 34. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f8c81d43803ac985e0fd@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271026
+DTEND;VALUE=DATE:20271027
+SUMMARY:🏏 New Zealand (B1) v Pakistan (A3) (Cricket World Cup 2027\, Su
+ per 7) · time TBC
+LOCATION:St George's Park\, Gqeberha\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 35. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4b7fff88634f4a0a773d@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271112
+SUMMARY:🏏 England – ICC Men's Cricket World Cup: Super 7 stage (if qu
+ alified) - possible dates 27 & 30 Oct\, 2\, 5\, 8 & 11 Nov
+LOCATION:Various\, Various\, South Africa / Zimbabwe
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7 stage (if qualifi
+ ed) - possible dates 27 & 30 Oct\, 2\, 5\, 8 & 11 Nov\nTeam: England Men 
+ (cricket)\nStatus: Placeholder – depends on qualification / dates indic
+ ative\nNote: Per ICC schedule the AB4 slot plays 27 Oct Tshwane\, 30 Oct 
+ Victoria Falls\, 2 Nov Cape Town\, 5 Nov Durban\, 8 Nov Durban\, 11 Nov G
+ qeberha\; England's slot depends on group finish.\nSource: https://www.ic
+ c-cricket.com/tournaments/icc-cricket-world-cup-2027/news/fixture-schedul
+ e-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar last rebuilt: 
+ 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e67769596ed1b6dcae1b@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271028
+SUMMARY:🏏 South Africa (B2) v England (AB4) (Cricket World Cup 2027\, S
+ uper 7) · time TBC
+LOCATION:Centurion\, Centurion (Tshwane)\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 36. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b596c17d4a88811f2ffe@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271028
+DTEND;VALUE=DATE:20271029
+SUMMARY:🏏 India (A1) v Australia (A2) (Cricket World Cup 2027\, Super 7
+ ) · time TBC
+LOCATION:Mosi-oa-Tunya International Cricket Stadium\, Victoria Falls\, Zi
+ mbabwe
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 37. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f2b1194edfa9acad3c5@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:🏏 New Zealand (B1) v Sri Lanka (B3) (Cricket World Cup 2027\, S
+ uper 7) · time TBC
+LOCATION:Buffalo Park\, KuGompo City (East London)\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 38. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f17a331fa99709ebf44d@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271030
+DTEND;VALUE=DATE:20271031
+SUMMARY:🏏 Pakistan (A3) v England (AB4) (Cricket World Cup 2027\, Super
+  7) · time TBC
+LOCATION:Mosi-oa-Tunya International Cricket Stadium\, Victoria Falls\, Zi
+ mbabwe
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 39. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6433f7e86dc362eb7f65@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:🏏 South Africa (B2) v India (A1) (Cricket World Cup 2027\, Supe
+ r 7) · time TBC
+LOCATION:Wanderers Stadium\, Johannesburg\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 40. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dbc24ffd2a5ba8fc483c@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:🏏 Australia (A2) v New Zealand (B1) (Cricket World Cup 2027\, S
+ uper 7) · time TBC
+LOCATION:Mosi-oa-Tunya International Cricket Stadium\, Victoria Falls\, Zi
+ mbabwe
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 41. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:84613d1d460fd4669831@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271102
+DTEND;VALUE=DATE:20271103
+SUMMARY:🏏 Sri Lanka (B3) v England (AB4) (Cricket World Cup 2027\, Supe
+ r 7) · time TBC
+LOCATION:Newlands Cricket Ground\, Cape Town\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 42. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb0e7c3e309894c14514@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271103
+DTEND;VALUE=DATE:20271104
+SUMMARY:🏏 South Africa (B2) v Pakistan (A3) (Cricket World Cup 2027\, S
+ uper 7) · time TBC
+LOCATION:Kingsmead Cricket Ground\, Durban\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 43. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:55c103283ceec69fe81b@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271105
+SUMMARY:🏏 India (A1) v New Zealand (B1) (Cricket World Cup 2027\, Super
+  7) · time TBC
+LOCATION:Boland Park\, Paarl\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 44. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9568b172a21bb836c7d6@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271105
+DTEND;VALUE=DATE:20271106
+SUMMARY:🏏 Australia (A2) v England (AB4) (Cricket World Cup 2027\, Supe
+ r 7) · time TBC
+LOCATION:Kingsmead Cricket Ground\, Durban\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 45. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:497e82d88b6c6d93bd80@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271106
+DTEND;VALUE=DATE:20271107
+SUMMARY:🏏 South Africa (B2) v Sri Lanka (B3) (Cricket World Cup 2027\, 
+ Super 7) · time TBC
+LOCATION:Mangaung Oval\, Bloemfontein\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 46. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9d102322759d426351e9@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+SUMMARY:🏏 India (A1) v Pakistan (A3) (Cricket World Cup 2027\, Super 7)
+  · time TBC
+LOCATION:Newlands Cricket Ground\, Cape Town\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 47. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8f4d872059d4e186c06b@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271108
+DTEND;VALUE=DATE:20271109
+SUMMARY:🏏 New Zealand (B1) v England (AB4) (Cricket World Cup 2027\, Su
+ per 7) · time TBC
+LOCATION:Kingsmead Cricket Ground\, Durban\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 48. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0b0037692e2a74555185@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271109
+DTEND;VALUE=DATE:20271110
+SUMMARY:🏏 South Africa (B2) v Australia (A2) (Cricket World Cup 2027\, 
+ Super 7) · time TBC
+LOCATION:St George's Park\, Gqeberha\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 49. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2a94a0b6007a00e559a6@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:🏏 Pakistan (A3) v Sri Lanka (B3) (Cricket World Cup 2027\, Supe
+ r 7) · time TBC
+LOCATION:Mangaung Oval\, Bloemfontein\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 50. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0cbcf91fe4fd6276f74a@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+SUMMARY:🏏 India (A1) v England (AB4) (Cricket World Cup 2027\, Super 7)
+  · time TBC
+LOCATION:St George's Park\, Gqeberha\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 51. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5413db3a371a0745e99d@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271113
+SUMMARY:🏏 South Africa (B2) v New Zealand (B1) (Cricket World Cup 2027\
+ , Super 7) · time TBC
+LOCATION:Newlands Cricket Ground\, Cape Town\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 52. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb1a924808241fcdb70f@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:🏏 Australia (A2) v Pakistan (A3) (Cricket World Cup 2027\, Supe
+ r 7) · time TBC
+LOCATION:Mangaung Oval\, Bloemfontein\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 53. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:16e91d313105bbd2c220@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+SUMMARY:🏏 India (A1) v Sri Lanka (B3) (Cricket World Cup 2027\, Super 7
+ ) · time TBC
+LOCATION:Kingsmead Cricket Ground\, Durban\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7\nStatus: Date con
+ firmed – kick-off/start time not yet published\nNote: Match 54. Start t
+ ime not yet published. Pre-seeded Super 7 slot\; a displaced pre-seeded t
+ eam's slot passes to the non-seeded team that qualifies instead.\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:43b24fa5735ad91ae46b@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271119
+SUMMARY:🏏 England – ICC Men's Cricket World Cup: Semi-finals (if qual
+ ified) - 17 Nov Cape Town / 18 Nov Centurion
+LOCATION:Cape Town / Centurion\, Various\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Semi-finals (if qualified
+ ) - 17 Nov Cape Town / 18 Nov Centurion\nTeam: England Men (cricket)\nSta
+ tus: Placeholder – depends on qualification / dates indicative\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d81cb78f48df4d8258d2@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271118
+SUMMARY:🏏 Semi-finalist TBC v Semi-finalist TBC (Cricket World Cup 2027
+ \, Semi-final 1) · time TBC
+LOCATION:Newlands Cricket Ground\, Cape Town\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Semi-final 1\nStatus: Dat
+ e confirmed – kick-off/start time not yet published\nNote: Match 55. St
+ art time not yet published. Top four Super 7 teams qualify\; ICC announce
+ ment does not state the semi-final pairings. Reserve day.\nSource: https:
+ //www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/fixture
+ -schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar last r
+ ebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f7fb7a83b98dc62022eb@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271119
+SUMMARY:🏏 Semi-finalist TBC v Semi-finalist TBC (Cricket World Cup 2027
+ \, Semi-final 2) · time TBC
+LOCATION:Centurion\, Centurion (Tshwane)\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Semi-final 2\nStatus: Dat
+ e confirmed – kick-off/start time not yet published\nNote: Match 56. St
+ art time not yet published. Top four Super 7 teams qualify\; ICC announce
+ ment does not state the semi-final pairings. Reserve day.\nSource: https:
+ //www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/fixture
+ -schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar last r
+ ebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ab9d7019e6c9dedbb35b@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271121
+DTEND;VALUE=DATE:20271122
+SUMMARY:🏏 England – ICC Men's Cricket World Cup: Final (if qualified)
+LOCATION:Wanderers Stadium\, Johannesburg\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Final (if qualified)\nTea
+ m: England Men (cricket)\nStatus: Placeholder – depends on qualificatio
+ n / dates indicative\nSource: https://www.icc-cricket.com/tournaments/icc
+ -cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-cri
+ cket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7929f7abe3dd0a8cf2e@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20271121
+DTEND;VALUE=DATE:20271122
+SUMMARY:🏏 Winner SF1 v Winner SF2 (Cricket World Cup 2027\, Final) · t
+ ime TBC
+LOCATION:Wanderers Stadium\, Johannesburg\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Final\nStatus: Date confi
+ rmed – kick-off/start time not yet published\nNote: Match 57. Start tim
+ e not yet published. Reserve day 22 Nov 2027.\nSource: https://www.icc-cr
+ icket.com/tournaments/icc-cricket-world-cup-2027/news/fixture-schedule-an
+ nounced-for-icc-men-s-cricket-world-cup-2027\nCalendar last rebuilt: 2026
+ 1104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a8bce31bc5a53959d4de@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280301
+SUMMARY:🏏 England – Tour of India: 5-Test series - dates and venues T
+ BC
+LOCATION:India
+DESCRIPTION:England tour of India 2027-28 – 5-Test series - dates and ve
+ nues TBC\nTeam: England Men (cricket)\nStatus: Placeholder – depends on
+  qualification / dates indicative\nMatch runs Sat 01 Jan – Tue 29 Feb 2
+ 028\nNote: Five Tests expected Jan-Feb 2028\; dates and venues not yet an
+ nounced.\nSource: https://en.wikipedia.org/wiki/International_cricket_in_
+ 2027%E2%80%9328\nCalendar last rebuilt: 20261104
+URL:https://en.wikipedia.org/wiki/International_cricket_in_2027%E2%80%9328
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:73b8655290d4ec13d90b@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20280907
+DTEND;VALUE=DATE:20281002
+SUMMARY:🏏 ICC Women's T20 World Cup 2028 · dates TBC
+LOCATION:Pakistan
+DESCRIPTION:ICC Women's T20 World Cup 2028 – Tournament\nStatus: Weekend
+  window only – exact day and time to be confirmed\nNote: 12 teams\; dat
+ es reported as finalised in ICC calendar shared with boards (ARY News\, 2
+ 3 Oct 2026)\, no public ICC fixture release yet\; India's matches to be a
+ t a neutral venue\nSource: https://arynews.tv/icc-confirms-dates-for-t20-
+ world-cup-2028-other-events\nCalendar last rebuilt: 20261104
+URL:https://arynews.tv/icc-confirms-dates-for-t20-world-cup-2028-other-eve
+ nts
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae8e3e6e4fdbf1be346c@jp-sport-calendar
+DTSTAMP:20261104T162335Z
+DTSTART;VALUE=DATE:20281012
+DTEND;VALUE=DATE:20281113
+SUMMARY:🏏 ICC Men's T20 World Cup 2028 · dates TBC
+LOCATION:Australia & New Zealand
+DESCRIPTION:ICC Men's T20 World Cup 2028 – Tournament\nStatus: Weekend w
+ indow only – exact day and time to be confirmed\nNote: 20 teams\, ~55 m
+ atches\; dates reported as finalised in ICC calendar shared with boards (
+ ARY News\, 23 Oct 2026)\; venues/fixtures not yet announced (MCG reported
+ ly final)\nSource: https://arynews.tv/icc-confirms-dates-for-t20-world-cu
+ p-2028-other-events\nCalendar last rebuilt: 20261104
+URL:https://arynews.tv/icc-confirms-dates-for-t20-world-cup-2028-other-eve
+ nts
+CATEGORIES:Cricket\,World Cups
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
