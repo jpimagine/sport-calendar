@@ -9,5 +9,6 @@ Subscribe in Apple Calendar (File › New Calendar Subscription), one link per c
 - JP Sport – World Cups: webcal://raw.githubusercontent.com/jpimagine/sport-calendar/main/jp-sport-world-cups.ics
 - JP Sport – Football: webcal://raw.githubusercontent.com/jpimagine/sport-calendar/main/jp-sport-football.ics
 - JP Sport – Tennis (Grand Slams, GB Davis Cup, UK ATP/WTA tour events): webcal://raw.githubusercontent.com/jpimagine/sport-calendar/main/jp-sport-tennis.ics
+- JP Sport – Golf (majors, Ryder & Solheim Cups, tour finales, UK events): webcal://raw.githubusercontent.com/jpimagine/sport-calendar/main/jp-sport-golf.ics
 
 Rebuilt monthly by a scheduled Claude task. All times UK (Europe/London).
