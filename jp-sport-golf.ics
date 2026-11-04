@@ -1,0 +1,617 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//JP Sport//Fixture Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:JP Sport – Golf
+X-WR-TIMEZONE:Europe/London
+X-APPLE-CALENDAR-COLOR:#1B5E20
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a17e224bc187a55bff26@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+SUMMARY:⛳ DP World Tour Championship 2026 (DP World Tour finale)
+LOCATION:Jumeirah Golf Estates (Earth Course)\, Dubai\, UAE
+DESCRIPTION:DP World Tour Championship 2026 (DP World Tour finale) – Tou
+ rnament\nStatus: Confirmed\nSource: https://thegolfnewsnet.com/golfnewsne
+ tteam/2025/11/29/2026-dp-world-tour-schedule-tournaments-dates-purses-and
+ -venues-138581/\nCalendar last rebuilt: 20261104
+URL:https://thegolfnewsnet.com/golfnewsnetteam/2025/11/29/2026-dp-world-to
+ ur-schedule-tournaments-dates-purses-and-venues-138581/
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:895745f2b51633d3da89@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+SUMMARY:⛳ Charles Schwab Cup Championship 2026 (PGA Tour Champions final
+ e)
+LOCATION:Phoenix Country Club\, Phoenix\, Arizona\, USA
+DESCRIPTION:Charles Schwab Cup Championship 2026 (PGA Tour Champions final
+ e) – Tournament\nStatus: Confirmed\nSource: https://www.pgatour.com/pga
+ tour-champions/tournaments/2026/charles-schwab-cup-championship/S2026539\
+ nCalendar last rebuilt: 20261104
+URL:https://www.pgatour.com/pgatour-champions/tournaments/2026/charles-sch
+ wab-cup-championship/S2026539
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ade0e7a2ea8c57d5bf33@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261123
+SUMMARY:⛳ CME Group Tour Championship 2026 (LPGA finale)
+LOCATION:Tiburon Golf Club\, Naples\, Florida\, USA
+DESCRIPTION:CME Group Tour Championship 2026 (LPGA finale) – Tournament\
+ nStatus: Confirmed\nSource: https://www.lpga.com/tournaments/cme-group-to
+ ur-championship/overview\nCalendar last rebuilt: 20261104
+URL:https://www.lpga.com/tournaments/cme-group-tour-championship/overview
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:499a6aceb958a72224da@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261130
+SUMMARY:⛳ Andalucia Costa del Sol Open de Espana 2026 (Ladies European T
+ our finale)
+LOCATION:La Cala Resort (Europa Course)\, Mijas\, Malaga\, Spain
+DESCRIPTION:Andalucia Costa del Sol Open de Espana 2026 (Ladies European T
+ our finale) – Tournament\nStatus: Confirmed\nSource: https://andaluciag
+ olf.com/en/andalucia-costa-del-sol-open-espana-2026/\nCalendar last rebui
+ lt: 20261104
+URL:https://andaluciagolf.com/en/andalucia-costa-del-sol-open-espana-2026/
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:63da160d7f54c1bf5f63@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270412
+SUMMARY:⛳ The Masters 2027 (men's major)
+LOCATION:Augusta National Golf Club\, Augusta\, Georgia\, USA
+DESCRIPTION:The Masters 2027 (men's major) – Tournament\nStatus: Confirm
+ ed\nSource: https://thegolfnewsnet.com/ryan_ballengee/2026/04/07/future-d
+ ates-for-the-masters-through-2021-113001/\nCalendar last rebuilt: 2026110
+ 4
+URL:https://thegolfnewsnet.com/ryan_ballengee/2026/04/07/future-dates-for-
+ the-masters-through-2021-113001/
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7544f34595efbaac0244@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270426
+SUMMARY:⛳ The Chevron Championship 2027 (women's major)
+LOCATION:Memorial Park Golf Course\, Houston\, Texas\, USA
+DESCRIPTION:The Chevron Championship 2027 (women's major) – Tournament\n
+ Status: Confirmed\nNote: LPGA lists tournament week 19-25 Apr\; rounds Th
+ u-Sun.\nSource: https://www.firstcallgolf.com/industry-news/release/2026-
+ 10-07/lpga-tour-announces-2027-schedule\nCalendar last rebuilt: 20261104
+URL:https://www.firstcallgolf.com/industry-news/release/2026-10-07/lpga-to
+ ur-announces-2027-schedule
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:54c459a41ea453d650bd@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270524
+SUMMARY:⛳ PGA Championship 2027 (men's major)
+LOCATION:PGA Frisco\, Frisco\, Texas\, USA
+DESCRIPTION:PGA Championship 2027 (men's major) – Tournament\nStatus: Co
+ nfirmed\nSource: https://www.pgatour.com/article/news/latest/2026/08/26/p
+ ga-tour-announces-2027-schedule-through-tour-championship\nCalendar last 
+ rebuilt: 20261104
+URL:https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announ
+ ces-2027-schedule-through-tour-championship
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d9c7f7c6b22e3b53bb89@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270607
+SUMMARY:⛳ US Women's Open 2027 (women's major)
+LOCATION:Inverness Club\, Toledo\, Ohio\, USA
+DESCRIPTION:US Women's Open 2027 (women's major) – Tournament\nStatus: C
+ onfirmed\nSource: https://thegolfnewsnet.com/ryan_ballengee/2026/09/15/fu
+ ture-us-womens-open-venues-dates-2048-confirmed-speculative-11878/\nCalen
+ dar last rebuilt: 20261104
+URL:https://thegolfnewsnet.com/ryan_ballengee/2026/09/15/future-us-womens-
+ open-venues-dates-2048-confirmed-speculative-11878/
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:eba9f92ea7e56c1e1000@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270621
+SUMMARY:⛳ US Open 2027 (men's major)
+LOCATION:Pebble Beach Golf Links\, Pebble Beach\, California\, USA
+DESCRIPTION:US Open 2027 (men's major) – Tournament\nStatus: Confirmed\n
+ Source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-a
+ nnounces-2027-schedule-through-tour-championship\nCalendar last rebuilt: 
+ 20261104
+URL:https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announ
+ ces-2027-schedule-through-tour-championship
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:029ae16c28faf44dbfb6@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270628
+SUMMARY:⛳ KPMG Women's PGA Championship 2027 (women's major)
+LOCATION:Congressional Country Club\, Bethesda\, Maryland\, USA
+DESCRIPTION:KPMG Women's PGA Championship 2027 (women's major) – Tournam
+ ent\nStatus: Confirmed\nNote: LPGA lists tournament week 21-27 Jun\; roun
+ ds Thu-Sun.\nSource: https://www.firstcallgolf.com/industry-news/release/
+ 2026-10-07/lpga-tour-announces-2027-schedule\nCalendar last rebuilt: 2026
+ 1104
+URL:https://www.firstcallgolf.com/industry-news/release/2026-10-07/lpga-to
+ ur-announces-2027-schedule
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:23debe2cb64797c676cd@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270712
+SUMMARY:⛳ The Amundi Evian Championship 2027 (women's major)
+LOCATION:Evian Resort Golf Club\, Evian-les-Bains\, France
+DESCRIPTION:The Amundi Evian Championship 2027 (women's major) – Tournam
+ ent\nStatus: Confirmed\nNote: LPGA lists tournament week 5-11 Jul\; round
+ s Thu-Sun.\nSource: https://www.firstcallgolf.com/industry-news/release/2
+ 026-10-07/lpga-tour-announces-2027-schedule\nCalendar last rebuilt: 20261
+ 104
+URL:https://www.firstcallgolf.com/industry-news/release/2026-10-07/lpga-to
+ ur-announces-2027-schedule
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:abd162e77aa47e0a96f6@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270712
+SUMMARY:⛳ Genesis Scottish Open 2027 (DP World Tour / PGA Tour)
+LOCATION:The Renaissance Club\, North Berwick\, Scotland
+DESCRIPTION:Genesis Scottish Open 2027 (DP World Tour / PGA Tour) – Tour
+ nament\nStatus: Confirmed\nSource: https://www.pgatour.com/tournaments/20
+ 27/genesis-scottish-open/R2027541/overview\nCalendar last rebuilt: 202611
+ 04
+URL:https://www.pgatour.com/tournaments/2027/genesis-scottish-open/R202754
+ 1/overview
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:045e5a5821c1ace89074@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270719
+SUMMARY:⛳ The Open 2027 (men's major)
+LOCATION:Old Course\, St Andrews\, St Andrews\, Scotland
+DESCRIPTION:The Open 2027 (men's major) – Tournament\nStatus: Confirmed\
+ nNote: 155th Open.\nSource: https://www.pgatour.com/article/news/latest/2
+ 026/08/26/pga-tour-announces-2027-schedule-through-tour-championship\nCal
+ endar last rebuilt: 20261104
+URL:https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announ
+ ces-2027-schedule-through-tour-championship
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9e5decbe760e2dac6975@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270726
+SUMMARY:⛳ The Championship 2027 (LPGA / Ladies European Tour)
+LOCATION:London\, England
+DESCRIPTION:The Championship 2027 (LPGA / Ladies European Tour) – Tourna
+ ment\nStatus: Confirmed\nNote: New co-sanctioned LPGA/LET event (Golf Sau
+ di backed)\, replaces the Women's Scottish Open on the LPGA schedule. LPG
+ A lists week 19-25 Jul\, venue TBA\; rounds assumed Thu-Sun.\nSource: htt
+ ps://www.firstcallgolf.com/industry-news/release/2026-10-07/lpga-tour-ann
+ ounces-2027-schedule\nCalendar last rebuilt: 20261104
+URL:https://www.firstcallgolf.com/industry-news/release/2026-10-07/lpga-to
+ ur-announces-2027-schedule
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c37003286ccd98f62e54@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270726
+SUMMARY:⛳ ISPS Handa Senior Open 2027 (senior major)
+LOCATION:Royal Porthcawl Golf Club\, Porthcawl\, Wales
+DESCRIPTION:ISPS Handa Senior Open 2027 (senior major) – Tournament\nSta
+ tus: Confirmed\nSource: https://www.randa.org/articles/royal-porthcawl-to
+ -host-2027-isps-handa-senior-open\nCalendar last rebuilt: 20261104
+URL:https://www.randa.org/articles/royal-porthcawl-to-host-2027-isps-handa
+ -senior-open
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:56ef297f4584d63fd50e@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270802
+SUMMARY:⛳ AIG Women's Open 2027 (women's major)
+LOCATION:Royal St George's Golf Club\, Sandwich\, Kent\, England
+DESCRIPTION:AIG Women's Open 2027 (women's major) – Tournament\nStatus: 
+ Confirmed\nNote: Championship week 28 Jul-1 Aug\; first visit to Royal St
+  George's.\nSource: https://www.aigwomensopen.com/royal-st-georges-2027\n
+ Calendar last rebuilt: 20261104
+URL:https://www.aigwomensopen.com/royal-st-georges-2027
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2c8a8d150540343dc67d@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270823
+SUMMARY:⛳ Husqvarna British Masters 2027 (DP World Tour)
+LOCATION:The Belfry Hotel & Resort\, Sutton Coldfield\, England
+DESCRIPTION:Husqvarna British Masters 2027 (DP World Tour) – Tournament\
+ nStatus: Confirmed\nNote: Hosted by Sir Nick Faldo.\nSource: https://www.
+ golfmagic.com/tour/dp-world-tour/dp-world-tour-schedule-2027\nCalendar la
+ st rebuilt: 20261104
+URL:https://www.golfmagic.com/tour/dp-world-tour/dp-world-tour-schedule-20
+ 27
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:45dbc098fd71c488f77f@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270830
+SUMMARY:⛳ TOUR Championship 2027 (PGA Tour finale)
+LOCATION:East Lake Golf Club\, Atlanta\, Georgia\, USA
+DESCRIPTION:TOUR Championship 2027 (PGA Tour finale) – Tournament\nStatu
+ s: Confirmed\nNote: FedExCup finale\; PGA Tour lists tournament week 23-2
+ 9 Aug\, rounds Thu-Sun.\nSource: https://www.pgatour.com/article/news/lat
+ est/2026/08/26/pga-tour-announces-2027-schedule-through-tour-championship
+ \nCalendar last rebuilt: 20261104
+URL:https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announ
+ ces-2027-schedule-through-tour-championship
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9f0e0ea9c62c3ab031ab@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270920
+SUMMARY:⛳ Ryder Cup 2027
+LOCATION:Adare Manor\, Adare\, Co. Limerick\, Ireland
+DESCRIPTION:Ryder Cup 2027 – Tournament\nStatus: Confirmed\nNote: Europe
+  v USA. Republic of Ireland.\nSource: https://www.rydercup.com/news-media
+ /dates-announced-for-the-2027-ryder-cup\nCalendar last rebuilt: 20261104
+URL:https://www.rydercup.com/news-media/dates-announced-for-the-2027-ryder
+ -cup
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cf02fca896da14c50155@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270927
+SUMMARY:⛳ BMW PGA Championship 2027 (DP World Tour)
+LOCATION:Wentworth Club\, Virginia Water\, Surrey\, England
+DESCRIPTION:BMW PGA Championship 2027 (DP World Tour) – Tournament\nStat
+ us: Confirmed\nNote: Played the week after the Ryder Cup in 2027.\nSource
+ : https://www.golfmagic.com/tour/dp-world-tour/dp-world-tour-schedule-202
+ 7\nCalendar last rebuilt: 20261104
+URL:https://www.golfmagic.com/tour/dp-world-tour/dp-world-tour-schedule-20
+ 27
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9a73b279b2f21e7e4c2f@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271004
+SUMMARY:⛳ Alfred Dunhill Links Championship 2027 (DP World Tour)
+LOCATION:Old Course St Andrews\, Carnoustie & Kingsbarns\, St Andrews\, Sc
+ otland
+DESCRIPTION:Alfred Dunhill Links Championship 2027 (DP World Tour) – Tou
+ rnament\nStatus: Confirmed\nSource: https://www.golfmagic.com/tour/dp-wor
+ ld-tour/dp-world-tour-schedule-2027\nCalendar last rebuilt: 20261104
+URL:https://www.golfmagic.com/tour/dp-world-tour/dp-world-tour-schedule-20
+ 27
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:166b26b40ba0971cad40@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20271007
+DTEND;VALUE=DATE:20271011
+SUMMARY:⛳ Korn Ferry Tour Championship 2027 (Korn Ferry Tour finale)
+LOCATION:The Federal Club\, Glen Allen\, Virginia\, USA
+DESCRIPTION:Korn Ferry Tour Championship 2027 (Korn Ferry Tour finale) –
+  Tournament\nStatus: Confirmed\nNote: Article gives finale as 7-10 Oct (s
+ chedule table shows week 4-10 Oct).\nSource: https://www.pgatour.com/korn
+ -ferry-tour/article/news/latest/2026/10/21/kornferry-tour-2027-schedule-r
+ elease\nCalendar last rebuilt: 20261104
+URL:https://www.pgatour.com/korn-ferry-tour/article/news/latest/2026/10/21
+ /kornferry-tour-2027-schedule-release
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b58d087e7c75066db8e3@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271115
+SUMMARY:⛳ DP World Tour Championship 2027 (DP World Tour finale)
+LOCATION:Jumeirah Golf Estates (Earth Course)\, Dubai\, UAE
+DESCRIPTION:DP World Tour Championship 2027 (DP World Tour finale) – Tou
+ rnament\nStatus: Confirmed\nSource: https://www.golfmagic.com/tour/dp-wor
+ ld-tour/dp-world-tour-schedule-2027\nCalendar last rebuilt: 20261104
+URL:https://www.golfmagic.com/tour/dp-world-tour/dp-world-tour-schedule-20
+ 27
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fda207b12fc5427624eb@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271115
+SUMMARY:⛳ Charles Schwab Cup Championship 2027 (PGA Tour Champions final
+ e)
+LOCATION:Papago Golf Club\, Phoenix\, Arizona\, USA
+DESCRIPTION:Charles Schwab Cup Championship 2027 (PGA Tour Champions final
+ e) – Tournament\nStatus: Confirmed\nNote: Moves from Phoenix Country Cl
+ ub to Papago. Dates as reported (Fri-Sun)\; check nearer the time.\nSourc
+ e: https://www.golfchannel.com/pga-tour-champions/news/pga-tour-champions
+ -2027-schedule-opens-with-back-to-back-hawaii-stops\nCalendar last rebuil
+ t: 20261104
+URL:https://www.golfchannel.com/pga-tour-champions/news/pga-tour-champions
+ -2027-schedule-opens-with-back-to-back-hawaii-stops
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b9c41a72675160fa944a@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271122
+SUMMARY:⛳ CME Group Tour Championship 2027 (LPGA finale)
+LOCATION:Tiburon Golf Club\, Naples\, Florida\, USA
+DESCRIPTION:CME Group Tour Championship 2027 (LPGA finale) – Tournament\
+ nStatus: Confirmed\nNote: LPGA lists tournament week 15-21 Nov\; rounds T
+ hu-Sun.\nSource: https://www.firstcallgolf.com/industry-news/release/2026
+ -10-07/lpga-tour-announces-2027-schedule\nCalendar last rebuilt: 20261104
+URL:https://www.firstcallgolf.com/industry-news/release/2026-10-07/lpga-to
+ ur-announces-2027-schedule
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:062aaa628843cafb887a@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20280406
+DTEND;VALUE=DATE:20280410
+SUMMARY:⛳ The Masters 2028 (men's major)
+LOCATION:Augusta National Golf Club\, Augusta\, Georgia\, USA
+DESCRIPTION:The Masters 2028 (men's major) – Tournament\nStatus: Confirm
+ ed\nNote: Dates announced by Augusta National (future dates through 2031)
+ .\nSource: https://thegolfnewsnet.com/ryan_ballengee/2026/04/07/future-da
+ tes-for-the-masters-through-2021-113001/\nCalendar last rebuilt: 20261104
+URL:https://thegolfnewsnet.com/ryan_ballengee/2026/04/07/future-dates-for-
+ the-masters-through-2021-113001/
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bf06a83a86ad65bd924d@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20280518
+DTEND;VALUE=DATE:20280522
+SUMMARY:⛳ PGA Championship 2028 (men's major)
+LOCATION:The Olympic Club (Lake Course)\, San Francisco\, California\, USA
+DESCRIPTION:PGA Championship 2028 (men's major) – Tournament\nStatus: Co
+ nfirmed\nSource: https://thegolfnewsnet.com/ryan_ballengee/2026/05/16/fut
+ ure-golf-major-championship-venues-sites-dates-masters-us-open-british-op
+ en-pga-championship-101077/\nCalendar last rebuilt: 20261104
+URL:https://thegolfnewsnet.com/ryan_ballengee/2026/05/16/future-golf-major
+ -championship-venues-sites-dates-masters-us-open-british-open-pga-champio
+ nship-101077/
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:aed995eabd7cd9112849@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20280601
+DTEND;VALUE=DATE:20280605
+SUMMARY:⛳ US Women's Open 2028 (women's major)
+LOCATION:Oakmont Country Club\, Oakmont\, Pennsylvania\, USA
+DESCRIPTION:US Women's Open 2028 (women's major) – Tournament\nStatus: C
+ onfirmed\nSource: https://thegolfnewsnet.com/ryan_ballengee/2026/09/15/fu
+ ture-us-womens-open-venues-dates-2048-confirmed-speculative-11878/\nCalen
+ dar last rebuilt: 20261104
+URL:https://thegolfnewsnet.com/ryan_ballengee/2026/09/15/future-us-womens-
+ open-venues-dates-2048-confirmed-speculative-11878/
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:94b87feb11692fd9428c@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280619
+SUMMARY:⛳ US Open 2028 (men's major)
+LOCATION:Winged Foot Golf Club (West Course)\, Mamaroneck\, New York\, USA
+DESCRIPTION:US Open 2028 (men's major) – Tournament\nStatus: Confirmed\n
+ Source: https://thegolfnewsnet.com/ryan_ballengee/2026/05/16/future-golf-
+ major-championship-venues-sites-dates-masters-us-open-british-open-pga-ch
+ ampionship-101077/\nCalendar last rebuilt: 20261104
+URL:https://thegolfnewsnet.com/ryan_ballengee/2026/05/16/future-golf-major
+ -championship-venues-sites-dates-masters-us-open-british-open-pga-champio
+ nship-101077/
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9c041472d443197ef033@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20280803
+DTEND;VALUE=DATE:20280807
+SUMMARY:⛳ The Open 2028 (men's major)
+LOCATION:Royal Lytham & St Annes\, Lytham St Annes\, England
+DESCRIPTION:The Open 2028 (men's major) – Tournament\nStatus: Confirmed\
+ nNote: 156th Open. Moved to August for 2028 only (LA Olympics)\; R&A cham
+ pionship week 30 Jul-6 Aug\, play Thu-Sun 3-6 Aug.\nSource: https://golfb
+ usinessnews.com/news/sponsorship-and-events/royal-lytham-st-annes-to-host
+ -open-championship-in-2028/\nCalendar last rebuilt: 20261104
+URL:https://golfbusinessnews.com/news/sponsorship-and-events/royal-lytham-
+ st-annes-to-host-open-championship-in-2028/
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d5c928ad5d4c5b0650eb@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20280810
+DTEND;VALUE=DATE:20280814
+SUMMARY:⛳ ISPS Handa Senior Open 2028 (senior major)
+LOCATION:United Kingdom
+DESCRIPTION:ISPS Handa Senior Open 2028 (senior major) – Tournament\nSta
+ tus: Confirmed\nNote: R&A championship week 7-13 Aug 2028\, rounds Thu-Su
+ n\; venue not yet announced.\nSource: https://www.randa.org/articles/the-
+ r-a-confirms-the-dates-for-its-2028-major-championships\nCalendar last re
+ built: 20261104
+URL:https://www.randa.org/articles/the-r-a-confirms-the-dates-for-its-2028
+ -major-championships
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cdaec197c05e73ca7fea@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20280817
+DTEND;VALUE=DATE:20280821
+SUMMARY:⛳ AIG Women's Open 2028 (women's major)
+LOCATION:Sunningdale Golf Club (Old Course)\, Sunningdale\, Berkshire\, En
+ gland
+DESCRIPTION:AIG Women's Open 2028 (women's major) – Tournament\nStatus: 
+ Confirmed\nNote: R&A championship week 14-20 Aug 2028 (moved for LA Olymp
+ ics).\nSource: https://thegolfnewsnet.com/golfnewsnetteam/2026/04/28/engl
+ ands-venerable-sunningdale-to-host-2028-aig-womens-open-142495/\nCalendar
+  last rebuilt: 20261104
+URL:https://thegolfnewsnet.com/golfnewsnetteam/2026/04/28/englands-venerab
+ le-sunningdale-to-host-2028-aig-womens-open-142495/
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ce5f8d6e4caa7ce8e0a3@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20280901
+DTEND;VALUE=DATE:20280904
+SUMMARY:⛳ Curtis Cup 2028
+LOCATION:Royal Dornoch Golf Club (Championship Course)\, Dornoch\, Scotlan
+ d
+DESCRIPTION:Curtis Cup 2028 – Tournament\nStatus: Confirmed\nNote: Women
+ 's amateur: GB&I v USA.\nSource: https://royaldornoch.com/2026/08/14/date
+ s-revealed-for-2028-curtis-cup/\nCalendar last rebuilt: 20261104
+URL:https://royaldornoch.com/2026/08/14/dates-revealed-for-2028-curtis-cup
+ /
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9281c5ef0cf753988243@jp-sport-calendar
+DTSTAMP:20261104T160932Z
+DTSTART;VALUE=DATE:20280908
+DTEND;VALUE=DATE:20280911
+SUMMARY:⛳ Solheim Cup 2028
+LOCATION:Valhalla Golf Club\, Louisville\, Kentucky\, USA
+DESCRIPTION:Solheim Cup 2028 – Tournament\nStatus: Confirmed\nNote: Euro
+ pe v USA.\nSource: https://www.firstcallgolf.com/industry-news/release/20
+ 25-10-01/official-dates-unveiled-for-2028-solheim-cup\nCalendar last rebu
+ ilt: 20261104
+URL:https://www.firstcallgolf.com/industry-news/release/2025-10-01/officia
+ l-dates-unveiled-for-2028-solheim-cup
+CATEGORIES:Golf\,Golf
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
