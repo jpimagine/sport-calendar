@@ -1,0 +1,1827 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//JP Sport//Fixture Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:JP Sport
+X-WR-TIMEZONE:Europe/London
+X-APPLE-CALENDAR-COLOR:#C8102E
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e55a34e98ff10a09a1e7@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261107T150000
+DTEND;TZID=Europe/London:20261107T170000
+SUMMARY:🏉 Saracens v Newcastle Red Bulls (PREM Rugby Cup)
+LOCATION:StoneX Stadium\, London\, England
+DESCRIPTION:PREM Rugby Cup – Pool B Round 3\nTeam: Saracens Men\nStatus:
+  Confirmed\nStart: 15:00 UK time\nSource: https://saracens.com/wp-content
+ /uploads/2026/07/2627-FixtureList-V4-white.pdf\nCalendar last rebuilt: 20
+ 261104
+URL:https://saracens.com/wp-content/uploads/2026/07/2627-FixtureList-V4-wh
+ ite.pdf
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:feaaac4ac36fd259227e@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261108T151000
+DTEND;TZID=Europe/London:20261108T171000
+SUMMARY:🏉 England v Australia (Nations Championship 2026)
+LOCATION:Allianz Stadium\, Twickenham\, England
+DESCRIPTION:Nations Championship 2026 – Round 4\nTeam: England Men\nStat
+ us: Confirmed\nStart: 15:10 UK time\nSource: https://help.englandrugby.co
+ m/support/solutions/articles/103000350147-nations-championship-2026-engla
+ nd-v-australia-sunday-8th-november-2026\nCalendar last rebuilt: 20261104
+URL:https://help.englandrugby.com/support/solutions/articles/103000350147-
+ nations-championship-2026-england-v-australia-sunday-8th-november-2026
+CATEGORIES:Rugby\,England Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d1ead453cb442be4d207@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261113T033000
+DTEND;TZID=Europe/London:20261113T113000
+SUMMARY:🏏 Australia v England – 1st ODI
+LOCATION:Perth Stadium\, Perth\, Australia
+DESCRIPTION:England tour of Australia 2026-27 – 1st ODI\nTeam: England M
+ en (cricket)\nStatus: Confirmed\nStart: 03:30 UK time\nNote: 11:30 AWST l
+ ocal.\nSource: https://www.cricket.com.au/news/4473637/australian-cricket
+ -schedule-2026-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-15
+ 0th-women-fixtures-dates-start-times\nCalendar last rebuilt: 20261104
+URL:https://www.cricket.com.au/news/4473637/australian-cricket-schedule-20
+ 26-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-150th-women-fi
+ xtures-dates-start-times
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e7db8f4a6353891524ce@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261114T164000
+DTEND;TZID=Europe/London:20261114T184000
+SUMMARY:🏉 England v Japan (Nations Championship 2026)
+LOCATION:Allianz Stadium\, Twickenham\, England
+DESCRIPTION:Nations Championship 2026 – Round 5\nTeam: England Men\nStat
+ us: Confirmed\nStart: 16:40 UK time\nSource: https://help.englandrugby.co
+ m/support/solutions/articles/103000389067-nations-championship-england-v-
+ japan-saturday-14th-november-2026\nCalendar last rebuilt: 20261104
+URL:https://help.englandrugby.com/support/solutions/articles/103000389067-
+ nations-championship-england-v-japan-saturday-14th-november-2026
+CATEGORIES:Rugby\,England Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a08d4d51e3270ea48806@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261115T033000
+DTEND;TZID=Europe/London:20261115T113000
+SUMMARY:🏏 Australia v England – 2nd ODI
+LOCATION:Adelaide Oval\, Adelaide\, Australia
+DESCRIPTION:England tour of Australia 2026-27 – 2nd ODI\nTeam: England M
+ en (cricket)\nStatus: Confirmed\nStart: 03:30 UK time\nNote: 14:00 ACDT l
+ ocal.\nSource: https://www.cricket.com.au/news/4473637/australian-cricket
+ -schedule-2026-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-15
+ 0th-women-fixtures-dates-start-times\nCalendar last rebuilt: 20261104
+URL:https://www.cricket.com.au/news/4473637/australian-cricket-schedule-20
+ 26-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-150th-women-fi
+ xtures-dates-start-times
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:96c33bcb4ca8036ace5f@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261115T130000
+DTEND;TZID=Europe/London:20261115T150000
+SUMMARY:🏉 Leicester Tigers v Saracens (PREM Rugby Cup)
+LOCATION:Mattioli Woods Welford Road\, Leicester\, England
+DESCRIPTION:PREM Rugby Cup – Pool B Round 4\nTeam: Saracens Men\nStatus:
+  Confirmed\nStart: 13:00 UK time\nNote: Kick-off moved to 13:00 (Sun 15 N
+ ov) per Leicester Tigers match page and Sky Sports fixtures\; original fi
+ xture release listed 15:00.\nSource: https://www.leicestertigers.com/matc
+ h/premiership-rugby-cup/lei-vs-sar/2026-11-15\nCalendar last rebuilt: 202
+ 61104
+URL:https://www.leicestertigers.com/match/premiership-rugby-cup/lei-vs-sar
+ /2026-11-15
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bfd9688004b6d3b64518@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261118T033000
+DTEND;TZID=Europe/London:20261118T113000
+SUMMARY:🏏 Australia v England – 3rd ODI
+LOCATION:Bellerive Oval\, Hobart\, Australia
+DESCRIPTION:England tour of Australia 2026-27 – 3rd ODI\nTeam: England M
+ en (cricket)\nStatus: Confirmed\nStart: 03:30 UK time\nNote: 14:30 AEDT l
+ ocal.\nSource: https://www.ninjastadium.com.au/whats-on/australia-v-engla
+ nd-mens-3rd-odi\nCalendar last rebuilt: 20261104
+URL:https://www.ninjastadium.com.au/whats-on/australia-v-england-mens-3rd-
+ odi
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b0cec66af3b7690e0308@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261121T081500
+DTEND;TZID=Europe/London:20261121T114500
+SUMMARY:🏏 Australia v England – 1st T20I
+LOCATION:Melbourne Cricket Ground\, Melbourne\, Australia
+DESCRIPTION:England tour of Australia 2026-27 – 1st T20I\nTeam: England 
+ Men (cricket)\nStatus: Confirmed\nStart: 08:15 UK time\nNote: 19:15 AEDT 
+ local.\nSource: https://www.cricket.com.au/news/4473637/australian-cricke
+ t-schedule-2026-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-1
+ 50th-women-fixtures-dates-start-times\nCalendar last rebuilt: 20261104
+URL:https://www.cricket.com.au/news/4473637/australian-cricket-schedule-20
+ 26-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-150th-women-fi
+ xtures-dates-start-times
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ac69d517220ea46cd46f@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261121T120000
+DTEND;TZID=Europe/London:20261121T140000
+SUMMARY:🏉 Saracens v Harlequins (PREM Rugby Cup)
+LOCATION:StoneX Stadium\, London\, England
+DESCRIPTION:PREM Rugby Cup – Pool B Round 5\nTeam: Saracens Men\nStatus:
+  Confirmed\nStart: 12:00 UK time\nSource: https://saracens.com/wp-content
+ /uploads/2026/07/2627-FixtureList-V4-white.pdf\nCalendar last rebuilt: 20
+ 261104
+URL:https://saracens.com/wp-content/uploads/2026/07/2627-FixtureList-V4-wh
+ ite.pdf
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:da13fcf325149f0b217c@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261121T141000
+DTEND;TZID=Europe/London:20261121T161000
+SUMMARY:🏉 England v New Zealand (Nations Championship 2026)
+LOCATION:Allianz Stadium\, Twickenham\, England
+DESCRIPTION:Nations Championship 2026 – Round 6\nTeam: England Men\nStat
+ us: Confirmed\nStart: 14:10 UK time\nSource: https://help.englandrugby.co
+ m/support/solutions/articles/103000389096-nations-championship-england-v-
+ new-zealand-saturday-21st-november-2026\nCalendar last rebuilt: 20261104
+URL:https://help.englandrugby.com/support/solutions/articles/103000389096-
+ nations-championship-england-v-new-zealand-saturday-21st-november-2026
+CATEGORIES:Rugby\,England Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6e5e595e0ee217b125e8@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261124T081500
+DTEND;TZID=Europe/London:20261124T114500
+SUMMARY:🏏 Australia v England – 2nd T20I
+LOCATION:Carrara Stadium\, Gold Coast\, Australia
+DESCRIPTION:England tour of Australia 2026-27 – 2nd T20I\nTeam: England 
+ Men (cricket)\nStatus: Confirmed\nStart: 08:15 UK time\nNote: 18:15 AEST 
+ local.\nSource: https://www.cricket.com.au/news/4473637/australian-cricke
+ t-schedule-2026-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-1
+ 50th-women-fixtures-dates-start-times\nCalendar last rebuilt: 20261104
+URL:https://www.cricket.com.au/news/4473637/australian-cricket-schedule-20
+ 26-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-150th-women-fi
+ xtures-dates-start-times
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8cf7636cffd0d6026f6d@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261127T081500
+DTEND;TZID=Europe/London:20261127T114500
+SUMMARY:🏏 Australia v England – 3rd T20I
+LOCATION:The Gabba\, Brisbane\, Australia
+DESCRIPTION:England tour of Australia 2026-27 – 3rd T20I\nTeam: England 
+ Men (cricket)\nStatus: Confirmed\nStart: 08:15 UK time\nNote: 18:15 AEST 
+ local.\nSource: https://www.cricket.com.au/news/4473637/australian-cricke
+ t-schedule-2026-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-1
+ 50th-women-fixtures-dates-start-times\nCalendar last rebuilt: 20261104
+URL:https://www.cricket.com.au/news/4473637/australian-cricket-schedule-20
+ 26-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-150th-women-fi
+ xtures-dates-start-times
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:42513b2018e202286d11@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+SUMMARY:🏉 England – Nations Championship: Finals Weekend - placing ma
+ tch (day/opponent depend on final table)
+LOCATION:Allianz Stadium\, Twickenham\, England
+DESCRIPTION:Nations Championship 2026 – Finals Weekend - placing match (
+ day/opponent depend on final table)\nTeam: England Men\nStatus: Placehold
+ er – depends on qualification / dates indicative\nNote: Slot depends on
+  final Northern table: N3 v S3 = Fri 27 Nov 20:10 (N6 v S6 16:40)\; N5 Sa
+ t 28 13:10\; N2 Sat 28 16:40\; N4 Sun 29 13:10\; N1 Sun 29 16:40 (all UK 
+ time). England provisionally 3rd after July (10 pts) but not final until 
+ 21 Nov.\nSource: https://help.englandrugby.com/support/solutions/articles
+ /103000349981-nations-championship-2026-friday-27th-november-finals-day\n
+ Calendar last rebuilt: 20261104
+URL:https://help.englandrugby.com/support/solutions/articles/103000349981-
+ nations-championship-2026-friday-27th-november-finals-day
+CATEGORIES:Rugby\,England Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c388c104ccd3c45d3293@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261129T081500
+DTEND;TZID=Europe/London:20261129T114500
+SUMMARY:🏏 Australia v England – 4th T20I
+LOCATION:Sydney Cricket Ground\, Sydney\, Australia
+DESCRIPTION:England tour of Australia 2026-27 – 4th T20I\nTeam: England 
+ Men (cricket)\nStatus: Confirmed\nStart: 08:15 UK time\nNote: 19:15 AEDT 
+ local.\nSource: https://www.cricket.com.au/news/4473637/australian-cricke
+ t-schedule-2026-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-1
+ 50th-women-fixtures-dates-start-times\nCalendar last rebuilt: 20261104
+URL:https://www.cricket.com.au/news/4473637/australian-cricket-schedule-20
+ 26-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-150th-women-fi
+ xtures-dates-start-times
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f43bd36c88a73ed3a3ac@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261202T081500
+DTEND;TZID=Europe/London:20261202T114500
+SUMMARY:🏏 Australia v England – 5th T20I
+LOCATION:Manuka Oval\, Canberra\, Australia
+DESCRIPTION:England tour of Australia 2026-27 – 5th T20I\nTeam: England 
+ Men (cricket)\nStatus: Confirmed\nStart: 08:15 UK time\nNote: 19:15 AEDT 
+ local.\nSource: https://www.cricket.com.au/news/4473637/australian-cricke
+ t-schedule-2026-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-1
+ 50th-women-fixtures-dates-start-times\nCalendar last rebuilt: 20261104
+URL:https://www.cricket.com.au/news/4473637/australian-cricket-schedule-20
+ 26-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-150th-women-fi
+ xtures-dates-start-times
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2f7553368e914edd8bf7@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261205T173000
+DTEND;TZID=Europe/London:20261205T193000
+SUMMARY:🏉 Saracens v Northampton Saints (PREM Rugby)
+LOCATION:StoneX Stadium\, London\, England
+DESCRIPTION:PREM Rugby – Round 6\nTeam: Saracens Men\nStatus: Confirmed\
+ nStart: 17:30 UK time\nSource: https://saracens.com/wp-content/uploads/20
+ 26/07/2627-FixtureList-V4-white.pdf\nCalendar last rebuilt: 20261104
+URL:https://saracens.com/wp-content/uploads/2026/07/2627-FixtureList-V4-wh
+ ite.pdf
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:aeb62fac58c7529545c0@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261212T173000
+DTEND;TZID=Europe/London:20261212T193000
+SUMMARY:🏉 Saracens v La Rochelle (Investec Champions Cup)
+LOCATION:StoneX Stadium\, London\, England
+DESCRIPTION:Investec Champions Cup – Pool Round 2\nTeam: Saracens Men\nS
+ tatus: Confirmed\nStart: 17:30 UK time\nSource: https://saracens.com/sara
+ cens-epcr-pool-fixtures-confirmed/\nCalendar last rebuilt: 20261104
+URL:https://saracens.com/saracens-epcr-pool-fixtures-confirmed/
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:85084d943cfdfc73e8e3@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261217T080000
+DTEND;TZID=Europe/London:20261217T150000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 South Africa v England – 1st Test
+LOCATION:Wanderers Stadium\, Johannesburg\, South Africa
+DESCRIPTION:England tour of South Africa 2026-27 – 1st Test\nTeam: Engla
+ nd Men (cricket)\nStatus: Confirmed\nStart: 08:00 UK time\nTest runs Thu 
+ 17 Dec – Mon 21 Dec 2026\nNote: 10:00 SAST local (CSA ticketing).\nSour
+ ce: https://tickets.cricket.co.za/event/south-africa-vs-england-day-1-q38
+ 7d2\nCalendar last rebuilt: 20261104
+URL:https://tickets.cricket.co.za/event/south-africa-vs-england-day-1-q387
+ d2
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a8b243ae3708770fd6f8@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261219T150000
+DTEND;TZID=Europe/London:20261219T170000
+SUMMARY:🏉 Gloucester Rugby v Saracens (PREM Rugby)
+LOCATION:Kingsholm Stadium\, Gloucester\, England
+DESCRIPTION:PREM Rugby – Round 7\nTeam: Saracens Men\nStatus: Confirmed\
+ nStart: 15:00 UK time\nSource: https://saracens.com/wp-content/uploads/20
+ 26/07/2627-FixtureList-V4-white.pdf\nCalendar last rebuilt: 20261104
+URL:https://saracens.com/wp-content/uploads/2026/07/2627-FixtureList-V4-wh
+ ite.pdf
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:29553a4b0ec8b5e3aee9@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261226T080000
+DTEND;TZID=Europe/London:20261226T150000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 South Africa v England – 2nd Test (Boxing Day)
+LOCATION:SuperSport Park\, Centurion\, South Africa
+DESCRIPTION:England tour of South Africa 2026-27 – 2nd Test (Boxing Day)
+ \nTeam: England Men (cricket)\nStatus: Confirmed\nStart: 08:00 UK time\nT
+ est runs Sat 26 Dec – Wed 30 Dec 2026\nNote: 10:00 SAST local (standard
+  SA Test start\; listed 08:00 UK by khelnow).\nSource: https://www.ecb.co
+ .uk/news/4455456/fixtures-for-england-mens-202627-tour-to-south-africa-an
+ nounced\nCalendar last rebuilt: 20261104
+URL:https://www.ecb.co.uk/news/4455456/fixtures-for-england-mens-202627-to
+ ur-to-south-africa-announced
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0b0d1e0f6026e9c36a88@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20261227T150500
+DTEND;TZID=Europe/London:20261227T170500
+SUMMARY:🏉 Exeter Chiefs v Saracens (PREM Rugby)
+LOCATION:Sandy Park\, Exeter\, England
+DESCRIPTION:PREM Rugby – Round 8\nTeam: Saracens Men\nStatus: Confirmed\
+ nStart: 15:05 UK time\nSource: https://saracens.com/wp-content/uploads/20
+ 26/07/2627-FixtureList-V4-white.pdf\nCalendar last rebuilt: 20261104
+URL:https://saracens.com/wp-content/uploads/2026/07/2627-FixtureList-V4-wh
+ ite.pdf
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1b9f1479b0da5f110717@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270102T150500
+DTEND;TZID=Europe/London:20270102T170500
+SUMMARY:🏉 Saracens v Bath Rugby (PREM Rugby)
+LOCATION:StoneX Stadium\, London\, England
+DESCRIPTION:PREM Rugby – Round 9\nTeam: Saracens Men\nStatus: Confirmed\
+ nStart: 15:05 UK time\nSource: https://saracens.com/wp-content/uploads/20
+ 26/07/2627-FixtureList-V4-white.pdf\nCalendar last rebuilt: 20261104
+URL:https://saracens.com/wp-content/uploads/2026/07/2627-FixtureList-V4-wh
+ ite.pdf
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2d729661264f8eebea0a@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270103T083000
+DTEND;TZID=Europe/London:20270103T153000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 South Africa v England – 3rd Test
+LOCATION:Newlands\, Cape Town\, South Africa
+DESCRIPTION:England tour of South Africa 2026-27 – 3rd Test\nTeam: Engla
+ nd Men (cricket)\nStatus: Confirmed\nStart: 08:30 UK time\nTest runs Sun 
+ 03 Jan – Thu 07 Jan 2027\nNote: 10:30 SAST local (CSA ticketing).\nSour
+ ce: https://tickets.cricket.co.za/event/south-africa-vs-england-day-2-896
+ 5m2\nCalendar last rebuilt: 20261104
+URL:https://tickets.cricket.co.za/event/south-africa-vs-england-day-2-8965
+ m2
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1ac5784969a0f6f6f568@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270110T080000
+DTEND;TZID=Europe/London:20270110T160000
+SUMMARY:🏏 South Africa v England – 1st ODI
+LOCATION:Boland Park\, Paarl\, South Africa
+DESCRIPTION:England tour of South Africa 2026-27 – 1st ODI\nTeam: Englan
+ d Men (cricket)\nStatus: Confirmed\nStart: 08:00 UK time\nNote: 10:00 SAS
+ T local (CSA ticketing).\nSource: https://tickets.cricket.co.za/event/sou
+ th-africa-vs-england-jh787d\nCalendar last rebuilt: 20261104
+URL:https://tickets.cricket.co.za/event/south-africa-vs-england-jh787d
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6e1d8fb075e187b0e3e4@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270110T151500
+DTEND;TZID=Europe/London:20270110T171500
+SUMMARY:🏉 Saracens v Lions (Investec Champions Cup)
+LOCATION:StoneX Stadium\, London\, England
+DESCRIPTION:Investec Champions Cup – Pool Round 3\nTeam: Saracens Men\nS
+ tatus: Confirmed\nStart: 15:15 UK time\nSource: https://saracens.com/sara
+ cens-epcr-pool-fixtures-confirmed/\nCalendar last rebuilt: 20261104
+URL:https://saracens.com/saracens-epcr-pool-fixtures-confirmed/
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ed4958d0f62b2bf8acbd@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270113T113000
+DTEND;TZID=Europe/London:20270113T193000
+SUMMARY:🏏 South Africa v England – 2nd ODI (day/night)
+LOCATION:Mangaung Oval\, Bloemfontein\, South Africa
+DESCRIPTION:England tour of South Africa 2026-27 – 2nd ODI (day/night)\n
+ Team: England Men (cricket)\nStatus: Confirmed\nStart: 11:30 UK time\nNot
+ e: 13:30 SAST local (CSA ticketing).\nSource: https://tickets.cricket.co.
+ za/event/south-africa-vs-england-nrq5f0\nCalendar last rebuilt: 20261104
+URL:https://tickets.cricket.co.za/event/south-africa-vs-england-nrq5f0
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9d4f8c44e4de0f54e589@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270115T080000
+DTEND;TZID=Europe/London:20270115T160000
+SUMMARY:🏏 South Africa v England – 3rd ODI
+LOCATION:Mangaung Oval\, Bloemfontein\, South Africa
+DESCRIPTION:England tour of South Africa 2026-27 – 3rd ODI\nTeam: Englan
+ d Men (cricket)\nStatus: Confirmed\nStart: 08:00 UK time\nNote: 10:00 SAS
+ T local (CSA ticketing).\nSource: https://tickets.cricket.co.za/event/sou
+ th-africa-vs-england-cq9e4q\nCalendar last rebuilt: 20261104
+URL:https://tickets.cricket.co.za/event/south-africa-vs-england-cq9e4q
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0dd0023c994944e6da0d@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270117T151500
+DTEND;TZID=Europe/London:20270117T171500
+SUMMARY:🏉 Toulouse v Saracens (Investec Champions Cup)
+LOCATION:Stade Ernest-Wallon\, Toulouse\, France
+DESCRIPTION:Investec Champions Cup – Pool Round 4\nTeam: Saracens Men\nS
+ tatus: Confirmed\nStart: 15:15 UK time\nNote: 15:15 UK (16:15 French loca
+ l). Confirmed by EPCR and wheresthematch\; club PDF lists the French loca
+ l time.\nSource: https://www.epcrugby.com/champions-cup/clubs/saracens/fi
+ xtures-results\nCalendar last rebuilt: 20261104
+URL:https://www.epcrugby.com/champions-cup/clubs/saracens/fixtures-results
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b7463522515ad7357be5@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270125
+SUMMARY:🏉 Newcastle Red Bulls v Saracens (PREM Rugby) · date TBC
+LOCATION:Kingston Park\, Newcastle\, England
+DESCRIPTION:PREM Rugby – Round 10\nTeam: Saracens Men\nStatus: Weekend w
+ indow only – exact day and time to be confirmed\nSource: https://sarace
+ ns.com/wp-content/uploads/2026/07/2627-FixtureList-V4-white.pdf\nCalendar
+  last rebuilt: 20261104
+URL:https://saracens.com/wp-content/uploads/2026/07/2627-FixtureList-V4-wh
+ ite.pdf
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8734aa094d3403f9ad2b@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270130T150000
+DTEND;TZID=Europe/London:20270130T170000
+SUMMARY:🏉 Saracens v Leicester Tigers (PREM Rugby Cup)
+LOCATION:StoneX Stadium\, London\, England
+DESCRIPTION:PREM Rugby Cup – Pool B Round 6\nTeam: Saracens Men\nStatus:
+  Confirmed\nStart: 15:00 UK time\nNote: Sat 30 Jan 15:00 per Leicester Ti
+ gers PREM Cup fixture announcement and Sky Sports fixtures.\nSource: http
+ s://www.leicestertigers.com/news/prem-rugby-cup-fixtures-confirmed\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.leicestertigers.com/news/prem-rugby-cup-fixtures-confirmed
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ba57a01ed87a2198ad9a@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270301
+SUMMARY:🏏 England – Tour of Bangladesh: Test series - dates and venue
+ s TBC
+LOCATION:Bangladesh
+DESCRIPTION:England tour of Bangladesh 2027 – Test series - dates and ve
+ nues TBC\nTeam: England Men (cricket)\nStatus: Placeholder – depends on
+  qualification / dates indicative\nTest runs Mon 01 Feb – Sun 28 Feb 20
+ 27\nNote: Two-Test series expected in February 2027 (Dhaka and Sylhet rep
+ orted)\; dates not yet officially published.\nSource: https://venatour.co
+ .uk/cricket/england-cricket-tour-to-bangladesh/\nCalendar last rebuilt: 2
+ 0261104
+URL:https://venatour.co.uk/cricket/england-cricket-tour-to-bangladesh/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:151fbf4171a1dec169bb@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270205T181000
+DTEND;TZID=Europe/London:20270205T201000
+SUMMARY:🏉 Ireland U20 v England U20 (U20 Six Nations 2027)
+LOCATION:Cork\, Ireland
+DESCRIPTION:U20 Six Nations 2027 – Round 1\nTeam: England U20 Men\nStatu
+ s: Confirmed\nStart: 18:10 UK time\nNote: Kick-off 18:10 confirmed by Sco
+ ttish Rugby and Six Nations\; stadium not yet stated (Cork per allsportdb
+ ).\nSource: https://scottishrugby.org/news-and-features/2027-under-20s-me
+ ns-six-nations-fixtures-announced/\nCalendar last rebuilt: 20261104
+URL:https://scottishrugby.org/news-and-features/2027-under-20s-mens-six-na
+ tions-fixtures-announced/
+CATEGORIES:Rugby\,England U20 Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0826e530033ba406d40c@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270205T201000
+DTEND;TZID=Europe/London:20270205T221000
+SUMMARY:🏉 Ireland v England (Guinness Six Nations 2027)
+LOCATION:Aviva Stadium\, Dublin\, Ireland
+DESCRIPTION:Guinness Six Nations 2027 – Round 1\nTeam: England Men\nStat
+ us: Confirmed\nStart: 20:10 UK time\nSource: https://www.irishrugby.ie/20
+ 26/03/09/guinness-mens-six-nations-fixtures-confirmed-for-2027\nCalendar 
+ last rebuilt: 20261104
+URL:https://www.irishrugby.ie/2026/03/09/guinness-mens-six-nations-fixture
+ s-confirmed-for-2027
+CATEGORIES:Rugby\,England Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f77483f9fd1ef9cb299b@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270208
+SUMMARY:🏉 Newcastle Red Bulls v Saracens (PREM Rugby Cup) · date TBC
+LOCATION:Kingston Park\, Newcastle\, England
+DESCRIPTION:PREM Rugby Cup – Pool B\nTeam: Saracens Men\nStatus: Weekend
+  window only – exact day and time to be confirmed\nNote: Provisionally 
+ Sat 6 Feb 17:30 per Sky Sports fixtures\; still subject to broadcast sele
+ ction (not confirmed by clubs).\nSource: https://www.skysports.com/rugby-
+ union/teams/saracens/fixtures\nCalendar last rebuilt: 20261104
+URL:https://www.skysports.com/rugby-union/teams/saracens/fixtures
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:22d6bda3771381570ee2@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:🏉 England U20 – U20 Six Nations: Round 2 – home in Leiceste
+ r (opponent expected: France U20\, unconfirmed)
+LOCATION:Leicester\, England
+DESCRIPTION:U20 Six Nations 2027 – Round 2 – home in Leicester (oppone
+ nt expected: France U20\, unconfirmed)\nTeam: England U20 Men\nStatus: Pl
+ aceholder – depends on qualification / dates indicative\nNote: Opponent
+  inferred: U20 fixtures mirror the senior 2027 Six Nations draw and host 
+ city per allsportdb round listing\; kick-off and stadium not yet publishe
+ d.\nSource: https://allsportdb.com/Competitions/Rugby-U20-Six-Nations-Cha
+ mpionship-791\nCalendar last rebuilt: 20261104
+URL:https://allsportdb.com/Competitions/Rugby-U20-Six-Nations-Championship
+ -791
+CATEGORIES:Rugby\,England U20 Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aa2f4e611e6855173e5b@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270215
+SUMMARY:🏉 Northampton Saints v Saracens (PREM Rugby Cup) · date TBC
+LOCATION:Franklin's Gardens\, Northampton\, England
+DESCRIPTION:PREM Rugby Cup – Pool B\nTeam: Saracens Men\nStatus: Weekend
+  window only – exact day and time to be confirmed\nNote: Provisionally 
+ Sat 13 Feb 14:30 per Sky Sports fixtures\; still subject to broadcast sel
+ ection (not confirmed by clubs).\nSource: https://www.skysports.com/rugby
+ -union/teams/saracens/fixtures\nCalendar last rebuilt: 20261104
+URL:https://www.skysports.com/rugby-union/teams/saracens/fixtures
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:50e23a84181db67fe176@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270214T151000
+DTEND;TZID=Europe/London:20270214T171000
+SUMMARY:🏉 England v France (Guinness Six Nations 2027)
+LOCATION:Allianz Stadium\, Twickenham\, England
+DESCRIPTION:Guinness Six Nations 2027 – Round 2\nTeam: England Men\nStat
+ us: Confirmed\nStart: 15:10 UK time\nSource: https://www.irishrugby.ie/20
+ 26/03/09/guinness-mens-six-nations-fixtures-confirmed-for-2027\nCalendar 
+ last rebuilt: 20261104
+URL:https://www.irishrugby.ie/2026/03/09/guinness-mens-six-nations-fixture
+ s-confirmed-for-2027
+CATEGORIES:Rugby\,England Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:149bd2a7c7655841af3e@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:🏉 England U20 – U20 Six Nations: Round 3 – home in York (op
+ ponent expected: Italy U20\, unconfirmed)
+LOCATION:York\, England
+DESCRIPTION:U20 Six Nations 2027 – Round 3 – home in York (opponent ex
+ pected: Italy U20\, unconfirmed)\nTeam: England U20 Men\nStatus: Placehol
+ der – depends on qualification / dates indicative\nNote: Opponent infer
+ red: U20 fixtures mirror the senior 2027 Six Nations draw and host city p
+ er allsportdb round listing\; kick-off and stadium not yet published.\nSo
+ urce: https://allsportdb.com/Competitions/Rugby-U20-Six-Nations-Champions
+ hip-791\nCalendar last rebuilt: 20261104
+URL:https://allsportdb.com/Competitions/Rugby-U20-Six-Nations-Championship
+ -791
+CATEGORIES:Rugby\,England U20 Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:886642185801340ee0ad@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270220T164000
+DTEND;TZID=Europe/London:20270220T184000
+SUMMARY:🏉 England v Italy (Guinness Six Nations 2027)
+LOCATION:Allianz Stadium\, Twickenham\, England
+DESCRIPTION:Guinness Six Nations 2027 – Round 3\nTeam: England Men\nStat
+ us: Confirmed\nStart: 16:40 UK time\nSource: https://www.irishrugby.ie/20
+ 26/03/09/guinness-mens-six-nations-fixtures-confirmed-for-2027\nCalendar 
+ last rebuilt: 20261104
+URL:https://www.irishrugby.ie/2026/03/09/guinness-mens-six-nations-fixture
+ s-confirmed-for-2027
+CATEGORIES:Rugby\,England Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00cacba4563d3bee81cc@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270301
+SUMMARY:🏉 Harlequins v Saracens (PREM Rugby Cup) · date TBC
+LOCATION:Twickenham Stoop\, London\, England
+DESCRIPTION:PREM Rugby Cup – Pool B\nTeam: Saracens Men\nStatus: Weekend
+  window only – exact day and time to be confirmed\nNote: Provisionally 
+ Sat 27 Feb 15:00 per Sky Sports fixtures\; still subject to broadcast sel
+ ection (not confirmed by clubs).\nSource: https://www.skysports.com/rugby
+ -union/teams/saracens/fixtures\nCalendar last rebuilt: 20261104
+URL:https://www.skysports.com/rugby-union/teams/saracens/fixtures
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f4ab99e847369a12568b@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270306
+SUMMARY:🏉 England U20 – U20 Six Nations: Round 4 – away in Cardiff 
+ (opponent expected: Wales U20\, unconfirmed)
+LOCATION:Cardiff\, Wales
+DESCRIPTION:U20 Six Nations 2027 – Round 4 – away in Cardiff (opponent
+  expected: Wales U20\, unconfirmed)\nTeam: England U20 Men\nStatus: Place
+ holder – depends on qualification / dates indicative\nNote: Opponent in
+ ferred: U20 fixtures mirror the senior 2027 Six Nations draw and host cit
+ y per allsportdb round listing\; kick-off and stadium not yet published. 
+ Round 4 spans Thu 4 / Fri 5 Mar.\nSource: https://allsportdb.com/Competit
+ ions/Rugby-U20-Six-Nations-Championship-791\nCalendar last rebuilt: 20261
+ 104
+URL:https://allsportdb.com/Competitions/Rugby-U20-Six-Nations-Championship
+ -791
+CATEGORIES:Rugby\,England U20 Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e9f4713a7e3751eb0edf@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270306T164000
+DTEND;TZID=Europe/London:20270306T184000
+SUMMARY:🏉 Wales v England (Guinness Six Nations 2027)
+LOCATION:Principality Stadium\, Cardiff\, Wales
+DESCRIPTION:Guinness Six Nations 2027 – Round 4\nTeam: England Men\nStat
+ us: Confirmed\nStart: 16:40 UK time\nSource: https://www.irishrugby.ie/20
+ 26/03/09/guinness-mens-six-nations-fixtures-confirmed-for-2027\nCalendar 
+ last rebuilt: 20261104
+URL:https://www.irishrugby.ie/2026/03/09/guinness-mens-six-nations-fixture
+ s-confirmed-for-2027
+CATEGORIES:Rugby\,England Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a5ccdc957980aa17edb9@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270311T030000
+DTEND;TZID=Europe/London:20270311T100000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 Australia v England – One-off day/night Test
+LOCATION:Melbourne Cricket Ground\, Melbourne\, Australia
+DESCRIPTION:150th Anniversary Test – One-off day/night Test\nTeam: Engla
+ nd Men (cricket)\nStatus: Confirmed\nStart: 03:00 UK time\nTest runs Thu 
+ 11 Mar – Mon 15 Mar 2027\nNote: 14:00 AEDT local.\nSource: https://www.
+ cricket.com.au/news/4473637/australian-cricket-schedule-2026-27-summer-te
+ sts-odi-t20i-bangladesh-new-zealand-england-150th-women-fixtures-dates-st
+ art-times\nCalendar last rebuilt: 20261104
+URL:https://www.cricket.com.au/news/4473637/australian-cricket-schedule-20
+ 26-27-summer-tests-odi-t20i-bangladesh-new-zealand-england-150th-women-fi
+ xtures-dates-start-times
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:62af1ba558de15921d37@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270312T194500
+DTEND;TZID=Europe/London:20270312T214500
+SUMMARY:🏉 England U20 v Scotland U20 (U20 Six Nations 2027)
+LOCATION:The Rec\, Bath\, England
+DESCRIPTION:U20 Six Nations 2027 – Round 5\nTeam: England U20 Men\nStatu
+ s: Confirmed\nStart: 19:45 UK time\nSource: https://scottishrugby.org/new
+ s-and-features/2027-under-20s-mens-six-nations-fixtures-announced/\nCalen
+ dar last rebuilt: 20261104
+URL:https://scottishrugby.org/news-and-features/2027-under-20s-mens-six-na
+ tions-fixtures-announced/
+CATEGORIES:Rugby\,England U20 Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fee291836947e221f4f7@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270313T164000
+DTEND;TZID=Europe/London:20270313T184000
+SUMMARY:🏉 England v Scotland (Guinness Six Nations 2027)
+LOCATION:Allianz Stadium\, Twickenham\, England
+DESCRIPTION:Guinness Six Nations 2027 – Round 5\nTeam: England Men\nStat
+ us: Confirmed\nStart: 16:40 UK time\nSource: https://www.irishrugby.ie/20
+ 26/03/09/guinness-mens-six-nations-fixtures-confirmed-for-2027\nCalendar 
+ last rebuilt: 20261104
+URL:https://www.irishrugby.ie/2026/03/09/guinness-mens-six-nations-fixture
+ s-confirmed-for-2027
+CATEGORIES:Rugby\,England Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:09e01544643c4a28908b@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:🏉 Saracens v Harlequins (PREM Rugby) · time TBC
+LOCATION:Tottenham Hotspur Stadium\, London\, England
+DESCRIPTION:PREM Rugby – Round 11 - Showdown 7\nTeam: Saracens Men\nStat
+ us: Date confirmed – kick-off/start time not yet published\nNote: Venue
+  officially confirmed by Saracens (30 Oct 2026). Kick-off time not yet an
+ nounced.\nSource: https://saracens.com/the-showdown-7-saracens-v-harlequi
+ ns-at-tottenham-hotspur-stadium/\nCalendar last rebuilt: 20261104
+URL:https://saracens.com/the-showdown-7-saracens-v-harlequins-at-tottenham
+ -hotspur-stadium/
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:88a21d1d1f71b100edc5@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270329
+SUMMARY:🏉 Northampton Saints v Saracens (PREM Rugby) · date TBC
+LOCATION:Franklin's Gardens\, Northampton\, England
+DESCRIPTION:PREM Rugby – Round 12\nTeam: Saracens Men\nStatus: Weekend w
+ indow only – exact day and time to be confirmed\nSource: https://www.ru
+ gbyworld.com/rugby-fixtures/english-premiership-rugby-fixtures\nCalendar 
+ last rebuilt: 20261104
+URL:https://www.rugbyworld.com/rugby-fixtures/english-premiership-rugby-fi
+ xtures
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d40eadb433a542c4820b@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270405
+SUMMARY:🏉 Saracens – Investec Champions Cup: Round of 16 (if qualifie
+ d)
+DESCRIPTION:Investec Champions Cup – Round of 16 (if qualified)\nTeam: S
+ aracens Men\nStatus: Placeholder – depends on qualification / dates ind
+ icative\nSource: https://dragonsrfc.wales/news/2026/february/epcr-confirm
+ s-lyon-2027-finals-and-key-dates.html\nCalendar last rebuilt: 20261104
+URL:https://dragonsrfc.wales/news/2026/february/epcr-confirms-lyon-2027-fi
+ nals-and-key-dates.html
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b59a7e8fd40e1cad6fc2@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270412
+SUMMARY:🏉 Saracens – Investec Champions Cup: Quarter-final (if qualif
+ ied)
+DESCRIPTION:Investec Champions Cup – Quarter-final (if qualified)\nTeam:
+  Saracens Men\nStatus: Placeholder – depends on qualification / dates i
+ ndicative\nSource: https://dragonsrfc.wales/news/2026/february/epcr-confi
+ rms-lyon-2027-finals-and-key-dates.html\nCalendar last rebuilt: 20261104
+URL:https://dragonsrfc.wales/news/2026/february/epcr-confirms-lyon-2027-fi
+ nals-and-key-dates.html
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b31ca57cc9e842719f1a@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270410T144500
+DTEND;TZID=Europe/London:20270410T164500
+SUMMARY:🏉 Wales v Red Roses (Guinness Women's Six Nations 2027)
+LOCATION:Principality Stadium\, Cardiff\, Wales
+DESCRIPTION:Guinness Women's Six Nations 2027 – Round 1\nTeam: England W
+ omen\nStatus: Confirmed\nStart: 14:45 UK time\nSource: https://www.princi
+ palitystadium.wales/event/guinness-womens-six-nations-2027-wales-v-englan
+ d/\nCalendar last rebuilt: 20261104
+URL:https://www.principalitystadium.wales/event/guinness-womens-six-nation
+ s-2027-wales-v-england/
+CATEGORIES:Rugby\,England Women
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b8eef5868467ec52f22d@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270419
+SUMMARY:🏉 Saracens v Leicester Tigers (PREM Rugby) · date TBC
+LOCATION:StoneX Stadium\, London\, England
+DESCRIPTION:PREM Rugby – Round 13\nTeam: Saracens Men\nStatus: Weekend w
+ indow only – exact day and time to be confirmed\nSource: https://sarace
+ ns.com/wp-content/uploads/2026/07/2627-FixtureList-V4-white.pdf\nCalendar
+  last rebuilt: 20261104
+URL:https://saracens.com/wp-content/uploads/2026/07/2627-FixtureList-V4-wh
+ ite.pdf
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9189ed2a829b46a6b51d@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270417T164500
+DTEND;TZID=Europe/London:20270417T184500
+SUMMARY:🏉 Red Roses v Scotland (Guinness Women's Six Nations 2027)
+LOCATION:Stadium of Light\, Sunderland\, England
+DESCRIPTION:Guinness Women's Six Nations 2027 – Round 2\nTeam: England W
+ omen\nStatus: Confirmed\nStart: 16:45 UK time\nSource: https://www.sixnat
+ ionsrugby.com/en/w6n/news/the-north-east-beckons-red-roses-return-to-sund
+ erland\nCalendar last rebuilt: 20261104
+URL:https://www.sixnationsrugby.com/en/w6n/news/the-north-east-beckons-red
+ -roses-return-to-sunderland
+CATEGORIES:Rugby\,England Women
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f195003c8d986fce25f4@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270426
+SUMMARY:🏉 Sale Sharks v Saracens (PREM Rugby) · date TBC
+LOCATION:CorpAcq Stadium\, Salford\, England
+DESCRIPTION:PREM Rugby – Round 14\nTeam: Saracens Men\nStatus: Weekend w
+ indow only – exact day and time to be confirmed\nSource: https://sarace
+ ns.com/wp-content/uploads/2026/07/2627-FixtureList-V4-white.pdf\nCalendar
+  last rebuilt: 20261104
+URL:https://saracens.com/wp-content/uploads/2026/07/2627-FixtureList-V4-wh
+ ite.pdf
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dd1ba4e1785ab4d12977@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270424T170000
+DTEND;TZID=Europe/London:20270424T190000
+SUMMARY:🏉 Red Roses v Italy (Guinness Women's Six Nations 2027)
+LOCATION:Franklin's Gardens\, Northampton\, England
+DESCRIPTION:Guinness Women's Six Nations 2027 – Round 3\nTeam: England W
+ omen\nStatus: Confirmed\nStart: 17:00 UK time\nSource: https://www.rugbyp
+ ass.com/news/red-roses-put-allianz-stadium-date-in-the-diary-for-2027/\nC
+ alendar last rebuilt: 20261104
+URL:https://www.rugbypass.com/news/red-roses-put-allianz-stadium-date-in-t
+ he-diary-for-2027/
+CATEGORIES:Rugby\,England Women
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c6965f5b30c6a7316724@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270503
+SUMMARY:🏉 Saracens – Investec Champions Cup: Semi-final (if qualified
+ )
+DESCRIPTION:Investec Champions Cup – Semi-final (if qualified)\nTeam: Sa
+ racens Men\nStatus: Placeholder – depends on qualification / dates indi
+ cative\nSource: https://www.planetrugby.com/news/investec-champions-cup-2
+ 026-27-confirmed-every-team-who-has-qualified-fixture-dates-and-how-to-wa
+ tch\nCalendar last rebuilt: 20261104
+URL:https://www.planetrugby.com/news/investec-champions-cup-2026-27-confir
+ med-every-team-who-has-qualified-fixture-dates-and-how-to-watch
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:23ff3756293d1fd97d14@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270510
+SUMMARY:🏉 Bristol Bears v Saracens (PREM Rugby) · date TBC
+LOCATION:Ashton Gate\, Bristol\, England
+DESCRIPTION:PREM Rugby – Round 15\nTeam: Saracens Men\nStatus: Weekend w
+ indow only – exact day and time to be confirmed\nSource: https://sarace
+ ns.com/wp-content/uploads/2026/07/2627-FixtureList-V4-white.pdf\nCalendar
+  last rebuilt: 20261104
+URL:https://saracens.com/wp-content/uploads/2026/07/2627-FixtureList-V4-wh
+ ite.pdf
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:08d8692ee4ede1aec563@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270508T144500
+DTEND;TZID=Europe/London:20270508T164500
+SUMMARY:🏉 Ireland v Red Roses (Guinness Women's Six Nations 2027)
+LOCATION:Aviva Stadium\, Dublin\, Ireland
+DESCRIPTION:Guinness Women's Six Nations 2027 – Round 4\nTeam: England W
+ omen\nStatus: Confirmed\nStart: 14:45 UK time\nSource: https://www.irishe
+ xaminer.com/sport/rugby/arid-41917732.html\nCalendar last rebuilt: 202611
+ 04
+URL:https://www.irishexaminer.com/sport/rugby/arid-41917732.html
+CATEGORIES:Rugby\,England Women
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a889938a585fa052fdfc@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270517
+SUMMARY:🏉 Saracens v Exeter Chiefs (PREM Rugby) · date TBC
+LOCATION:StoneX Stadium\, London\, England
+DESCRIPTION:PREM Rugby – Round 16\nTeam: Saracens Men\nStatus: Weekend w
+ indow only – exact day and time to be confirmed\nSource: https://sarace
+ ns.com/wp-content/uploads/2026/07/2627-FixtureList-V4-white.pdf\nCalendar
+  last rebuilt: 20261104
+URL:https://saracens.com/wp-content/uploads/2026/07/2627-FixtureList-V4-wh
+ ite.pdf
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1243db6b59992ec01f3f@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270515T110000
+DTEND;TZID=Europe/London:20270515T190000
+SUMMARY:🏏 England v Pakistan – 1st ODI
+LOCATION:Utilita Bowl\, Southampton\, England
+DESCRIPTION:Pakistan tour of England 2027 – 1st ODI\nTeam: England Men (
+ cricket)\nStatus: Confirmed\nStart: 11:00 UK time\nSource: https://www.th
+ ecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-and-w
+ omen/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d7428fef479bed291bda@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270515T164500
+DTEND;TZID=Europe/London:20270515T184500
+SUMMARY:🏉 Red Roses v France (Guinness Women's Six Nations 2027)
+LOCATION:Allianz Stadium\, Twickenham\, England
+DESCRIPTION:Guinness Women's Six Nations 2027 – Round 5\nTeam: England W
+ omen\nStatus: Confirmed\nStart: 16:45 UK time\nSource: https://www.rugbyp
+ ass.com/news/red-roses-put-allianz-stadium-date-in-the-diary-for-2027/\nC
+ alendar last rebuilt: 20261104
+URL:https://www.rugbypass.com/news/red-roses-put-allianz-stadium-date-in-t
+ he-diary-for-2027/
+CATEGORIES:Rugby\,England Women
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:171526763f096ce2fcdb@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270519T130000
+DTEND;TZID=Europe/London:20270519T210000
+SUMMARY:🏏 England v Pakistan – 2nd ODI
+LOCATION:Emirates Old Trafford\, Manchester\, England
+DESCRIPTION:Pakistan tour of England 2027 – 2nd ODI\nTeam: England Men (
+ cricket)\nStatus: Confirmed\nStart: 13:00 UK time\nSource: https://www.th
+ ecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-and-w
+ omen/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ac2aeadc872bf69ad44c@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270521T110000
+DTEND;TZID=Europe/London:20270521T190000
+SUMMARY:🏏 England v Pakistan – 3rd ODI
+LOCATION:Headingley\, Leeds\, England
+DESCRIPTION:Pakistan tour of England 2027 – 3rd ODI\nTeam: England Men (
+ cricket)\nStatus: Confirmed\nStart: 11:00 UK time\nSource: https://www.th
+ ecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-and-w
+ omen/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:62cf58607dfd236a48fe@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:🏉 Saracens – Investec Champions Cup: Final (if qualified)
+LOCATION:OL Stadium\, Lyon\, France
+DESCRIPTION:Investec Champions Cup – Final (if qualified)\nTeam: Saracen
+ s Men\nStatus: Placeholder – depends on qualification / dates indicativ
+ e\nSource: https://dragonsrfc.wales/news/2026/february/epcr-confirms-lyon
+ -2027-finals-and-key-dates.html\nCalendar last rebuilt: 20261104
+URL:https://dragonsrfc.wales/news/2026/february/epcr-confirms-lyon-2027-fi
+ nals-and-key-dates.html
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a6ef410cdf7cca53aad3@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270523T110000
+DTEND;TZID=Europe/London:20270523T190000
+SUMMARY:🏏 England v Pakistan – 4th ODI
+LOCATION:Banks Homes Riverside\, Chester-le-Street\, England
+DESCRIPTION:Pakistan tour of England 2027 – 4th ODI\nTeam: England Men (
+ cricket)\nStatus: Confirmed\nStart: 11:00 UK time\nSource: https://www.th
+ ecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-and-w
+ omen/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8b096c8ad07ae3c70b65@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270526T130000
+DTEND;TZID=Europe/London:20270526T210000
+SUMMARY:🏏 England v Pakistan – 5th ODI
+LOCATION:Sophia Gardens\, Cardiff\, Wales
+DESCRIPTION:Pakistan tour of England 2027 – 5th ODI\nTeam: England Men (
+ cricket)\nStatus: Confirmed\nStart: 13:00 UK time\nSource: https://www.th
+ ecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-and-w
+ omen/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:73bf56445a2401920185@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270528T110000
+DTEND;TZID=Europe/London:20270528T180000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 England v Bangladesh – One-off Test
+LOCATION:Lord's\, London\, England
+DESCRIPTION:Bangladesh tour of England 2027 – One-off Test\nTeam: Englan
+ d Men (cricket)\nStatus: Confirmed\nStart: 11:00 UK time\nTest runs Fri 2
+ 8 May – Tue 01 Jun 2027\nSource: https://www.thecricketpaper.com/the-as
+ hes-2027-fixtures-confirmed-for-england-men-and-women/\nCalendar last reb
+ uilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0d5c6072e70b05a2ae88@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270531
+SUMMARY:🏉 Saracens v Gloucester Rugby (PREM Rugby) · date TBC
+LOCATION:StoneX Stadium\, London\, England
+DESCRIPTION:PREM Rugby – Round 17\nTeam: Saracens Men\nStatus: Weekend w
+ indow only – exact day and time to be confirmed\nSource: https://sarace
+ ns.com/wp-content/uploads/2026/07/2627-FixtureList-V4-white.pdf\nCalendar
+  last rebuilt: 20261104
+URL:https://saracens.com/wp-content/uploads/2026/07/2627-FixtureList-V4-wh
+ ite.pdf
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:308a0c54ad94ebff65aa@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270605T140000
+DTEND;TZID=Europe/London:20270605T160000
+SUMMARY:🏉 Bath Rugby v Saracens (PREM Rugby)
+LOCATION:England
+DESCRIPTION:PREM Rugby – Round 18\nTeam: Saracens Men\nStatus: Confirmed
+ \nStart: 14:00 UK time\nNote: Bath home game played away from The Rec (st
+ adium redevelopment)\; Bath say they are in discussion with alternative h
+ ost venues – not yet announced. Final round – all PREM games kick off
+  simultaneously (14:00).\nSource: https://www.bathecho.co.uk/news/sport/r
+ ugby/bath-road-home-games-plan-speed-up-rec-rebuild-119275/\nCalendar las
+ t rebuilt: 20261104
+URL:https://www.bathecho.co.uk/news/sport/rugby/bath-road-home-games-plan-
+ speed-up-rec-rebuild-119275/
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:30863140f73f71ae712f@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270609T103000
+DTEND;TZID=Europe/London:20270609T173000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 England – ICC World Test Championship Final: Final (only if
+  England qualify)
+LOCATION:Kia Oval\, London\, England
+DESCRIPTION:ICC World Test Championship Final 2027 – Final (only if Engl
+ and qualify)\nTeam: England Men (cricket)\nStatus: Placeholder – depend
+ s on qualification / dates indicative\nStart: 10:30 UK time\nTest runs We
+ d 09 Jun – Sun 13 Jun 2027\nNote: 9-13 June 2027 at The Oval confirmed\
+ ; England appear only if they qualify. Start time indicative.\nSource: ht
+ tps://khelnow.com/cricket/england-home-schedule-2027-season-202607\nCalen
+ dar last rebuilt: 20261104
+URL:https://khelnow.com/cricket/england-home-schedule-2027-season-202607
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f0cb3d583826f079fece@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270613
+SUMMARY:🏉 Saracens – PREM Rugby: Play-off semi-final (if qualified)
+LOCATION:TBC (higher-placed club)\, England
+DESCRIPTION:PREM Rugby – Play-off semi-final (if qualified)\nTeam: Sarac
+ ens Men\nStatus: Placeholder – depends on qualification / dates indicat
+ ive\nSource: https://www.rugbyworld.com/rugby-fixtures/english-premiershi
+ p-rugby-fixtures\nCalendar last rebuilt: 20261104
+URL:https://www.rugbyworld.com/rugby-fixtures/english-premiership-rugby-fi
+ xtures
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a609b145d9be59266001@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270618T110000
+DTEND;TZID=Europe/London:20270618T180000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 England v Australia – 1st Test
+LOCATION:Trent Bridge\, Nottingham\, England
+DESCRIPTION:The Ashes 2027 – 1st Test\nTeam: England Men (cricket)\nStat
+ us: Confirmed\nStart: 11:00 UK time\nTest runs Fri 18 Jun – Tue 22 Jun 
+ 2027\nSource: https://www.eventmasters.co.uk/news/england-mens-2027-inter
+ national-schedule-confirmed-with-ashes-pakistan-and-new-zealand-series.ht
+ ml\nCalendar last rebuilt: 20261104
+URL:https://www.eventmasters.co.uk/news/england-mens-2027-international-sc
+ hedule-confirmed-with-ashes-pakistan-and-new-zealand-series.html
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:73e7c91bedaa362f06e9@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270619T150000
+DTEND;TZID=Europe/London:20270619T170000
+SUMMARY:🏉 Saracens – PREM Rugby: Final (if qualified)
+LOCATION:Allianz Stadium\, Twickenham\, London\, England
+DESCRIPTION:PREM Rugby – Final (if qualified)\nTeam: Saracens Men\nStatu
+ s: Placeholder – depends on qualification / dates indicative\nStart: 15
+ :00 UK time\nSource: https://www.aol.com/articles/prem-rugby-2026-27-seas
+ on-090332159.html\nCalendar last rebuilt: 20261104
+URL:https://www.aol.com/articles/prem-rugby-2026-27-season-090332159.html
+CATEGORIES:Rugby\,Saracens Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c89c56d660ef2833bd33@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270630T110000
+DTEND;TZID=Europe/London:20270630T180000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 England v Australia – 2nd Test
+LOCATION:Lord's\, London\, England
+DESCRIPTION:The Ashes 2027 – 2nd Test\nTeam: England Men (cricket)\nStat
+ us: Confirmed\nStart: 11:00 UK time\nTest runs Wed 30 Jun – Sun 04 Jul 
+ 2027\nSource: https://www.eventmasters.co.uk/news/england-mens-2027-inter
+ national-schedule-confirmed-with-ashes-pakistan-and-new-zealand-series.ht
+ ml\nCalendar last rebuilt: 20261104
+URL:https://www.eventmasters.co.uk/news/england-mens-2027-international-sc
+ hedule-confirmed-with-ashes-pakistan-and-new-zealand-series.html
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:42dbdb0a3aa094f7ec80@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270708T110000
+DTEND;TZID=Europe/London:20270708T180000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 England v Australia – 3rd Test
+LOCATION:Edgbaston\, Birmingham\, England
+DESCRIPTION:The Ashes 2027 – 3rd Test\nTeam: England Men (cricket)\nStat
+ us: Confirmed\nStart: 11:00 UK time\nTest runs Thu 08 Jul – Mon 12 Jul 
+ 2027\nSource: https://www.eventmasters.co.uk/news/england-mens-2027-inter
+ national-schedule-confirmed-with-ashes-pakistan-and-new-zealand-series.ht
+ ml\nCalendar last rebuilt: 20261104
+URL:https://www.eventmasters.co.uk/news/england-mens-2027-international-sc
+ hedule-confirmed-with-ashes-pakistan-and-new-zealand-series.html
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cc2ac1c538db59ef151a@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270721T110000
+DTEND;TZID=Europe/London:20270721T180000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 England v Australia – 4th Test
+LOCATION:Utilita Bowl\, Southampton\, England
+DESCRIPTION:The Ashes 2027 – 4th Test\nTeam: England Men (cricket)\nStat
+ us: Confirmed\nStart: 11:00 UK time\nTest runs Wed 21 Jul – Sun 25 Jul 
+ 2027\nSource: https://www.eventmasters.co.uk/news/england-mens-2027-inter
+ national-schedule-confirmed-with-ashes-pakistan-and-new-zealand-series.ht
+ ml\nCalendar last rebuilt: 20261104
+URL:https://www.eventmasters.co.uk/news/england-mens-2027-international-sc
+ hedule-confirmed-with-ashes-pakistan-and-new-zealand-series.html
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a2cff35a9345583396e4@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270729T110000
+DTEND;TZID=Europe/London:20270729T180000
+RRULE:FREQ=DAILY;COUNT=5
+SUMMARY:🏏 England v Australia – 5th Test
+LOCATION:Kia Oval\, London\, England
+DESCRIPTION:The Ashes 2027 – 5th Test\nTeam: England Men (cricket)\nStat
+ us: Confirmed\nStart: 11:00 UK time\nTest runs Thu 29 Jul – Mon 02 Aug 
+ 2027\nSource: https://www.eventmasters.co.uk/news/england-mens-2027-inter
+ national-schedule-confirmed-with-ashes-pakistan-and-new-zealand-series.ht
+ ml\nCalendar last rebuilt: 20261104
+URL:https://www.eventmasters.co.uk/news/england-mens-2027-international-sc
+ hedule-confirmed-with-ashes-pakistan-and-new-zealand-series.html
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0360f55bdaad6c4fa3ff@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270907T183000
+DTEND;TZID=Europe/London:20270907T220000
+SUMMARY:🏏 England v New Zealand – 1st T20I
+LOCATION:Banks Homes Riverside\, Chester-le-Street\, England
+DESCRIPTION:New Zealand tour of England 2027 – 1st T20I\nTeam: England M
+ en (cricket)\nStatus: Confirmed\nStart: 18:30 UK time\nSource: https://ww
+ w.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-a
+ nd-women/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c13a708c42b65bb0258f@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270909T183000
+DTEND;TZID=Europe/London:20270909T220000
+SUMMARY:🏏 England v New Zealand – 2nd T20I
+LOCATION:Emirates Old Trafford\, Manchester\, England
+DESCRIPTION:New Zealand tour of England 2027 – 2nd T20I\nTeam: England M
+ en (cricket)\nStatus: Confirmed\nStart: 18:30 UK time\nSource: https://ww
+ w.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-a
+ nd-women/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f4aa594f1013750b48f4@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270911T143000
+DTEND;TZID=Europe/London:20270911T180000
+SUMMARY:🏏 England v New Zealand – 3rd T20I
+LOCATION:Sophia Gardens\, Cardiff\, Wales
+DESCRIPTION:New Zealand tour of England 2027 – 3rd T20I\nTeam: England M
+ en (cricket)\nStatus: Confirmed\nStart: 14:30 UK time\nSource: https://ww
+ w.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-a
+ nd-women/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0452c1e2a218449247f1@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270914T123000
+DTEND;TZID=Europe/London:20270914T203000
+SUMMARY:🏏 England v New Zealand – 1st ODI
+LOCATION:Edgbaston\, Birmingham\, England
+DESCRIPTION:New Zealand tour of England 2027 – 1st ODI\nTeam: England Me
+ n (cricket)\nStatus: Confirmed\nStart: 12:30 UK time\nSource: https://www
+ .thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-an
+ d-women/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:73a812b02dcb2a751ef9@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270916T123000
+DTEND;TZID=Europe/London:20270916T203000
+SUMMARY:🏏 England v New Zealand – 2nd ODI
+LOCATION:Lord's\, London\, England
+DESCRIPTION:New Zealand tour of England 2027 – 2nd ODI\nTeam: England Me
+ n (cricket)\nStatus: Confirmed\nStart: 12:30 UK time\nSource: https://www
+ .thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-an
+ d-women/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4f035609072e8389bf68@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270919T103000
+DTEND;TZID=Europe/London:20270919T183000
+SUMMARY:🏏 England v New Zealand – 3rd ODI
+LOCATION:Seat Unique Stadium\, Bristol\, England
+DESCRIPTION:New Zealand tour of England 2027 – 3rd ODI\nTeam: England Me
+ n (cricket)\nStatus: Confirmed\nStart: 10:30 UK time\nSource: https://www
+ .thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-an
+ d-women/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:62bc2012e3e83eb017f2@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270922T123000
+DTEND;TZID=Europe/London:20270922T203000
+SUMMARY:🏏 England v New Zealand – 4th ODI
+LOCATION:Trent Bridge\, Nottingham\, England
+DESCRIPTION:New Zealand tour of England 2027 – 4th ODI\nTeam: England Me
+ n (cricket)\nStatus: Confirmed\nStart: 12:30 UK time\nSource: https://www
+ .thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-an
+ d-women/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4410d88ee5339a2404ff@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270925T103000
+DTEND;TZID=Europe/London:20270925T183000
+SUMMARY:🏏 England v New Zealand – 5th ODI
+LOCATION:Headingley\, Leeds\, England
+DESCRIPTION:New Zealand tour of England 2027 – 5th ODI\nTeam: England Me
+ n (cricket)\nStatus: Confirmed\nStart: 10:30 UK time\nSource: https://www
+ .thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-england-men-an
+ d-women/\nCalendar last rebuilt: 20261104
+URL:https://www.thecricketpaper.com/the-ashes-2027-fixtures-confirmed-for-
+ england-men-and-women/
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:78a9451def12263d5187@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20271002T111500
+DTEND;TZID=Europe/London:20271002T131500
+SUMMARY:🏉 England v Tonga (Rugby World Cup 2027)
+LOCATION:Brisbane Stadium\, Brisbane\, Australia
+DESCRIPTION:Rugby World Cup 2027 – Pool F\nTeam: England Men\nStatus: Co
+ nfirmed\nStart: 11:15 UK time\nNote: 20:15 AEST local.\nSource: https://r
+ esources.worldrugby-rims.pulselive.com/worldrugby/document/2026/02/02/d09
+ 6842d-5029-42fc-9720-3eaa66d27134/RWC-2027_Match-Schedule_All.pdf\nCalend
+ ar last rebuilt: 20261104
+URL:https://resources.worldrugby-rims.pulselive.com/worldrugby/document/20
+ 26/02/02/d096842d-5029-42fc-9720-3eaa66d27134/RWC-2027_Match-Schedule_All
+ .pdf
+CATEGORIES:Rugby\,England Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bd8fc8037d0b825c4a1a@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20271008T104500
+DTEND;TZID=Europe/London:20271008T124500
+SUMMARY:🏉 England v Zimbabwe (Rugby World Cup 2027)
+LOCATION:Adelaide Oval\, Adelaide\, Australia
+DESCRIPTION:Rugby World Cup 2027 – Pool F\nTeam: England Men\nStatus: Co
+ nfirmed\nStart: 10:45 UK time\nNote: 20:15 ACDT local.\nSource: https://r
+ esources.worldrugby-rims.pulselive.com/worldrugby/document/2026/02/02/d09
+ 6842d-5029-42fc-9720-3eaa66d27134/RWC-2027_Match-Schedule_All.pdf\nCalend
+ ar last rebuilt: 20261104
+URL:https://resources.worldrugby-rims.pulselive.com/worldrugby/document/20
+ 26/02/02/d096842d-5029-42fc-9720-3eaa66d27134/RWC-2027_Match-Schedule_All
+ .pdf
+CATEGORIES:Rugby\,England Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1e00489d1d70bd08aabf@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:🏏 England v Bangladesh – Group B (ODI) · time TBC
+LOCATION:Namibia Cricket Ground\, Windhoek\, Namibia
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nTeam: England Me
+ n (cricket)\nStatus: Date confirmed – kick-off/start time not yet publi
+ shed\nNote: Start time not officially published by ICC/ECB (media expect 
+ 10:00 local = 09:00 UK BST).\nSource: https://www.ecb.co.uk/news/4585241/
+ england-fixtures-for-2027-icc-mens-cricket-world-cup-announced\nCalendar 
+ last rebuilt: 20261104
+URL:https://www.ecb.co.uk/news/4585241/england-fixtures-for-2027-icc-mens-
+ cricket-world-cup-announced
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b5ff04cb7aadad817de0@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+SUMMARY:🏏 England v Sri Lanka – Group B (ODI) · time TBC
+LOCATION:Namibia Cricket Ground\, Windhoek\, Namibia
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nTeam: England Me
+ n (cricket)\nStatus: Date confirmed – kick-off/start time not yet publi
+ shed\nNote: Start time not officially published by ICC/ECB (media expect 
+ 10:00 local = 09:00 UK BST).\nSource: https://www.ecb.co.uk/news/4585241/
+ england-fixtures-for-2027-icc-mens-cricket-world-cup-announced\nCalendar 
+ last rebuilt: 20261104
+URL:https://www.ecb.co.uk/news/4585241/england-fixtures-for-2027-icc-mens-
+ cricket-world-cup-announced
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:593a201969739dc01c99@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20271016T094500
+DTEND;TZID=Europe/London:20271016T114500
+SUMMARY:🏉 England v Wales (Rugby World Cup 2027)
+LOCATION:Stadium Australia\, Sydney\, Australia
+DESCRIPTION:Rugby World Cup 2027 – Pool F\nTeam: England Men\nStatus: Co
+ nfirmed\nStart: 09:45 UK time\nNote: 19:45 AEDT local.\nSource: https://r
+ esources.worldrugby-rims.pulselive.com/worldrugby/document/2026/02/02/d09
+ 6842d-5029-42fc-9720-3eaa66d27134/RWC-2027_Match-Schedule_All.pdf\nCalend
+ ar last rebuilt: 20261104
+URL:https://resources.worldrugby-rims.pulselive.com/worldrugby/document/20
+ 26/02/02/d096842d-5029-42fc-9720-3eaa66d27134/RWC-2027_Match-Schedule_All
+ .pdf
+CATEGORIES:Rugby\,England Men
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bd63014d80108f97a064@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:🏏 South Africa v England – Group B (ODI) · time TBC
+LOCATION:St George's Park\, Gqeberha\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nTeam: England Me
+ n (cricket)\nStatus: Date confirmed – kick-off/start time not yet publi
+ shed\nNote: Start time not officially published by ICC/ECB (media expect 
+ 10:00 local = 09:00 UK BST).\nSource: https://www.ecb.co.uk/news/4585241/
+ england-fixtures-for-2027-icc-mens-cricket-world-cup-announced\nCalendar 
+ last rebuilt: 20261104
+URL:https://www.ecb.co.uk/news/4585241/england-fixtures-for-2027-icc-mens-
+ cricket-world-cup-announced
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:368b6c4ff3297115e390@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:🏏 England v Qualifier B – Group B (ODI) · time TBC
+LOCATION:Harare Sports Club\, Harare\, Zimbabwe
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nTeam: England Me
+ n (cricket)\nStatus: Date confirmed – kick-off/start time not yet publi
+ shed\nNote: Start time not officially published by ICC/ECB (media expect 
+ 10:00 local = 09:00 UK BST).\nSource: https://www.ecb.co.uk/news/4585241/
+ england-fixtures-for-2027-icc-mens-cricket-world-cup-announced\nCalendar 
+ last rebuilt: 20261104
+URL:https://www.ecb.co.uk/news/4585241/england-fixtures-for-2027-icc-mens-
+ cricket-world-cup-announced
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b16d8a31b798147443b9@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:🏏 England v New Zealand – Group B (ODI) · time TBC
+LOCATION:St George's Park\, Gqeberha\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Group B\nTeam: England Me
+ n (cricket)\nStatus: Date confirmed – kick-off/start time not yet publi
+ shed\nNote: Start time not officially published by ICC/ECB (media expect 
+ 10:00 local = 09:00 UK BST).\nSource: https://www.ecb.co.uk/news/4585241/
+ england-fixtures-for-2027-icc-mens-cricket-world-cup-announced\nCalendar 
+ last rebuilt: 20261104
+URL:https://www.ecb.co.uk/news/4585241/england-fixtures-for-2027-icc-mens-
+ cricket-world-cup-announced
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:71599ef70b13c49a575f@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271025
+SUMMARY:🏉 England – Rugby World Cup: Round of 16 (if qualified) - 1st
+  in Pool F: Sun 24 Oct 11:45 UK Perth\; 2nd: Sat 23 Oct 04:15 UK Sydney
+LOCATION:Australia
+DESCRIPTION:Rugby World Cup 2027 – Round of 16 (if qualified) - 1st in P
+ ool F: Sun 24 Oct 11:45 UK Perth\; 2nd: Sat 23 Oct 04:15 UK Sydney\nTeam:
+  England Men\nStatus: Placeholder – depends on qualification / dates in
+ dicative\nSource: https://resources.worldrugby-rims.pulselive.com/worldru
+ gby/document/2026/02/02/d096842d-5029-42fc-9720-3eaa66d27134/RWC-2027_Mat
+ ch-Schedule_All.pdf\nCalendar last rebuilt: 20261104
+URL:https://resources.worldrugby-rims.pulselive.com/worldrugby/document/20
+ 26/02/02/d096842d-5029-42fc-9720-3eaa66d27134/RWC-2027_Match-Schedule_All
+ .pdf
+CATEGORIES:Rugby\,England Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4b7fff88634f4a0a773d@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271112
+SUMMARY:🏏 England – ICC Men's Cricket World Cup: Super 7 stage (if qu
+ alified) - possible dates 27 & 30 Oct\, 2\, 5\, 8 & 11 Nov
+LOCATION:Various\, Various\, South Africa / Zimbabwe
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Super 7 stage (if qualifi
+ ed) - possible dates 27 & 30 Oct\, 2\, 5\, 8 & 11 Nov\nTeam: England Men 
+ (cricket)\nStatus: Placeholder – depends on qualification / dates indic
+ ative\nNote: Per ICC schedule the AB4 slot plays 27 Oct Tshwane\, 30 Oct 
+ Victoria Falls\, 2 Nov Cape Town\, 5 Nov Durban\, 8 Nov Durban\, 11 Nov G
+ qeberha\; England's slot depends on group finish.\nSource: https://www.ic
+ c-cricket.com/tournaments/icc-cricket-world-cup-2027/news/fixture-schedul
+ e-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar last rebuilt: 
+ 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:997e638b593bba02e743@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20271030
+DTEND;VALUE=DATE:20271101
+SUMMARY:🏉 England – Rugby World Cup: Quarter-finals (if qualified)
+LOCATION:Stadium Australia or Brisbane Stadium\, Sydney or Brisbane\, Aust
+ ralia
+DESCRIPTION:Rugby World Cup 2027 – Quarter-finals (if qualified)\nTeam: 
+ England Men\nStatus: Placeholder – depends on qualification / dates ind
+ icative\nSource: https://resources.worldrugby-rims.pulselive.com/worldrug
+ by/document/2026/02/02/d096842d-5029-42fc-9720-3eaa66d27134/RWC-2027_Matc
+ h-Schedule_All.pdf\nCalendar last rebuilt: 20261104
+URL:https://resources.worldrugby-rims.pulselive.com/worldrugby/document/20
+ 26/02/02/d096842d-5029-42fc-9720-3eaa66d27134/RWC-2027_Match-Schedule_All
+ .pdf
+CATEGORIES:Rugby\,England Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0fc713f2138092fe69a7@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20271105
+DTEND;VALUE=DATE:20271107
+SUMMARY:🏉 England – Rugby World Cup: Semi-finals (if qualified) - 09:
+ 00 UK either day
+LOCATION:Stadium Australia\, Sydney\, Australia
+DESCRIPTION:Rugby World Cup 2027 – Semi-finals (if qualified) - 09:00 UK
+  either day\nTeam: England Men\nStatus: Placeholder – depends on qualif
+ ication / dates indicative\nSource: https://resources.worldrugby-rims.pul
+ selive.com/worldrugby/document/2026/02/02/d096842d-5029-42fc-9720-3eaa66d
+ 27134/RWC-2027_Match-Schedule_All.pdf\nCalendar last rebuilt: 20261104
+URL:https://resources.worldrugby-rims.pulselive.com/worldrugby/document/20
+ 26/02/02/d096842d-5029-42fc-9720-3eaa66d27134/RWC-2027_Match-Schedule_All
+ .pdf
+CATEGORIES:Rugby\,England Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d0f4c0a0700fe9e2e3ad@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20271113T090000
+DTEND;TZID=Europe/London:20271113T110000
+SUMMARY:🏉 England – Rugby World Cup: Final (if qualified)
+LOCATION:Stadium Australia\, Sydney\, Australia
+DESCRIPTION:Rugby World Cup 2027 – Final (if qualified)\nTeam: England M
+ en\nStatus: Placeholder – depends on qualification / dates indicative\n
+ Start: 09:00 UK time\nSource: https://resources.worldrugby-rims.pulselive
+ .com/worldrugby/document/2026/02/02/d096842d-5029-42fc-9720-3eaa66d27134/
+ RWC-2027_Match-Schedule_All.pdf\nCalendar last rebuilt: 20261104
+URL:https://resources.worldrugby-rims.pulselive.com/worldrugby/document/20
+ 26/02/02/d096842d-5029-42fc-9720-3eaa66d27134/RWC-2027_Match-Schedule_All
+ .pdf
+CATEGORIES:Rugby\,England Men
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:43b24fa5735ad91ae46b@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271119
+SUMMARY:🏏 England – ICC Men's Cricket World Cup: Semi-finals (if qual
+ ified) - 17 Nov Cape Town / 18 Nov Centurion
+LOCATION:Cape Town / Centurion\, Various\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Semi-finals (if qualified
+ ) - 17 Nov Cape Town / 18 Nov Centurion\nTeam: England Men (cricket)\nSta
+ tus: Placeholder – depends on qualification / dates indicative\nSource:
+  https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/news/
+ fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027\nCalendar
+  last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ab9d7019e6c9dedbb35b@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20271121
+DTEND;VALUE=DATE:20271122
+SUMMARY:🏏 England – ICC Men's Cricket World Cup: Final (if qualified)
+LOCATION:Wanderers Stadium\, Johannesburg\, South Africa
+DESCRIPTION:ICC Men's Cricket World Cup 2027 – Final (if qualified)\nTea
+ m: England Men (cricket)\nStatus: Placeholder – depends on qualificatio
+ n / dates indicative\nSource: https://www.icc-cricket.com/tournaments/icc
+ -cricket-world-cup-2027/news/fixture-schedule-announced-for-icc-men-s-cri
+ cket-world-cup-2027\nCalendar last rebuilt: 20261104
+URL:https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-2027/new
+ s/fixture-schedule-announced-for-icc-men-s-cricket-world-cup-2027
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a8bce31bc5a53959d4de@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280301
+SUMMARY:🏏 England – Tour of India: 5-Test series - dates and venues T
+ BC
+LOCATION:India
+DESCRIPTION:England tour of India 2027-28 – 5-Test series - dates and ve
+ nues TBC\nTeam: England Men (cricket)\nStatus: Placeholder – depends on
+  qualification / dates indicative\nTest runs Sat 01 Jan – Tue 29 Feb 20
+ 28\nNote: Five Tests expected Jan-Feb 2028\; dates and venues not yet ann
+ ounced.\nSource: https://en.wikipedia.org/wiki/International_cricket_in_2
+ 027%E2%80%9328\nCalendar last rebuilt: 20261104
+URL:https://en.wikipedia.org/wiki/International_cricket_in_2027%E2%80%9328
+CATEGORIES:Cricket\,England Men (cricket)
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

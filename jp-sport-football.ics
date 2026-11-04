@@ -1,0 +1,2158 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//JP Sport//Fixture Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:JP Sport – Football
+X-WR-TIMEZONE:Europe/London
+X-APPLE-CALENDAR-COLOR:#6A1B9A
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3a39f646f42df949c5fa@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:⚽ Brazil (A1) v Group A opponent (TBD) (Women's World Cup 2027\,
+  Match 1 – Group A) · time TBC
+LOCATION:Estádio do Maracanã\, Rio de Janeiro\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 1 – Group A\nStatus: D
+ ate confirmed – kick-off/start time not yet published\nSource: https://
+ www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalend
+ ar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c35308741908cf04518d@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:⚽ Group A team (TBD) v Group A team (TBD) (Women's World Cup 202
+ 7\, Match 2 – Group A) · time TBC
+LOCATION:Arena Fonte Nova\, Salvador\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 2 – Group A\nStatus: D
+ ate confirmed – kick-off/start time not yet published\nSource: https://
+ www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalend
+ ar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5723f4d82b938fe74f5d@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:⚽ Group B team (TBD) v Group B team (TBD) (Women's World Cup 202
+ 7\, Match 3 – Group B) · time TBC
+LOCATION:Estádio Nacional Mané Garrincha\, Brasília\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 3 – Group B\nStatus: D
+ ate confirmed – kick-off/start time not yet published\nSource: https://
+ www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalend
+ ar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b5bd2856ed3210556ce5@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:⚽ Group B team (TBD) v Group B team (TBD) (Women's World Cup 202
+ 7\, Match 4 – Group B) · time TBC
+LOCATION:Arena Itaquera (Neo Química Arena)\, São Paulo\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 4 – Group B\nStatus: D
+ ate confirmed – kick-off/start time not yet published\nSource: https://
+ www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalend
+ ar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:df2fe0b96dffa305cddb@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:⚽ Group C team (TBD) v Group C team (TBD) (Women's World Cup 202
+ 7\, Match 5 – Group C) · time TBC
+LOCATION:Estádio Mineirão\, Belo Horizonte\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 5 – Group C\nStatus: D
+ ate confirmed – kick-off/start time not yet published\nSource: https://
+ www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalend
+ ar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d58b90d4201d1b5e6962@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:⚽ Group C team (TBD) v Group C team (TBD) (Women's World Cup 202
+ 7\, Match 6 – Group C) · time TBC
+LOCATION:Estádio Beira-Rio\, Porto Alegre\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 6 – Group C\nStatus: D
+ ate confirmed – kick-off/start time not yet published\nSource: https://
+ www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalend
+ ar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:59dff44181306c97789c@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:⚽ Group D team (TBD) v Group D team (TBD) (Women's World Cup 202
+ 7\, Match 7 – Group D) · time TBC
+LOCATION:Arena Castelão\, Fortaleza\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 7 – Group D\nStatus: D
+ ate confirmed – kick-off/start time not yet published\nSource: https://
+ www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalend
+ ar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cc23d9ddc6de2c49aa7d@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:⚽ Group D team (TBD) v Group D team (TBD) (Women's World Cup 202
+ 7\, Match 8 – Group D) · time TBC
+LOCATION:Estádio do Maracanã\, Rio de Janeiro\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 8 – Group D\nStatus: D
+ ate confirmed – kick-off/start time not yet published\nSource: https://
+ www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalend
+ ar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae798e463a8b26d90467@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:⚽ Group E team (TBD) v Group E team (TBD) (Women's World Cup 202
+ 7\, Match 9 – Group E) · time TBC
+LOCATION:Arena de Pernambuco\, Recife\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 9 – Group E\nStatus: D
+ ate confirmed – kick-off/start time not yet published\nSource: https://
+ www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalend
+ ar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f28d70b4f3e3beb23d40@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:⚽ Group E team (TBD) v Group E team (TBD) (Women's World Cup 202
+ 7\, Match 10 – Group E) · time TBC
+LOCATION:Estádio Nacional Mané Garrincha\, Brasília\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 10 – Group E\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6de75b2955b8e86ac003@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:⚽ Group F team (TBD) v Group F team (TBD) (Women's World Cup 202
+ 7\, Match 11 – Group F) · time TBC
+LOCATION:Arena Fonte Nova\, Salvador\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 11 – Group F\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f2bf3dedfb515702c50f@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:⚽ Group F team (TBD) v Group F team (TBD) (Women's World Cup 202
+ 7\, Match 12 – Group F) · time TBC
+LOCATION:Arena Itaquera (Neo Química Arena)\, São Paulo\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 12 – Group F\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:70cc5b37592af4224b49@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:⚽ Group G team (TBD) v Group G team (TBD) (Women's World Cup 202
+ 7\, Match 13 – Group G) · time TBC
+LOCATION:Arena Castelão\, Fortaleza\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 13 – Group G\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:403bda2451a4afff0ff3@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:⚽ Group G team (TBD) v Group G team (TBD) (Women's World Cup 202
+ 7\, Match 14 – Group G) · time TBC
+LOCATION:Estádio Mineirão\, Belo Horizonte\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 14 – Group G\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1231d086db5ad8e9be23@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:⚽ Group H team (TBD) v Group H team (TBD) (Women's World Cup 202
+ 7\, Match 15 – Group H) · time TBC
+LOCATION:Estádio Beira-Rio\, Porto Alegre\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 15 – Group H\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:64395ce6a8eb3a66b5df@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:⚽ Group H team (TBD) v Group H team (TBD) (Women's World Cup 202
+ 7\, Match 16 – Group H) · time TBC
+LOCATION:Arena Fonte Nova\, Salvador\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 16 – Group H\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f8d8fe37f55bc24c5a07@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:⚽ Group A team (TBD) v Group A team (TBD) (Women's World Cup 202
+ 7\, Match 17 – Group A) · time TBC
+LOCATION:Arena de Pernambuco\, Recife\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 17 – Group A\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:89a9c2c98181a7d14cf4@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:⚽ Brazil (A1) v Group A opponent (TBD) (Women's World Cup 2027\,
+  Match 18 – Group A) · time TBC
+LOCATION:Arena Itaquera (Neo Química Arena)\, São Paulo\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 18 – Group A\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8ba614bfdce141eb0a9e@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:⚽ Group B team (TBD) v Group B team (TBD) (Women's World Cup 202
+ 7\, Match 19 – Group B) · time TBC
+LOCATION:Estádio Mineirão\, Belo Horizonte\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 19 – Group B\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a3e7bf43fd95e2fc3bda@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:⚽ Group B team (TBD) v Group B team (TBD) (Women's World Cup 202
+ 7\, Match 20 – Group B) · time TBC
+LOCATION:Estádio Beira-Rio\, Porto Alegre\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 20 – Group B\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7e5c50c0db11557243a0@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:⚽ Group C team (TBD) v Group C team (TBD) (Women's World Cup 202
+ 7\, Match 21 – Group C) · time TBC
+LOCATION:Estádio do Maracanã\, Rio de Janeiro\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 21 – Group C\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9f14a79c74b09566f334@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:⚽ Group C team (TBD) v Group C team (TBD) (Women's World Cup 202
+ 7\, Match 22 – Group C) · time TBC
+LOCATION:Estádio Nacional Mané Garrincha\, Brasília\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 22 – Group C\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c9e00eca8348f97c898b@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:⚽ Group D team (TBD) v Group D team (TBD) (Women's World Cup 202
+ 7\, Match 23 – Group D) · time TBC
+LOCATION:Arena de Pernambuco\, Recife\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 23 – Group D\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c76817fc7252ad18c3c3@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:⚽ Group D team (TBD) v Group D team (TBD) (Women's World Cup 202
+ 7\, Match 24 – Group D) · time TBC
+LOCATION:Arena Itaquera (Neo Química Arena)\, São Paulo\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 24 – Group D\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:87632813e194e530a929@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:⚽ Group E team (TBD) v Group E team (TBD) (Women's World Cup 202
+ 7\, Match 25 – Group E) · time TBC
+LOCATION:Arena Castelão\, Fortaleza\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 25 – Group E\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:36542f3429ebb53ae608@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:⚽ Group E team (TBD) v Group E team (TBD) (Women's World Cup 202
+ 7\, Match 26 – Group E) · time TBC
+LOCATION:Arena Fonte Nova\, Salvador\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 26 – Group E\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8ea29ee21e4fd07ec6e3@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:⚽ Group F team (TBD) v Group F team (TBD) (Women's World Cup 202
+ 7\, Match 27 – Group F) · time TBC
+LOCATION:Estádio Mineirão\, Belo Horizonte\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 27 – Group F\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a1032a212b92c5211994@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:⚽ Group F team (TBD) v Group F team (TBD) (Women's World Cup 202
+ 7\, Match 28 – Group F) · time TBC
+LOCATION:Estádio Beira-Rio\, Porto Alegre\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 28 – Group F\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e4f28b4fe7232ea2144a@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:⚽ Group G team (TBD) v Group G team (TBD) (Women's World Cup 202
+ 7\, Match 29 – Group G) · time TBC
+LOCATION:Arena de Pernambuco\, Recife\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 29 – Group G\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:df146830c45fcdd1bf56@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:⚽ Group G team (TBD) v Group G team (TBD) (Women's World Cup 202
+ 7\, Match 30 – Group G) · time TBC
+LOCATION:Estádio do Maracanã\, Rio de Janeiro\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 30 – Group G\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:772e002b5d2c7bb54c4e@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:⚽ Group H team (TBD) v Group H team (TBD) (Women's World Cup 202
+ 7\, Match 31 – Group H) · time TBC
+LOCATION:Arena Castelão\, Fortaleza\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 31 – Group H\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:739950bb83fae2653caf@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:⚽ Group H team (TBD) v Group H team (TBD) (Women's World Cup 202
+ 7\, Match 32 – Group H) · time TBC
+LOCATION:Arena Itaquera (Neo Química Arena)\, São Paulo\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 32 – Group H\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8f013a9c8327386ef4c9@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:⚽ Group A team (TBD) v Group A team (TBD) (Women's World Cup 202
+ 7\, Match 33 – Group A) · time TBC
+LOCATION:Arena Fonte Nova\, Salvador\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 33 – Group A\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f2e295730b96c9575887@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:⚽ Brazil (A1) v Group A opponent (TBD) (Women's World Cup 2027\,
+  Match 34 – Group A) · time TBC
+LOCATION:Estádio Nacional Mané Garrincha\, Brasília\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 34 – Group A\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5ef13faa7031574d5e07@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:⚽ Group B team (TBD) v Group B team (TBD) (Women's World Cup 202
+ 7\, Match 35 – Group B) · time TBC
+LOCATION:Arena de Pernambuco\, Recife\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 35 – Group B\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:24c39ac06cad3fd632c6@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:⚽ Group B team (TBD) v Group B team (TBD) (Women's World Cup 202
+ 7\, Match 36 – Group B) · time TBC
+LOCATION:Estádio do Maracanã\, Rio de Janeiro\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 36 – Group B\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f71f35a671511d79aa29@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:⚽ Group C team (TBD) v Group C team (TBD) (Women's World Cup 202
+ 7\, Match 37 – Group C) · time TBC
+LOCATION:Estádio Mineirão\, Belo Horizonte\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 37 – Group C\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7832c9956cfea169e8e@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:⚽ Group C team (TBD) v Group C team (TBD) (Women's World Cup 202
+ 7\, Match 38 – Group C) · time TBC
+LOCATION:Estádio Beira-Rio\, Porto Alegre\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 38 – Group C\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4e0730f743b1efb14f86@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:⚽ Group D team (TBD) v Group D team (TBD) (Women's World Cup 202
+ 7\, Match 39 – Group D) · time TBC
+LOCATION:Arena Castelão\, Fortaleza\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 39 – Group D\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:63e73bd90fa7e24761cb@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:⚽ Group D team (TBD) v Group D team (TBD) (Women's World Cup 202
+ 7\, Match 40 – Group D) · time TBC
+LOCATION:Estádio Nacional Mané Garrincha\, Brasília\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 40 – Group D\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:49cc72e7e1e659ac6ad7@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:⚽ Group E team (TBD) v Group E team (TBD) (Women's World Cup 202
+ 7\, Match 41 – Group E) · time TBC
+LOCATION:Arena de Pernambuco\, Recife\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 41 – Group E\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:23f943486e2c524238f7@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:⚽ Group E team (TBD) v Group E team (TBD) (Women's World Cup 202
+ 7\, Match 42 – Group E) · time TBC
+LOCATION:Estádio Mineirão\, Belo Horizonte\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 42 – Group E\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7bcf2842590afd360840@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:⚽ Group F team (TBD) v Group F team (TBD) (Women's World Cup 202
+ 7\, Match 43 – Group F) · time TBC
+LOCATION:Arena Fonte Nova\, Salvador\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 43 – Group F\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6c60f5d6c194c9392758@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:⚽ Group F team (TBD) v Group F team (TBD) (Women's World Cup 202
+ 7\, Match 44 – Group F) · time TBC
+LOCATION:Estádio do Maracanã\, Rio de Janeiro\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 44 – Group F\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:65a41f5f9cebaa75604f@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:⚽ Group G team (TBD) v Group G team (TBD) (Women's World Cup 202
+ 7\, Match 45 – Group G) · time TBC
+LOCATION:Arena Castelão\, Fortaleza\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 45 – Group G\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:26465a20ab3cad912402@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:⚽ Group G team (TBD) v Group G team (TBD) (Women's World Cup 202
+ 7\, Match 46 – Group G) · time TBC
+LOCATION:Arena Itaquera (Neo Química Arena)\, São Paulo\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 46 – Group G\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d92672fbfc55a03edb9b@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:⚽ Group H team (TBD) v Group H team (TBD) (Women's World Cup 202
+ 7\, Match 47 – Group H) · time TBC
+LOCATION:Estádio Nacional Mané Garrincha\, Brasília\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 47 – Group H\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6f327524e7499d72c3ea@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:⚽ Group H team (TBD) v Group H team (TBD) (Women's World Cup 202
+ 7\, Match 48 – Group H) · time TBC
+LOCATION:Estádio Beira-Rio\, Porto Alegre\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 48 – Group H\nStatus: 
+ Date confirmed – kick-off/start time not yet published\nSource: https:/
+ /www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalen
+ dar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:274c3d0cc4ad71a64399@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:⚽ Winner Group A v Runner-up Group B (Women's World Cup 2027\, M
+ atch 49 – Round of 16) · time TBC
+LOCATION:Arena Castelão\, Fortaleza\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 49 – Round of 16\nStat
+ us: Date confirmed – kick-off/start time not yet published\nSource: htt
+ ps://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nC
+ alendar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0d1495105976a1cca76e@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:⚽ Winner Group C v Runner-up Group D (Women's World Cup 2027\, M
+ atch 50 – Round of 16) · time TBC
+LOCATION:Arena de Pernambuco\, Recife\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 50 – Round of 16\nStat
+ us: Date confirmed – kick-off/start time not yet published\nSource: htt
+ ps://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nC
+ alendar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3d84f7db3b00d6fa8ee9@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:⚽ Winner Group B v Runner-up Group A (Women's World Cup 2027\, M
+ atch 51 – Round of 16) · time TBC
+LOCATION:Estádio Mineirão\, Belo Horizonte\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 51 – Round of 16\nStat
+ us: Date confirmed – kick-off/start time not yet published\nSource: htt
+ ps://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nC
+ alendar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1bce38d386d1d8fa940f@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:⚽ Winner Group D v Runner-up Group C (Women's World Cup 2027\, M
+ atch 52 – Round of 16) · time TBC
+LOCATION:Arena Itaquera (Neo Química Arena)\, São Paulo\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 52 – Round of 16\nStat
+ us: Date confirmed – kick-off/start time not yet published\nSource: htt
+ ps://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nC
+ alendar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:17e4afba5f1e761a3174@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270713
+SUMMARY:⚽ Winner Group E v Runner-up Group F (Women's World Cup 2027\, M
+ atch 53 – Round of 16) · time TBC
+LOCATION:Estádio Beira-Rio\, Porto Alegre\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 53 – Round of 16\nStat
+ us: Date confirmed – kick-off/start time not yet published\nSource: htt
+ ps://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nC
+ alendar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2ca6da5f9309d44a98fe@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270713
+SUMMARY:⚽ Winner Group G v Runner-up Group H (Women's World Cup 2027\, M
+ atch 54 – Round of 16) · time TBC
+LOCATION:Arena Fonte Nova\, Salvador\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 54 – Round of 16\nStat
+ us: Date confirmed – kick-off/start time not yet published\nSource: htt
+ ps://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nC
+ alendar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d3095c2290e36fc0a722@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270714
+SUMMARY:⚽ Winner Group F v Runner-up Group E (Women's World Cup 2027\, M
+ atch 55 – Round of 16) · time TBC
+LOCATION:Arena Castelão\, Fortaleza\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 55 – Round of 16\nStat
+ us: Date confirmed – kick-off/start time not yet published\nSource: htt
+ ps://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nC
+ alendar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:55b701d37653ec610271@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270714
+SUMMARY:⚽ Winner Group H v Runner-up Group G (Women's World Cup 2027\, M
+ atch 56 – Round of 16) · time TBC
+LOCATION:Estádio Nacional Mané Garrincha\, Brasília\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 56 – Round of 16\nStat
+ us: Date confirmed – kick-off/start time not yet published\nSource: htt
+ ps://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nC
+ alendar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:efca05f1e9c0a24c08d2@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:⚽ Winner Match 49 v Winner Match 50 (Women's World Cup 2027\, Ma
+ tch 57 – Quarter-final) · time TBC
+LOCATION:Estádio Mineirão\, Belo Horizonte\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 57 – Quarter-final\nSt
+ atus: Date confirmed – kick-off/start time not yet published\nSource: h
+ ttps://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\
+ nCalendar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ed6376dc8fcccc9ad2ba@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:⚽ Winner Match 53 v Winner Match 54 (Women's World Cup 2027\, Ma
+ tch 58 – Quarter-final) · time TBC
+LOCATION:Estádio do Maracanã\, Rio de Janeiro\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 58 – Quarter-final\nSt
+ atus: Date confirmed – kick-off/start time not yet published\nSource: h
+ ttps://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\
+ nCalendar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1c820cf63b4ba6f4fa95@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:⚽ Winner Match 51 v Winner Match 52 (Women's World Cup 2027\, Ma
+ tch 59 – Quarter-final) · time TBC
+LOCATION:Arena Castelão\, Fortaleza\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 59 – Quarter-final\nSt
+ atus: Date confirmed – kick-off/start time not yet published\nSource: h
+ ttps://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\
+ nCalendar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8b3797a19cd16ea04f0b@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:⚽ Winner Match 55 v Winner Match 56 (Women's World Cup 2027\, Ma
+ tch 60 – Quarter-final) · time TBC
+LOCATION:Arena Itaquera (Neo Química Arena)\, São Paulo\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 60 – Quarter-final\nSt
+ atus: Date confirmed – kick-off/start time not yet published\nSource: h
+ ttps://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\
+ nCalendar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f124af08fe33620bfaf0@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:⚽ Winner Match 57 v Winner Match 58 (Women's World Cup 2027\, Ma
+ tch 61 – Semi-final) · time TBC
+LOCATION:Arena Itaquera (Neo Química Arena)\, São Paulo\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 61 – Semi-final\nStatu
+ s: Date confirmed – kick-off/start time not yet published\nSource: http
+ s://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCa
+ lendar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3ec923cac32817c3f7f6@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:⚽ Winner Match 59 v Winner Match 60 (Women's World Cup 2027\, Ma
+ tch 62 – Semi-final) · time TBC
+LOCATION:Estádio do Maracanã\, Rio de Janeiro\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 62 – Semi-final\nStatu
+ s: Date confirmed – kick-off/start time not yet published\nSource: http
+ s://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCa
+ lendar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:501843cc6395f0626fc1@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:⚽ Loser Match 61 v Loser Match 62 (Women's World Cup 2027\, Matc
+ h 63 – Third-place play-off) · time TBC
+LOCATION:Arena Itaquera (Neo Química Arena)\, São Paulo\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 63 – Third-place play-
+ off\nStatus: Date confirmed – kick-off/start time not yet published\nSo
+ urce: https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/sch
+ edule/\nCalendar last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b0391a6129b791a5d991@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:⚽ Winner Match 61 v Winner Match 62 (Women's World Cup 2027\, Ma
+ tch 64 – Final) · time TBC
+LOCATION:Estádio do Maracanã\, Rio de Janeiro\, Brazil
+DESCRIPTION:FIFA Women's World Cup 2027 – Match 64 – Final\nStatus: Da
+ te confirmed – kick-off/start time not yet published\nSource: https://w
+ ww.roadtrips.com/soccer-packages/2027-womens-world-cup/schedule/\nCalenda
+ r last rebuilt: 20261104
+URL:https://www.roadtrips.com/soccer-packages/2027-womens-world-cup/schedu
+ le/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7bc1f054add8f5fb889@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280609
+DTEND;VALUE=DATE:20280610
+SUMMARY:⚽ Wales (A1\, if qualified) v Group A slot A2 (UEFA Euro 2028\, 
+ Match 1 – Group A) · time TBC
+LOCATION:Principality Stadium (National Stadium of Wales)\, Cardiff\, Wale
+ s
+DESCRIPTION:UEFA Euro 2028 – Match 1 – Group A\nStatus: Date confirmed
+  – kick-off/start time not yet published\nSource: https://www.skysports
+ .com/football/news/13468517/euro-2028-dates-venues-host-cities-format-and
+ -schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalendar
+  last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dce800f9a60457f51190@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280610
+DTEND;VALUE=DATE:20280611
+SUMMARY:⚽ Group B slot B3 v Group B slot B4 (UEFA Euro 2028\, Match 2 
+ – Group B) · time TBC
+LOCATION:Aviva Stadium (Dublin Arena)\, Dublin\, Ireland
+DESCRIPTION:UEFA Euro 2028 – Match 2 – Group B\nStatus: Date confirmed
+  – kick-off/start time not yet published\nSource: https://www.skysports
+ .com/football/news/13468517/euro-2028-dates-venues-host-cities-format-and
+ -schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalendar
+  last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4760a40734b147def9c9@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280610
+DTEND;VALUE=DATE:20280611
+SUMMARY:⚽ Group A slot A3 v Group A slot A4 (UEFA Euro 2028\, Match 3 
+ – Group A) · time TBC
+LOCATION:Hampden Park\, Glasgow\, Scotland
+DESCRIPTION:UEFA Euro 2028 – Match 3 – Group A\nStatus: Date confirmed
+  – kick-off/start time not yet published\nSource: https://www.skysports
+ .com/football/news/13468517/euro-2028-dates-venues-host-cities-format-and
+ -schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalendar
+  last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b6936795b7077bb26279@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280610
+DTEND;VALUE=DATE:20280611
+SUMMARY:⚽ England (B1\, if qualified) v Group B slot B2 (UEFA Euro 2028\
+ , Match 4 – Group B) · time TBC
+LOCATION:Etihad Stadium (City of Manchester Stadium)\, Manchester\, Englan
+ d
+DESCRIPTION:UEFA Euro 2028 – Match 4 – Group B\nStatus: Date confirmed
+  – kick-off/start time not yet published\nSource: https://www.skysports
+ .com/football/news/13468517/euro-2028-dates-venues-host-cities-format-and
+ -schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalendar
+  last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cbb29dfb4d69fd78b5a1@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280611
+DTEND;VALUE=DATE:20280612
+SUMMARY:⚽ Group D slot D3 v Group D slot D4 (UEFA Euro 2028\, Match 5 
+ – Group D) · time TBC
+LOCATION:Hill Dickinson Stadium (Everton Stadium)\, Liverpool\, England
+DESCRIPTION:UEFA Euro 2028 – Match 5 – Group D\nStatus: Date confirmed
+  – kick-off/start time not yet published\nSource: https://www.skysports
+ .com/football/news/13468517/euro-2028-dates-venues-host-cities-format-and
+ -schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalendar
+  last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:42ddbbf28d6642054d34@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280611
+DTEND;VALUE=DATE:20280612
+SUMMARY:⚽ Group C slot C3 v Group C slot C4 (UEFA Euro 2028\, Match 6 
+ – Group C) · time TBC
+LOCATION:Villa Park\, Birmingham\, England
+DESCRIPTION:UEFA Euro 2028 – Match 6 – Group C\nStatus: Date confirmed
+  – kick-off/start time not yet published\nSource: https://www.skysports
+ .com/football/news/13468517/euro-2028-dates-venues-host-cities-format-and
+ -schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalendar
+  last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:84104ed1ada1d4b710f3@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280611
+DTEND;VALUE=DATE:20280612
+SUMMARY:⚽ Group C slot C1 v Group C slot C2 (UEFA Euro 2028\, Match 7 
+ – Group C) · time TBC
+LOCATION:Wembley Stadium\, London\, England
+DESCRIPTION:UEFA Euro 2028 – Match 7 – Group C\nStatus: Date confirmed
+  – kick-off/start time not yet published\nSource: https://www.skysports
+ .com/football/news/13468517/euro-2028-dates-venues-host-cities-format-and
+ -schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalendar
+  last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:21cbda046c36de30fd2c@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280612
+DTEND;VALUE=DATE:20280613
+SUMMARY:⚽ Republic of Ireland (E1\, if qualified) v Group E slot E2 (UEF
+ A Euro 2028\, Match 8 – Group E) · time TBC
+LOCATION:Aviva Stadium (Dublin Arena)\, Dublin\, Ireland
+DESCRIPTION:UEFA Euro 2028 – Match 8 – Group E\nStatus: Date confirmed
+  – kick-off/start time not yet published\nSource: https://www.skysports
+ .com/football/news/13468517/euro-2028-dates-venues-host-cities-format-and
+ -schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalendar
+  last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:35b34f82790bd0235511@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280612
+DTEND;VALUE=DATE:20280613
+SUMMARY:⚽ Group E slot E3 v Group E slot E4 (UEFA Euro 2028\, Match 9 
+ – Group E) · time TBC
+LOCATION:St James' Park\, Newcastle upon Tyne\, England
+DESCRIPTION:UEFA Euro 2028 – Match 9 – Group E\nStatus: Date confirmed
+  – kick-off/start time not yet published\nSource: https://www.skysports
+ .com/football/news/13468517/euro-2028-dates-venues-host-cities-format-and
+ -schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalendar
+  last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:167c8d06eb9669c7b50a@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280612
+DTEND;VALUE=DATE:20280613
+SUMMARY:⚽ Group D slot D1 v Group D slot D2 (UEFA Euro 2028\, Match 10 
+ – Group D) · time TBC
+LOCATION:Tottenham Hotspur Stadium\, London\, England
+DESCRIPTION:UEFA Euro 2028 – Match 10 – Group D\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.skysport
+ s.com/football/news/13468517/euro-2028-dates-venues-host-cities-format-an
+ d-schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalenda
+ r last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e414589219588163b2cc@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280613
+DTEND;VALUE=DATE:20280614
+SUMMARY:⚽ Scotland (F1\, if qualified) v Group F slot F2 (UEFA Euro 2028
+ \, Match 11 – Group F) · time TBC
+LOCATION:Hampden Park\, Glasgow\, Scotland
+DESCRIPTION:UEFA Euro 2028 – Match 11 – Group F\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.skysport
+ s.com/football/news/13468517/euro-2028-dates-venues-host-cities-format-an
+ d-schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalenda
+ r last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:16726fff5309eef8c509@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280613
+DTEND;VALUE=DATE:20280614
+SUMMARY:⚽ Group F slot F3 v Group F slot F4 (UEFA Euro 2028\, Match 12 
+ – Group F) · time TBC
+LOCATION:Etihad Stadium (City of Manchester Stadium)\, Manchester\, Englan
+ d
+DESCRIPTION:UEFA Euro 2028 – Match 12 – Group F\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.skysport
+ s.com/football/news/13468517/euro-2028-dates-venues-host-cities-format-an
+ d-schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalenda
+ r last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:faa70b4c860eaab861e9@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280614
+DTEND;VALUE=DATE:20280615
+SUMMARY:⚽ Wales (A1\, if qualified) v Group A slot A3 (UEFA Euro 2028\, 
+ Match 13 – Group A) · time TBC
+LOCATION:Principality Stadium (National Stadium of Wales)\, Cardiff\, Wale
+ s
+DESCRIPTION:UEFA Euro 2028 – Match 13 – Group A\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.skysport
+ s.com/football/news/13468517/euro-2028-dates-venues-host-cities-format-an
+ d-schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalenda
+ r last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8e499122da414611ba22@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280614
+DTEND;VALUE=DATE:20280615
+SUMMARY:⚽ Group A slot A2 v Group A slot A4 (UEFA Euro 2028\, Match 14 
+ – Group A) · time TBC
+LOCATION:Hill Dickinson Stadium (Everton Stadium)\, Liverpool\, England
+DESCRIPTION:UEFA Euro 2028 – Match 14 – Group A\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.skysport
+ s.com/football/news/13468517/euro-2028-dates-venues-host-cities-format-an
+ d-schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalenda
+ r last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f6346edb56a490c607a7@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280614
+DTEND;VALUE=DATE:20280615
+SUMMARY:⚽ England (B1\, if qualified) v Group B slot B3 (UEFA Euro 2028\
+ , Match 15 – Group B) · time TBC
+LOCATION:Wembley Stadium\, London\, England
+DESCRIPTION:UEFA Euro 2028 – Match 15 – Group B\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.skysport
+ s.com/football/news/13468517/euro-2028-dates-venues-host-cities-format-an
+ d-schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalenda
+ r last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ddeb8944ed07a438b862@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:⚽ Group C slot C2 v Group C slot C4 (UEFA Euro 2028\, Match 16 
+ – Group C) · time TBC
+LOCATION:St James' Park\, Newcastle upon Tyne\, England
+DESCRIPTION:UEFA Euro 2028 – Match 16 – Group C\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.skysport
+ s.com/football/news/13468517/euro-2028-dates-venues-host-cities-format-an
+ d-schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalenda
+ r last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:571ff29c52c3dd53e15d@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:⚽ Group B slot B2 v Group B slot B4 (UEFA Euro 2028\, Match 17 
+ – Group B) · time TBC
+LOCATION:Villa Park\, Birmingham\, England
+DESCRIPTION:UEFA Euro 2028 – Match 17 – Group B\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.skysport
+ s.com/football/news/13468517/euro-2028-dates-venues-host-cities-format-an
+ d-schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalenda
+ r last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a1f0d84cfdc1ba2e8187@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:⚽ Group C slot C1 v Group C slot C3 (UEFA Euro 2028\, Match 18 
+ – Group C) · time TBC
+LOCATION:Tottenham Hotspur Stadium\, London\, England
+DESCRIPTION:UEFA Euro 2028 – Match 18 – Group C\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.skysport
+ s.com/football/news/13468517/euro-2028-dates-venues-host-cities-format-an
+ d-schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalenda
+ r last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f26f63d70962251d248e@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280616
+DTEND;VALUE=DATE:20280617
+SUMMARY:⚽ Republic of Ireland (E1\, if qualified) v Group E slot E3 (UEF
+ A Euro 2028\, Match 19 – Group E) · time TBC
+LOCATION:Aviva Stadium (Dublin Arena)\, Dublin\, Ireland
+DESCRIPTION:UEFA Euro 2028 – Match 19 – Group E\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.skysport
+ s.com/football/news/13468517/euro-2028-dates-venues-host-cities-format-an
+ d-schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalenda
+ r last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:44ce8754298a0b550cbc@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280616
+DTEND;VALUE=DATE:20280617
+SUMMARY:⚽ Group D slot D2 v Group D slot D4 (UEFA Euro 2028\, Match 20 
+ – Group D) · time TBC
+LOCATION:Etihad Stadium (City of Manchester Stadium)\, Manchester\, Englan
+ d
+DESCRIPTION:UEFA Euro 2028 – Match 20 – Group D\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.skysport
+ s.com/football/news/13468517/euro-2028-dates-venues-host-cities-format-an
+ d-schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalenda
+ r last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6ba26ac9a768be8243ab@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280616
+DTEND;VALUE=DATE:20280617
+SUMMARY:⚽ Group D slot D1 v Group D slot D3 (UEFA Euro 2028\, Match 21 
+ – Group D) · time TBC
+LOCATION:Wembley Stadium\, London\, England
+DESCRIPTION:UEFA Euro 2028 – Match 21 – Group D\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.skysport
+ s.com/football/news/13468517/euro-2028-dates-venues-host-cities-format-an
+ d-schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalenda
+ r last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d3ae604669cb59e47859@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280617
+DTEND;VALUE=DATE:20280618
+SUMMARY:⚽ Scotland (F1\, if qualified) v Group F slot F3 (UEFA Euro 2028
+ \, Match 22 – Group F) · time TBC
+LOCATION:Hampden Park\, Glasgow\, Scotland
+DESCRIPTION:UEFA Euro 2028 – Match 22 – Group F\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.skysport
+ s.com/football/news/13468517/euro-2028-dates-venues-host-cities-format-an
+ d-schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalenda
+ r last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:87359c1a3772cd66751b@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280617
+DTEND;VALUE=DATE:20280618
+SUMMARY:⚽ Group F slot F2 v Group F slot F4 (UEFA Euro 2028\, Match 23 
+ – Group F) · time TBC
+LOCATION:St James' Park\, Newcastle upon Tyne\, England
+DESCRIPTION:UEFA Euro 2028 – Match 23 – Group F\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.skysport
+ s.com/football/news/13468517/euro-2028-dates-venues-host-cities-format-an
+ d-schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalenda
+ r last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:900bcecd173c6911659e@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280617
+DTEND;VALUE=DATE:20280618
+SUMMARY:⚽ Group E slot E2 v Group E slot E4 (UEFA Euro 2028\, Match 24 
+ – Group E) · time TBC
+LOCATION:Hill Dickinson Stadium (Everton Stadium)\, Liverpool\, England
+DESCRIPTION:UEFA Euro 2028 – Match 24 – Group E\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.skysport
+ s.com/football/news/13468517/euro-2028-dates-venues-host-cities-format-an
+ d-schedule-for-united-kingdom-and-republic-of-ireland-tournament\nCalenda
+ r last rebuilt: 20261104
+URL:https://www.skysports.com/football/news/13468517/euro-2028-dates-venue
+ s-host-cities-format-and-schedule-for-united-kingdom-and-republic-of-irel
+ and-tournament
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6e4a13971c362bb7ef9b@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280618
+DTEND;VALUE=DATE:20280619
+SUMMARY:⚽ Group A slot A4 v Wales (A1\, if qualified) (UEFA Euro 2028\, 
+ Match 25 – Group A) · time TBC
+LOCATION:Principality Stadium (National Stadium of Wales)\, Cardiff\, Wale
+ s
+DESCRIPTION:UEFA Euro 2028 – Match 25 – Group A\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.soccergr
+ aph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-resul
+ ts.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:181b71ffa617d711f789@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280618
+DTEND;VALUE=DATE:20280619
+SUMMARY:⚽ Group A slot A2 v Group A slot A3 (UEFA Euro 2028\, Match 26 
+ – Group A) · time TBC
+LOCATION:Tottenham Hotspur Stadium\, London\, England
+DESCRIPTION:UEFA Euro 2028 – Match 26 – Group A\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.soccergr
+ aph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-resul
+ ts.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:02672168478e4433e6d3@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280619
+DTEND;VALUE=DATE:20280620
+SUMMARY:⚽ Group B slot B2 v Group B slot B3 (UEFA Euro 2028\, Match 27 
+ – Group B) · time TBC
+LOCATION:Aviva Stadium (Dublin Arena)\, Dublin\, Ireland
+DESCRIPTION:UEFA Euro 2028 – Match 27 – Group B\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.soccergr
+ aph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-resul
+ ts.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:307d772af6bcbd314f40@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280619
+DTEND;VALUE=DATE:20280620
+SUMMARY:⚽ Group B slot B4 v England (B1\, if qualified) (UEFA Euro 2028\
+ , Match 28 – Group B) · time TBC
+LOCATION:Wembley Stadium\, London\, England
+DESCRIPTION:UEFA Euro 2028 – Match 28 – Group B\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.soccergr
+ aph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-resul
+ ts.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bffa3a99661520f64b41@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280620
+DTEND;VALUE=DATE:20280621
+SUMMARY:⚽ Group D slot D2 v Group D slot D3 (UEFA Euro 2028\, Match 29 
+ – Group D) · time TBC
+LOCATION:St James' Park\, Newcastle upon Tyne\, England
+DESCRIPTION:UEFA Euro 2028 – Match 29 – Group D\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.soccergr
+ aph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-resul
+ ts.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f7522023412c5b83feee@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280620
+DTEND;VALUE=DATE:20280621
+SUMMARY:⚽ Group C slot C4 v Group C slot C1 (UEFA Euro 2028\, Match 30 
+ – Group C) · time TBC
+LOCATION:Etihad Stadium (City of Manchester Stadium)\, Manchester\, Englan
+ d
+DESCRIPTION:UEFA Euro 2028 – Match 30 – Group C\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.soccergr
+ aph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-resul
+ ts.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:93630d6fbe398f716b0c@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280620
+DTEND;VALUE=DATE:20280621
+SUMMARY:⚽ Group C slot C2 v Group C slot C3 (UEFA Euro 2028\, Match 31 
+ – Group C) · time TBC
+LOCATION:Hill Dickinson Stadium (Everton Stadium)\, Liverpool\, England
+DESCRIPTION:UEFA Euro 2028 – Match 31 – Group C\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.soccergr
+ aph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-resul
+ ts.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6bc923c940cfdab3c7f5@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280620
+DTEND;VALUE=DATE:20280621
+SUMMARY:⚽ Group D slot D4 v Group D slot D1 (UEFA Euro 2028\, Match 32 
+ – Group D) · time TBC
+LOCATION:Villa Park\, Birmingham\, England
+DESCRIPTION:UEFA Euro 2028 – Match 32 – Group D\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.soccergr
+ aph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-resul
+ ts.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f77a8eae963f02c89012@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280621
+DTEND;VALUE=DATE:20280622
+SUMMARY:⚽ Group F slot F2 v Group F slot F3 (UEFA Euro 2028\, Match 33 
+ – Group F) · time TBC
+LOCATION:Principality Stadium (National Stadium of Wales)\, Cardiff\, Wale
+ s
+DESCRIPTION:UEFA Euro 2028 – Match 33 – Group F\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.soccergr
+ aph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-resul
+ ts.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce03707f79f861712497@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280621
+DTEND;VALUE=DATE:20280622
+SUMMARY:⚽ Group E slot E4 v Republic of Ireland (E1\, if qualified) (UEF
+ A Euro 2028\, Match 34 – Group E) · time TBC
+LOCATION:Aviva Stadium (Dublin Arena)\, Dublin\, Ireland
+DESCRIPTION:UEFA Euro 2028 – Match 34 – Group E\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.soccergr
+ aph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-resul
+ ts.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:45e39a1c7e4e700b795f@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280621
+DTEND;VALUE=DATE:20280622
+SUMMARY:⚽ Group F slot F4 v Scotland (F1\, if qualified) (UEFA Euro 2028
+ \, Match 35 – Group F) · time TBC
+LOCATION:Hampden Park\, Glasgow\, Scotland
+DESCRIPTION:UEFA Euro 2028 – Match 35 – Group F\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.soccergr
+ aph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-resul
+ ts.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fde8416646fba850cf76@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280621
+DTEND;VALUE=DATE:20280622
+SUMMARY:⚽ Group E slot E2 v Group E slot E3 (UEFA Euro 2028\, Match 36 
+ – Group E) · time TBC
+LOCATION:Tottenham Hotspur Stadium\, London\, England
+DESCRIPTION:UEFA Euro 2028 – Match 36 – Group E\nStatus: Date confirme
+ d – kick-off/start time not yet published\nSource: https://www.soccergr
+ aph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-resul
+ ts.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:db22da312b05d7a36b1c@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280624
+DTEND;VALUE=DATE:20280625
+SUMMARY:⚽ Winner Group A v Runner-up Group C (UEFA Euro 2028\, Match 37 
+ – Round of 16) · time TBC
+LOCATION:Principality Stadium (National Stadium of Wales)\, Cardiff\, Wale
+ s
+DESCRIPTION:UEFA Euro 2028 – Match 37 – Round of 16\nStatus: Date conf
+ irmed – kick-off/start time not yet published\nSource: https://www.socc
+ ergraph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-r
+ esults.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d83074ad38019370310c@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280624
+DTEND;VALUE=DATE:20280625
+SUMMARY:⚽ Runner-up Group A v Runner-up Group B (UEFA Euro 2028\, Match 
+ 38 – Round of 16) · time TBC
+LOCATION:Hill Dickinson Stadium (Everton Stadium)\, Liverpool\, England
+DESCRIPTION:UEFA Euro 2028 – Match 38 – Round of 16\nStatus: Date conf
+ irmed – kick-off/start time not yet published\nSource: https://www.socc
+ ergraph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-r
+ esults.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:da643d4c4586e9cfcc59@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280625
+DTEND;VALUE=DATE:20280626
+SUMMARY:⚽ Winner Group B v 3rd Group A/D/E/F (UEFA Euro 2028\, Match 39 
+ – Round of 16) · time TBC
+LOCATION:St James' Park\, Newcastle upon Tyne\, England
+DESCRIPTION:UEFA Euro 2028 – Match 39 – Round of 16\nStatus: Date conf
+ irmed – kick-off/start time not yet published\nSource: https://www.socc
+ ergraph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-r
+ esults.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0eef695047808be60c5a@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280625
+DTEND;VALUE=DATE:20280626
+SUMMARY:⚽ Winner Group C v 3rd Group D/E/F (UEFA Euro 2028\, Match 40 
+ – Round of 16) · time TBC
+LOCATION:Etihad Stadium (City of Manchester Stadium)\, Manchester\, Englan
+ d
+DESCRIPTION:UEFA Euro 2028 – Match 40 – Round of 16\nStatus: Date conf
+ irmed – kick-off/start time not yet published\nSource: https://www.socc
+ ergraph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-r
+ esults.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6c55dae8c866cc3d3991@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280626
+DTEND;VALUE=DATE:20280627
+SUMMARY:⚽ Winner Group F v 3rd Group A/B/C (UEFA Euro 2028\, Match 41 
+ – Round of 16) · time TBC
+LOCATION:Hampden Park\, Glasgow\, Scotland
+DESCRIPTION:UEFA Euro 2028 – Match 41 – Round of 16\nStatus: Date conf
+ irmed – kick-off/start time not yet published\nSource: https://www.socc
+ ergraph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-r
+ esults.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5ed3b96bed0ffbfbd0bd@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280626
+DTEND;VALUE=DATE:20280627
+SUMMARY:⚽ Runner-up Group D v Runner-up Group E (UEFA Euro 2028\, Match 
+ 42 – Round of 16) · time TBC
+LOCATION:Tottenham Hotspur Stadium\, London\, England
+DESCRIPTION:UEFA Euro 2028 – Match 42 – Round of 16\nStatus: Date conf
+ irmed – kick-off/start time not yet published\nSource: https://www.socc
+ ergraph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-r
+ esults.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae9ea3788ba9222d139a@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280627
+DTEND;VALUE=DATE:20280628
+SUMMARY:⚽ Winner Group E v 3rd Group A/B/C/D (UEFA Euro 2028\, Match 43 
+ – Round of 16) · time TBC
+LOCATION:Aviva Stadium (Dublin Arena)\, Dublin\, Ireland
+DESCRIPTION:UEFA Euro 2028 – Match 43 – Round of 16\nStatus: Date conf
+ irmed – kick-off/start time not yet published\nSource: https://www.socc
+ ergraph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-r
+ esults.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:51e4012d79e75f2b7099@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280627
+DTEND;VALUE=DATE:20280628
+SUMMARY:⚽ Winner Group D v Runner-up Group F (UEFA Euro 2028\, Match 44 
+ – Round of 16) · time TBC
+LOCATION:Villa Park\, Birmingham\, England
+DESCRIPTION:UEFA Euro 2028 – Match 44 – Round of 16\nStatus: Date conf
+ irmed – kick-off/start time not yet published\nSource: https://www.socc
+ ergraph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-r
+ esults.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b602ace64d4dd342ecc5@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:⚽ Winner Match 39 v Winner Match 37 (UEFA Euro 2028\, Match 45 
+ – Quarter-final) · time TBC
+LOCATION:Wembley Stadium\, London\, England
+DESCRIPTION:UEFA Euro 2028 – Match 45 – Quarter-final\nStatus: Date co
+ nfirmed – kick-off/start time not yet published\nSource: https://www.so
+ ccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule
+ -results.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dd8a391c92a8c0c28946@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:⚽ Winner Match 41 v Winner Match 42 (UEFA Euro 2028\, Match 46 
+ – Quarter-final) · time TBC
+LOCATION:Aviva Stadium (Dublin Arena)\, Dublin\, Ireland
+DESCRIPTION:UEFA Euro 2028 – Match 46 – Quarter-final\nStatus: Date co
+ nfirmed – kick-off/start time not yet published\nSource: https://www.so
+ ccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule
+ -results.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9f434099f29bd6295860@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280702
+SUMMARY:⚽ Winner Match 44 v Winner Match 43 (UEFA Euro 2028\, Match 47 
+ – Quarter-final) · time TBC
+LOCATION:Hampden Park\, Glasgow\, Scotland
+DESCRIPTION:UEFA Euro 2028 – Match 47 – Quarter-final\nStatus: Date co
+ nfirmed – kick-off/start time not yet published\nSource: https://www.so
+ ccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule
+ -results.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f4d0f76be014bf914cb@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280701
+DTEND;VALUE=DATE:20280702
+SUMMARY:⚽ Winner Match 40 v Winner Match 38 (UEFA Euro 2028\, Match 48 
+ – Quarter-final) · time TBC
+LOCATION:Principality Stadium (National Stadium of Wales)\, Cardiff\, Wale
+ s
+DESCRIPTION:UEFA Euro 2028 – Match 48 – Quarter-final\nStatus: Date co
+ nfirmed – kick-off/start time not yet published\nSource: https://www.so
+ ccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule
+ -results.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3947acb548a6fba653ff@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280704
+DTEND;VALUE=DATE:20280705
+SUMMARY:⚽ Winner Match 45 v Winner Match 46 (UEFA Euro 2028\, Match 49 
+ – Semi-final) · time TBC
+LOCATION:Wembley Stadium\, London\, England
+DESCRIPTION:UEFA Euro 2028 – Match 49 – Semi-final\nStatus: Date confi
+ rmed – kick-off/start time not yet published\nSource: https://www.socce
+ rgraph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-re
+ sults.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e3e48ec2266bef7d0879@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;VALUE=DATE:20280705
+DTEND;VALUE=DATE:20280706
+SUMMARY:⚽ Winner Match 47 v Winner Match 48 (UEFA Euro 2028\, Match 50 
+ – Semi-final) · time TBC
+LOCATION:Wembley Stadium\, London\, England
+DESCRIPTION:UEFA Euro 2028 – Match 50 – Semi-final\nStatus: Date confi
+ rmed – kick-off/start time not yet published\nSource: https://www.socce
+ rgraph.com/2026/06/uefa-euro-2028-fixtures-dates-times-venues-schedule-re
+ sults.html\nCalendar last rebuilt: 20261104
+URL:https://www.soccergraph.com/2026/06/uefa-euro-2028-fixtures-dates-time
+ s-venues-schedule-results.html
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:de629eea488ba289dc6e@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20280709T170000
+DTEND;TZID=Europe/London:20280709T190000
+SUMMARY:⚽ Winner Match 49 v Winner Match 50 (UEFA Euro 2028\, Match 51 
+ – Final)
+LOCATION:Wembley Stadium\, London\, England
+DESCRIPTION:UEFA Euro 2028 – Match 51 – Final\nStatus: Confirmed\nStar
+ t: 17:00 UK time\nSource: https://www.uefa.com/euro2028/news/028f-1b599fe
+ 02d18-0c758142f5e4-1000--euro-2028-all-you-need-to-know/\nCalendar last r
+ ebuilt: 20261104
+URL:https://www.uefa.com/euro2028/news/028f-1b599fe02d18-0c758142f5e4-1000
+ --euro-2028-all-you-need-to-know/
+CATEGORIES:Football\,Football
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

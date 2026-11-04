@@ -1,0 +1,378 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//JP Sport//Fixture Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:JP Sport – Six Nations
+X-WR-TIMEZONE:Europe/London
+X-APPLE-CALENDAR-COLOR:#1D428A
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d5aa91cf91bea44b3029@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270206T141000
+DTEND;TZID=Europe/London:20270206T161000
+SUMMARY:🏉 Scotland v Italy (Guinness Six Nations 2027\, Round 1)
+LOCATION:Scottish Gas Murrayfield\, Edinburgh\, Scotland
+DESCRIPTION:Guinness Six Nations 2027 – Round 1\nStatus: Confirmed\nStar
+ t: 14:10 UK time\nSource: https://www.irishrugby.ie/2026/03/09/guinness-m
+ ens-six-nations-fixtures-confirmed-for-2027\nCalendar last rebuilt: 20261
+ 104
+URL:https://www.irishrugby.ie/2026/03/09/guinness-mens-six-nations-fixture
+ s-confirmed-for-2027
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d4a4c3bed07980e87880@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270206T164000
+DTEND;TZID=Europe/London:20270206T184000
+SUMMARY:🏉 France v Wales (Guinness Six Nations 2027\, Round 1)
+LOCATION:Stade de France\, Saint-Denis\, France
+DESCRIPTION:Guinness Six Nations 2027 – Round 1\nStatus: Confirmed\nStar
+ t: 16:40 UK time\nSource: https://www.irishrugby.ie/2026/03/09/guinness-m
+ ens-six-nations-fixtures-confirmed-for-2027\nCalendar last rebuilt: 20261
+ 104
+URL:https://www.irishrugby.ie/2026/03/09/guinness-mens-six-nations-fixture
+ s-confirmed-for-2027
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bed028386030485d3f38@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270213T141000
+DTEND;TZID=Europe/London:20270213T161000
+SUMMARY:🏉 Italy v Ireland (Guinness Six Nations 2027\, Round 2)
+LOCATION:Stadio Olimpico\, Rome\, Italy
+DESCRIPTION:Guinness Six Nations 2027 – Round 2\nStatus: Confirmed\nStar
+ t: 14:10 UK time\nSource: https://www.irishrugby.ie/2026/03/09/guinness-m
+ ens-six-nations-fixtures-confirmed-for-2027\nCalendar last rebuilt: 20261
+ 104
+URL:https://www.irishrugby.ie/2026/03/09/guinness-mens-six-nations-fixture
+ s-confirmed-for-2027
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:50eabb06b3561d7fda60@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270213T164000
+DTEND;TZID=Europe/London:20270213T184000
+SUMMARY:🏉 Scotland v Wales (Guinness Six Nations 2027\, Round 2)
+LOCATION:Scottish Gas Murrayfield\, Edinburgh\, Scotland
+DESCRIPTION:Guinness Six Nations 2027 – Round 2\nStatus: Confirmed\nStar
+ t: 16:40 UK time\nSource: https://www.irishrugby.ie/2026/03/09/guinness-m
+ ens-six-nations-fixtures-confirmed-for-2027\nCalendar last rebuilt: 20261
+ 104
+URL:https://www.irishrugby.ie/2026/03/09/guinness-mens-six-nations-fixture
+ s-confirmed-for-2027
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:378a6aa364c991f0de74@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270220T141000
+DTEND;TZID=Europe/London:20270220T161000
+SUMMARY:🏉 Wales v Ireland (Guinness Six Nations 2027\, Round 3)
+LOCATION:Principality Stadium\, Cardiff\, Wales
+DESCRIPTION:Guinness Six Nations 2027 – Round 3\nStatus: Confirmed\nStar
+ t: 14:10 UK time\nSource: https://www.irishrugby.ie/2026/03/09/guinness-m
+ ens-six-nations-fixtures-confirmed-for-2027\nCalendar last rebuilt: 20261
+ 104
+URL:https://www.irishrugby.ie/2026/03/09/guinness-mens-six-nations-fixture
+ s-confirmed-for-2027
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:25336619d3f807625666@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270221T151000
+DTEND;TZID=Europe/London:20270221T171000
+SUMMARY:🏉 France v Scotland (Guinness Six Nations 2027\, Round 3)
+LOCATION:Stade de France\, Saint-Denis\, France
+DESCRIPTION:Guinness Six Nations 2027 – Round 3\nStatus: Confirmed\nStar
+ t: 15:10 UK time\nSource: https://www.irishrugby.ie/2026/03/09/guinness-m
+ ens-six-nations-fixtures-confirmed-for-2027\nCalendar last rebuilt: 20261
+ 104
+URL:https://www.irishrugby.ie/2026/03/09/guinness-mens-six-nations-fixture
+ s-confirmed-for-2027
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e6589685c5f51e5b9e42@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270305T201000
+DTEND;TZID=Europe/London:20270305T221000
+SUMMARY:🏉 Scotland v Ireland (Guinness Six Nations 2027\, Round 4)
+LOCATION:Scottish Gas Murrayfield\, Edinburgh\, Scotland
+DESCRIPTION:Guinness Six Nations 2027 – Round 4\nStatus: Confirmed\nStar
+ t: 20:10 UK time\nSource: https://www.irishrugby.ie/2026/03/09/guinness-m
+ ens-six-nations-fixtures-confirmed-for-2027\nCalendar last rebuilt: 20261
+ 104
+URL:https://www.irishrugby.ie/2026/03/09/guinness-mens-six-nations-fixture
+ s-confirmed-for-2027
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:742ae48a4cf8dc8ff9ec@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270306T141000
+DTEND;TZID=Europe/London:20270306T161000
+SUMMARY:🏉 Italy v France (Guinness Six Nations 2027\, Round 4)
+LOCATION:Stadio Olimpico\, Rome\, Italy
+DESCRIPTION:Guinness Six Nations 2027 – Round 4\nStatus: Confirmed\nStar
+ t: 14:10 UK time\nSource: https://www.irishrugby.ie/2026/03/09/guinness-m
+ ens-six-nations-fixtures-confirmed-for-2027\nCalendar last rebuilt: 20261
+ 104
+URL:https://www.irishrugby.ie/2026/03/09/guinness-mens-six-nations-fixture
+ s-confirmed-for-2027
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cff664834bf722f16ca1@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270313T141000
+DTEND;TZID=Europe/London:20270313T161000
+SUMMARY:🏉 Italy v Wales (Guinness Six Nations 2027\, Round 5)
+LOCATION:Stadio Olimpico\, Rome\, Italy
+DESCRIPTION:Guinness Six Nations 2027 – Round 5\nStatus: Confirmed\nStar
+ t: 14:10 UK time\nSource: https://www.irishrugby.ie/2026/03/09/guinness-m
+ ens-six-nations-fixtures-confirmed-for-2027\nCalendar last rebuilt: 20261
+ 104
+URL:https://www.irishrugby.ie/2026/03/09/guinness-mens-six-nations-fixture
+ s-confirmed-for-2027
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9b0a90249aab4d2501f4@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270313T201000
+DTEND;TZID=Europe/London:20270313T221000
+SUMMARY:🏉 Ireland v France (Guinness Six Nations 2027\, Round 5)
+LOCATION:Aviva Stadium\, Dublin\, Ireland
+DESCRIPTION:Guinness Six Nations 2027 – Round 5\nStatus: Confirmed\nStar
+ t: 20:10 UK time\nSource: https://www.irishrugby.ie/2026/03/09/guinness-m
+ ens-six-nations-fixtures-confirmed-for-2027\nCalendar last rebuilt: 20261
+ 104
+URL:https://www.irishrugby.ie/2026/03/09/guinness-mens-six-nations-fixture
+ s-confirmed-for-2027
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2bd4a52c73e92b152a39@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270410T123000
+DTEND;TZID=Europe/London:20270410T143000
+SUMMARY:🏉 Italy v France (Guinness Women's Six Nations 2027\, Round 1)
+LOCATION:Stadio Sergio Lanfranchi\, Parma\, Italy
+DESCRIPTION:Guinness Women's Six Nations 2027 – Round 1\nStatus: Confirm
+ ed\nStart: 12:30 UK time\nSource: https://www.sixnationsrugby.com/en/w6n/
+ news/five-rounds-of-super-saturdays-confirmed-for-2027-guinness-womens-si
+ x-nations\nCalendar last rebuilt: 20261104
+URL:https://www.sixnationsrugby.com/en/w6n/news/five-rounds-of-super-satur
+ days-confirmed-for-2027-guinness-womens-six-nations
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6af7923e9cbb81102a51@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270410T170000
+DTEND;TZID=Europe/London:20270410T190000
+SUMMARY:🏉 Scotland v Ireland (Guinness Women's Six Nations 2027\, Round
+  1)
+LOCATION:Scottish Gas Murrayfield\, Edinburgh\, Scotland
+DESCRIPTION:Guinness Women's Six Nations 2027 – Round 1\nStatus: Confirm
+ ed\nStart: 17:00 UK time\nSource: https://www.sixnationsrugby.com/en/w6n/
+ news/five-rounds-of-super-saturdays-confirmed-for-2027-guinness-womens-si
+ x-nations\nCalendar last rebuilt: 20261104
+URL:https://www.sixnationsrugby.com/en/w6n/news/five-rounds-of-super-satur
+ days-confirmed-for-2027-guinness-womens-six-nations
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4065ce649c71f202d912@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270417T121500
+DTEND;TZID=Europe/London:20270417T141500
+SUMMARY:🏉 Italy v Wales (Guinness Women's Six Nations 2027\, Round 2)
+LOCATION:Stadio Sergio Lanfranchi\, Parma\, Italy
+DESCRIPTION:Guinness Women's Six Nations 2027 – Round 2\nStatus: Confirm
+ ed\nStart: 12:15 UK time\nSource: https://www.sixnationsrugby.com/en/w6n/
+ news/five-rounds-of-super-saturdays-confirmed-for-2027-guinness-womens-si
+ x-nations\nCalendar last rebuilt: 20261104
+URL:https://www.sixnationsrugby.com/en/w6n/news/five-rounds-of-super-satur
+ days-confirmed-for-2027-guinness-womens-six-nations
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:43379148206d6f4d6e69@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270417T143000
+DTEND;TZID=Europe/London:20270417T163000
+SUMMARY:🏉 Ireland v France (Guinness Women's Six Nations 2027\, Round 2
+ )
+LOCATION:Dexcom Stadium\, Galway\, Ireland
+DESCRIPTION:Guinness Women's Six Nations 2027 – Round 2\nStatus: Confirm
+ ed\nStart: 14:30 UK time\nSource: https://www.sixnationsrugby.com/en/w6n/
+ news/five-rounds-of-super-saturdays-confirmed-for-2027-guinness-womens-si
+ x-nations\nCalendar last rebuilt: 20261104
+URL:https://www.sixnationsrugby.com/en/w6n/news/five-rounds-of-super-satur
+ days-confirmed-for-2027-guinness-womens-six-nations
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e59c03350b4360aaeb72@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270424T123000
+DTEND;TZID=Europe/London:20270424T143000
+SUMMARY:🏉 Wales v Ireland (Guinness Women's Six Nations 2027\, Round 3)
+LOCATION:Cardiff Arms Park\, Cardiff\, Wales
+DESCRIPTION:Guinness Women's Six Nations 2027 – Round 3\nStatus: Confirm
+ ed\nStart: 12:30 UK time\nSource: https://www.sixnationsrugby.com/en/w6n/
+ news/five-rounds-of-super-saturdays-confirmed-for-2027-guinness-womens-si
+ x-nations\nCalendar last rebuilt: 20261104
+URL:https://www.sixnationsrugby.com/en/w6n/news/five-rounds-of-super-satur
+ days-confirmed-for-2027-guinness-womens-six-nations
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a6b8755b03c983cd637b@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270424T144500
+DTEND;TZID=Europe/London:20270424T164500
+SUMMARY:🏉 France v Scotland (Guinness Women's Six Nations 2027\, Round 
+ 3)
+LOCATION:France
+DESCRIPTION:Guinness Women's Six Nations 2027 – Round 3\nStatus: Confirm
+ ed\nStart: 14:45 UK time\nNote: Venue not yet announced by FFR/Six Nation
+ s\; local press (ici.fr) reports France's two home games will be in Burgu
+ ndy and Lorraine – match allocation unconfirmed.\nSource: https://www.s
+ ixnationsrugby.com/en/w6n/news/five-rounds-of-super-saturdays-confirmed-f
+ or-2027-guinness-womens-six-nations\nCalendar last rebuilt: 20261104
+URL:https://www.sixnationsrugby.com/en/w6n/news/five-rounds-of-super-satur
+ days-confirmed-for-2027-guinness-womens-six-nations
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1fdfacdfaf15cf971dc8@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270508T123000
+DTEND;TZID=Europe/London:20270508T143000
+SUMMARY:🏉 France v Wales (Guinness Women's Six Nations 2027\, Round 4)
+LOCATION:France
+DESCRIPTION:Guinness Women's Six Nations 2027 – Round 4\nStatus: Confirm
+ ed\nStart: 12:30 UK time\nNote: Venue not yet announced by FFR/Six Nation
+ s\; local press (ici.fr) reports France's two home games will be in Burgu
+ ndy and Lorraine – match allocation unconfirmed.\nSource: https://www.s
+ ixnationsrugby.com/en/w6n/news/five-rounds-of-super-saturdays-confirmed-f
+ or-2027-guinness-womens-six-nations\nCalendar last rebuilt: 20261104
+URL:https://www.sixnationsrugby.com/en/w6n/news/five-rounds-of-super-satur
+ days-confirmed-for-2027-guinness-womens-six-nations
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e1a54b3fd7f465c6a334@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270508T170000
+DTEND;TZID=Europe/London:20270508T190000
+SUMMARY:🏉 Scotland v Italy (Guinness Women's Six Nations 2027\, Round 4
+ )
+LOCATION:Hive Stadium\, Edinburgh\, Scotland
+DESCRIPTION:Guinness Women's Six Nations 2027 – Round 4\nStatus: Confirm
+ ed\nStart: 17:00 UK time\nSource: https://www.sixnationsrugby.com/en/w6n/
+ news/five-rounds-of-super-saturdays-confirmed-for-2027-guinness-womens-si
+ x-nations\nCalendar last rebuilt: 20261104
+URL:https://www.sixnationsrugby.com/en/w6n/news/five-rounds-of-super-satur
+ days-confirmed-for-2027-guinness-womens-six-nations
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fa71309e20519d3b7431@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270515T121500
+DTEND;TZID=Europe/London:20270515T141500
+SUMMARY:🏉 Italy v Ireland (Guinness Women's Six Nations 2027\, Round 5)
+LOCATION:Stadio Sergio Lanfranchi\, Parma\, Italy
+DESCRIPTION:Guinness Women's Six Nations 2027 – Round 5\nStatus: Confirm
+ ed\nStart: 12:15 UK time\nSource: https://www.sixnationsrugby.com/en/w6n/
+ news/five-rounds-of-super-saturdays-confirmed-for-2027-guinness-womens-si
+ x-nations\nCalendar last rebuilt: 20261104
+URL:https://www.sixnationsrugby.com/en/w6n/news/five-rounds-of-super-satur
+ days-confirmed-for-2027-guinness-womens-six-nations
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0735e9320abf5555eb87@jp-sport-calendar
+DTSTAMP:20261104T121505Z
+DTSTART;TZID=Europe/London:20270515T143000
+DTEND;TZID=Europe/London:20270515T163000
+SUMMARY:🏉 Scotland v Wales (Guinness Women's Six Nations 2027\, Round 5
+ )
+LOCATION:Hive Stadium\, Edinburgh\, Scotland
+DESCRIPTION:Guinness Women's Six Nations 2027 – Round 5\nStatus: Confirm
+ ed\nStart: 14:30 UK time\nSource: https://www.sixnationsrugby.com/en/w6n/
+ news/five-rounds-of-super-saturdays-confirmed-for-2027-guinness-womens-si
+ x-nations\nCalendar last rebuilt: 20261104
+URL:https://www.sixnationsrugby.com/en/w6n/news/five-rounds-of-super-satur
+ days-confirmed-for-2027-guinness-womens-six-nations
+CATEGORIES:Rugby\,Six Nations
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
